@@ -1,0 +1,3114 @@
+"County,State",MedIncome,Population,Value,Numatms,Numbanks,custCount
+"Autauga,Alabama",41618,54571.0,224900.0,,,1.0
+"Baldwin,Alabama",45596,182265.0,310000.0,,,5.0
+"Barbour,Alabama",35199,27457.0,169500.0,,,
+"Bibb,Alabama",30254,22915.0,188700.0,,,
+"Blount,Alabama",34976,57322.0,185000.0,,,
+"Bullock,Alabama",28797,10914.0,,,,
+"Butler,Alabama",36450,20947.0,109900.0,,,
+"Calhoun,Alabama",37120,118572.0,132900.0,,,1.0
+"Chambers,Alabama",33859,34215.0,,,,
+"Cherokee,Alabama",35505,25989.0,219000.0,,,
+"Chilton,Alabama",34798,43643.0,170450.0,,,
+"Choctaw,Alabama",39280,13859.0,,,,
+"Clarke,Alabama",36361,25833.0,159000.0,,,
+"Clay,Alabama",33530,13932.0,,,,
+"Cleburne,Alabama",36159,14972.0,,,,
+"Coffee,Alabama",43094,49948.0,173000.0,,,1.0
+"Colbert,Alabama",38378,54428.0,170000.0,,,
+"Conecuh,Alabama",32656,13228.0,,,,
+"Coosa,Alabama",31328,11539.0,,,,
+"Covington,Alabama",35651,37765.0,147000.0,,,
+"Crenshaw,Alabama",36645,13906.0,137500.0,,,
+"Cullman,Alabama",39607,80406.0,179900.0,,,
+"Dale,Alabama",36613,50251.0,129900.0,,,
+"Dallas,Alabama",36026,43820.0,99000.0,,,
+"DeKalb,Alabama",31916,71109.0,,,,
+"Elmore,Alabama",42269,79303.0,227900.0,,,
+"Escambia,Alabama",32996,38319.0,134900.0,,,
+"Etowah,Alabama",36918,104430.0,152479.0,,,
+"Fayette,Alabama",34966,17241.0,119900.0,,,
+"Franklin,Alabama",34318,31704.0,149900.0,,,
+"Geneva,Alabama",35192,26790.0,,,,
+"Greene,Alabama",32359,9045.0,,,,
+"Hale,Alabama",36585,15760.0,149900.0,,,
+"Henry,Alabama",40360,17302.0,196450.0,,,
+"Houston,Alabama",42398,101547.0,179900.0,,,
+"Jackson,Alabama",36567,53227.0,175000.0,,,
+"Jefferson,Alabama",54730,658466.0,221800.0,,,2.0
+"Lamar,Alabama",33496,14564.0,,,,
+"Lauderdale,Alabama",37151,92709.0,182237.5,,,
+"Lawrence,Alabama",34125,34339.0,139900.0,,,
+"Lee,Alabama",38036,140247.0,279000.0,,,
+"Limestone,Alabama",42546,82782.0,258000.0,,,
+"Lowndes,Alabama",38991,11299.0,127690.0,,,
+"Macon,Alabama",32919,21452.0,,,,
+"Madison,Alabama",51445,334811.0,250000.0,,,3.0
+"Marengo,Alabama",39801,21027.0,169700.0,,,
+"Marion,Alabama",33264,30776.0,149900.0,,,
+"Marshall,Alabama",36044,93019.0,210500.0,,,
+"Mobile,Alabama",38243,412992.0,169179.0,,,4.0
+"Monroe,Alabama",33456,23068.0,117684.0,,,
+"Montgomery,Alabama",43688,229363.0,183999.0,,,4.0
+"Morgan,Alabama",39991,119490.0,194045.0,,,1.0
+"Perry,Alabama",30535,10591.0,,,,
+"Pickens,Alabama",32551,19746.0,,,,
+"Pike,Alabama",37359,32899.0,158500.0,,,
+"Randolph,Alabama",32411,22913.0,248700.0,,,
+"Russell,Alabama",33104,52947.0,139900.0,,,
+"St. Clair,Alabama",38569,83593.0,,,,
+"Shelby,Alabama",54369,195085.0,314900.0,,,5.0
+"Sumter,Alabama",31664,13763.0,,,,
+"Talladega,Alabama",34718,82291.0,167811.5,,,
+"Tallapoosa,Alabama",40696,41616.0,299949.5,,,
+"Tuscaloosa,Alabama",38822,194656.0,214900.0,,,1.0
+"Walker,Alabama",40197,67023.0,152950.0,,,
+"Washington,Alabama",36323,17581.0,,,,
+"Wilcox,Alabama",32215,11670.0,150000.0,,,
+"Winston,Alabama",35430,24484.0,299900.0,,,
+"Aleutians East Borough,Alaska",56676,3141.0,,,,
+"Aleutians West Census Area,Alaska",54385,5561.0,,,,
+"Anchorage Municipality,Alaska",66510,291826.0,,,,
+"Bethel Census Area,Alaska",43500,17013.0,,,,
+"Bristol Bay Borough,Alaska",143575,997.0,,,,
+"Denali Borough,Alaska",82919,1826.0,,,,
+"Dillingham Census Area,Alaska",59621,4847.0,,,,
+"Fairbanks North Star Borough,Alaska",56606,97581.0,,,,
+"Haines Borough,Alaska",67059,2508.0,,,,
+"Hoonah-Angoon Census Area,Alaska",61752,2150.0,,,,
+"Juneau City and Borough,Alaska",68145,31275.0,,,,
+"Kenai Peninsula Borough,Alaska",52015,55400.0,,,,
+"Ketchikan Gateway Borough,Alaska",67602,13477.0,,,,
+"Kodiak Island Borough,Alaska",63938,13592.0,,,,
+"Kusilvak Census Area,Alaska",30099,7459.0,,,,
+"Lake and Peninsula Borough,Alaska",65414,1631.0,,,,
+"Matanuska-Susitna Borough,Alaska",45897,88995.0,,,,
+"Nome Census Area,Alaska",51378,9492.0,,,,
+"North Slope Borough,Alaska",83489,9430.0,,,,
+"Northwest Arctic Borough,Alaska",47854,7523.0,,,,
+"Petersburg Borough,Alaska",69995,3815.0,,,,
+"Prince of Wales-Hyder Census Area,Alaska",43707,5559.0,,,,
+"Sitka City and Borough,Alaska",71972,8881.0,,,,
+"Skagway Municipality,Alaska",81471,968.0,,,,
+"Southeast Fairbanks Census Area,Alaska",49398,7029.0,,,,
+"Valdez-Cordova Census Area,Alaska",62307,9636.0,,,,
+"Wrangell City and Borough,Alaska",47658,2369.0,,,,
+"Yakutat City and Borough,Alaska",58937,662.0,,,,
+"Yukon-Koyukuk Census Area,Alaska",59010,5588.0,,,,
+"Apache,Arizona",34355,71518.0,259900.0,,,
+"Cochise,Arizona",40308,131346.0,180000.0,,,
+"Coconino,Arizona",48129,134421.0,412000.0,,,
+"Gila,Arizona",40267,53597.0,299250.0,,,
+"Graham,Arizona",31597,37220.0,192450.0,,,
+"Greenlee,Arizona",39855,8437.0,,,,
+"La Paz,Arizona",30948,20489.0,174900.0,,,
+"Maricopa,Arizona",47694,3817117.0,319000.0,,,9.0
+"Mohave,Arizona",33148,200186.0,271900.0,,,
+"Navajo,Arizona",32165,107449.0,259900.0,,,
+"Pima,Arizona",44028,980263.0,245000.0,,,3.0
+"Pinal,Arizona",30644,375770.0,239495.0,,,
+"Santa Cruz,Arizona",39057,47420.0,259900.0,,,
+"Yavapai,Arizona",40312,211033.0,394000.0,,,
+"Yuma,Arizona",35682,195751.0,213000.0,,,2.0
+"Arkansas,Arkansas",45290,19019.0,,,,
+"Ashley,Arkansas",34813,21853.0,128500.0,,,
+"Baxter,Arkansas",37106,41513.0,164900.0,,,
+"Benton,Arkansas",88890,221339.0,270805.0,,,
+"Boone,Arkansas",36089,36903.0,150000.0,,,
+"Bradley,Arkansas",39491,11508.0,,,,
+"Calhoun,Arkansas",34426,5368.0,,,,
+"Carroll,Arkansas",33690,27446.0,234900.0,,,
+"Chicot,Arkansas",36293,11800.0,,,,
+"Clark,Arkansas",36314,22995.0,139900.0,,,
+"Clay,Arkansas",34149,16083.0,82500.0,,,
+"Cleburne,Arkansas",38307,25970.0,224200.0,,,
+"Cleveland,Arkansas",40344,8689.0,,,,
+"Columbia,Arkansas",38749,24552.0,165000.0,,,
+"Conway,Arkansas",38191,21273.0,129000.0,,,
+"Craighead,Arkansas",37531,96443.0,179000.0,,,
+"Crawford,Arkansas",32952,61948.0,154450.0,,,
+"Crittenden,Arkansas",36978,50902.0,130000.0,,,
+"Cross,Arkansas",35949,17870.0,129838.5,,,
+"Dallas,Arkansas",34645,8116.0,,,,
+"Desha,Arkansas",37828,13008.0,,,,
+"Drew,Arkansas",37148,18509.0,152000.0,,,
+"Faulkner,Arkansas",37598,113237.0,205000.0,,,1.0
+"Franklin,Arkansas",34275,18125.0,,,,
+"Fulton,Arkansas",28994,12245.0,162500.0,,,
+"Garland,Arkansas",40004,96024.0,224900.0,,,
+"Grant,Arkansas",38201,17853.0,169750.0,,,
+"Greene,Arkansas",34895,42090.0,144750.0,,,
+"Hempstead,Arkansas",32515,22609.0,138500.0,,,
+"Hot Spring,Arkansas",30580,32923.0,169000.0,,,
+"Howard,Arkansas",35292,13789.0,,,,
+"Independence,Arkansas",35086,36647.0,169900.0,,,
+"Izard,Arkansas",30608,13696.0,139450.0,,,
+"Jackson,Arkansas",35880,17997.0,60450.0,,,
+"Jefferson,Arkansas",35356,77435.0,94000.0,,,
+"Johnson,Arkansas",28970,25540.0,139900.0,,,
+"Lafayette,Arkansas",36292,7645.0,,,,
+"Lawrence,Arkansas",35126,17415.0,83500.0,,,
+"Lee,Arkansas",27619,10424.0,,,,
+"Lincoln,Arkansas",27002,14134.0,,,,
+"Little River,Arkansas",34086,13171.0,135000.0,,,
+"Logan,Arkansas",34490,22353.0,113500.0,,,
+"Lonoke,Arkansas",38764,68356.0,162450.0,,,
+"Madison,Arkansas",35496,15717.0,190000.0,,,
+"Marion,Arkansas",30743,16653.0,174900.0,,,
+"Miller,Arkansas",33401,43462.0,169900.0,,,
+"Mississippi,Arkansas",31428,46480.0,99900.0,,,
+"Monroe,Arkansas",32651,8149.0,,,,
+"Montgomery,Arkansas",30834,9487.0,210950.0,,,
+"Nevada,Arkansas",34180,8997.0,,,,
+"Newton,Arkansas",28808,8330.0,144250.0,,,
+"Ouachita,Arkansas",36907,26120.0,97450.0,,,
+"Perry,Arkansas",34877,10445.0,,,,
+"Phillips,Arkansas",31128,21757.0,,,,
+"Pike,Arkansas",33113,11291.0,150000.0,,,
+"Poinsett,Arkansas",32315,24583.0,,,,
+"Polk,Arkansas",30751,20662.0,149900.0,,,
+"Pope,Arkansas",35261,61754.0,159900.0,,,1.0
+"Prairie,Arkansas",35935,8715.0,,,,
+"Pulaski,Arkansas",51185,382748.0,185000.0,,,1.0
+"Randolph,Arkansas",33486,17969.0,109900.0,,,
+"St. Francis,Arkansas",27948,28258.0,,,,
+"Saline,Arkansas",41397,107118.0,206983.0,,,1.0
+"Scott,Arkansas",31401,11233.0,,,,
+"Searcy,Arkansas",28511,8195.0,119900.0,,,
+"Sebastian,Arkansas",42110,125744.0,155000.0,,,
+"Sevier,Arkansas",31436,17058.0,,,,
+"Sharp,Arkansas",32012,17264.0,98000.0,,,
+"Stone,Arkansas",31086,12394.0,179000.0,,,
+"Union,Arkansas",46474,41639.0,,,,1.0
+"Van Buren,Arkansas",31176,17295.0,115000.0,,,
+"Washington,Arkansas",40247,203065.0,242500.0,,,
+"White,Arkansas",35445,77076.0,144000.0,,,
+"Woodruff,Arkansas",37545,7260.0,,,,
+"Yell,Arkansas",33320,22185.0,,,,
+"Alameda,California",76644,1510271.0,827880.0,,,5.0
+"Alpine,California",73307,1175.0,425000.0,,,
+"Amador,California",44793,38091.0,369450.0,,,
+"Butte,California",44346,220000.0,345000.0,,,
+"Calaveras,California",49893,45578.0,374250.0,,,
+"Colusa,California",49094,21419.0,344900.0,,,
+"Contra Costa,California",82506,1049025.0,620000.0,,,6.0
+"Del Norte,California",37268,28610.0,299950.0,,,
+"El Dorado,California",67464,181058.0,525000.0,,,
+"Fresno,California",43084,930450.0,309590.0,,,
+"Glenn,California",48613,28122.0,299000.0,,,
+"Humboldt,California",48739,134623.0,370000.0,,,
+"Imperial,California",36974,174528.0,249900.0,,,
+"Inyo,California",61358,18546.0,379000.0,,,
+"Kern,California",39703,839631.0,255000.0,,,2.0
+"Kings,California",35306,152982.0,270000.0,,,
+"Lake,California",43185,64665.0,288000.0,,,
+"Lassen,California",37844,34895.0,220000.0,,,
+"Los Angeles,California",62224,9818605.0,689000.0,,,13.0
+"Madera,California",39897,150865.0,330000.0,,,
+"Marin,California",134275,252409.0,1275000.0,,,
+"Mariposa,California",53143,18251.0,335000.0,,,
+"Mendocino,California",50150,87841.0,520000.0,,,
+"Merced,California",38519,255793.0,309999.5,,,5.0
+"Modoc,California",44822,9686.0,172500.0,,,
+"Mono,California",51325,14202.0,499000.0,,,
+"Monterey,California",56193,415057.0,849000.0,,,
+"Napa,California",74984,136484.0,825000.0,,,
+"Nevada,California",61799,98764.0,500000.0,,,
+"Orange,California",69268,3010232.0,798000.0,,,7.0
+"Placer,California",66700,348432.0,548000.0,,,1.0
+"Plumas,California",53599,20007.0,369000.0,,,
+"Riverside,California",40637,2189641.0,414990.0,,,3.0
+"Sacramento,California",52544,1418788.0,389900.0,,,3.0
+"San Benito,California",53822,55269.0,612900.0,,,
+"San Bernardino,California",40316,2035210.0,350000.0,,,6.0
+"San Diego,California",61386,3095313.0,655900.0,,,11.0
+"San Francisco,California",130696,805235.0,1349000.0,,,4.0
+"San Joaquin,California",44995,685306.0,399990.0,,,
+"San Luis Obispo,California",58491,269637.0,690000.0,,,
+"San Mateo,California",126392,718451.0,1388000.0,,,2.0
+"Santa Barbara,California",62690,423895.0,999000.0,,,2.0
+"Santa Clara,California",107877,1781642.0,1099956.0,,,5.0
+"Santa Cruz,California",69355,262382.0,885000.0,,,
+"Shasta,California",46582,177223.0,315000.0,,,
+"Sierra,California",46615,3240.0,,,,
+"Siskiyou,California",45065,44900.0,269000.0,,,
+"Solano,California",51664,413344.0,465000.0,,,
+"Sonoma,California",64501,483878.0,699000.0,,,
+"Stanislaus,California",44120,514453.0,349500.0,,,
+"Sutter,California",44535,94737.0,329900.0,,,
+"Tehama,California",42483,63463.0,269900.0,,,
+"Trinity,California",40640,13786.0,299000.0,,,
+"Tulare,California",40420,442179.0,269900.0,,,
+"Tuolumne,California",47838,55365.0,320000.0,,,
+"Ventura,California",61712,823318.0,649900.0,,,
+"Yolo,California",54118,200849.0,499000.0,,,
+"Yuba,California",40929,72155.0,314999.0,,,
+"Adams,Colorado",43315,441603.0,375000.0,,,
+"Alamosa,Colorado",37351,15445.0,219000.0,,,
+"Arapahoe,Colorado",60180,572003.0,399000.0,,,1.0
+"Archuleta,Colorado",41947,12084.0,442500.0,,,
+"Baca,Colorado",40968,3788.0,,,,
+"Bent,Colorado",27574,6499.0,,,,
+"Boulder,Colorado",73394,294567.0,585000.0,,,
+"Broomfield,Colorado",66410,55889.0,489900.0,,,
+"Chaffee,Colorado",46998,17809.0,474900.0,,,
+"Cheyenne,Colorado",56699,1836.0,,,,
+"Clear Creek,Colorado",61300,9088.0,397904.0,,,
+"Conejos,Colorado",36894,8256.0,,,,
+"Costilla,Colorado",34282,3524.0,159500.0,,,
+"Crowley,Colorado",19141,5823.0,,,,
+"Custer,Colorado",41681,4255.0,414000.0,,,
+"Delta,Colorado",38855,30952.0,339500.0,,,
+"Denver,Colorado",79849,600158.0,479000.0,,,
+"Dolores,Colorado",34935,2064.0,,,,
+"Douglas,Colorado",73662,285465.0,522500.0,,,
+"Eagle,Colorado",78152,52197.0,1240000.0,,,
+"Elbert,Colorado",57334,23086.0,549985.0,,,
+"El Paso,Colorado",48467,622263.0,367900.0,,,2.0
+"Fremont,Colorado",35435,46824.0,279000.0,,,
+"Garfield,Colorado",59653,56389.0,475000.0,,,
+"Gilpin,Colorado",48128,5441.0,479000.0,,,
+"Grand,Colorado",49845,14843.0,549000.0,,,
+"Gunnison,Colorado",47149,15324.0,623500.0,,,
+"Hinsdale,Colorado",50698,843.0,495000.0,,,
+"Huerfano,Colorado",42459,6711.0,287000.0,,,
+"Jackson,Colorado",49723,1394.0,,,,
+"Jefferson,Colorado",63536,534543.0,465000.0,,,1.0
+"Kiowa,Colorado",50117,1398.0,,,,
+"Kit Carson,Colorado",37274,8270.0,,,,
+"Lake,Colorado",37106,7310.0,319000.0,,,
+"La Plata,Colorado",55807,51334.0,505000.0,,,
+"Larimer,Colorado",54188,299630.0,400000.0,,,1.0
+"Las Animas,Colorado",40765,15507.0,199900.0,,,
+"Lincoln,Colorado",28828,5467.0,,,,
+"Logan,Colorado",48161,22709.0,,,,
+"Mesa,Colorado",44935,146723.0,299900.0,,,1.0
+"Mineral,Colorado",71095,712.0,419900.0,,,
+"Moffat,Colorado",42130,13795.0,199900.0,,,
+"Montezuma,Colorado",42998,25535.0,343950.0,,,
+"Montrose,Colorado",39930,41276.0,355000.0,,,
+"Morgan,Colorado",45685,28159.0,285000.0,,,
+"Otero,Colorado",38190,18831.0,,,,
+"Ouray,Colorado",59639,4436.0,599000.0,,,
+"Park,Colorado",45113,16206.0,399000.0,,,
+"Phillips,Colorado",44399,4442.0,,,,
+"Pitkin,Colorado",149207,17148.0,2895000.0,,,
+"Prowers,Colorado",42259,12551.0,,,,
+"Pueblo,Colorado",39511,159063.0,221000.0,,,
+"Rio Blanco,Colorado",46809,6666.0,228950.0,,,
+"Rio Grande,Colorado",46717,11982.0,325000.0,,,
+"Routt,Colorado",83702,23509.0,699000.0,,,
+"Saguache,Colorado",30172,6108.0,285000.0,,,
+"San Juan,Colorado",44029,699.0,,,,
+"San Miguel,Colorado",85432,7359.0,1900000.0,,,
+"Sedgwick,Colorado",49004,2379.0,,,,
+"Summit,Colorado",67763,27994.0,645000.0,,,
+"Teller,Colorado",49197,23350.0,365000.0,,,
+"Washington,Colorado",44687,4814.0,,,,
+"Weld,Colorado",46172,252825.0,366990.0,,,1.0
+"Yuma,Colorado",50364,10043.0,,,,
+"Fairfield,Connecticut",120630,916829.0,572214.0,,,12.0
+"Hartford,Connecticut",64853,894014.0,247450.0,,,20.0
+"Litchfield,Connecticut",64949,189927.0,305000.0,,,2.0
+"Middlesex,Connecticut",68673,165676.0,315000.0,,,1.0
+"New Haven,Connecticut",56650,862477.0,259900.0,,,26.0
+"New London,Connecticut",59264,274055.0,268500.0,,,2.0
+"Tolland,Connecticut",56614,152691.0,264450.0,,,3.0
+"Windham,Connecticut",47264,118428.0,239450.0,,,
+"Kent,Delaware",42023,162310.0,260000.0,,,
+"New Castle,Delaware",56745,538479.0,261704.5,,,3.0
+"Sussex,Delaware",50333,197145.0,354900.0,,,
+"Alachua,Florida",44390,247336.0,239790.0,,,
+"Baker,Florida",32313,27115.0,211400.5,,,
+"Bay,Florida",43231,168852.0,282900.0,,,3.0
+"Bradford,Florida",33557,28520.0,199900.0,,,
+"Brevard,Florida",45425,543376.0,257500.0,,,6.0
+"Broward,Florida",50269,1748066.0,310000.0,,,8.0
+"Calhoun,Florida",26873,14625.0,172900.0,,,
+"Charlotte,Florida",41564,159978.0,253200.0,,,3.0
+"Citrus,Florida",37920,141236.0,185900.0,,,
+"Clay,Florida",42909,190865.0,236990.0,,,8.0
+"Collier,Florida",92686,321520.0,415000.0,,,
+"Columbia,Florida",35074,67531.0,198144.0,,,
+"DeSoto,Florida",23610,34862.0,,,,
+"Dixie,Florida",27956,16422.0,164950.0,,,
+"Duval,Florida",46174,864263.0,224000.0,,,3.0
+"Escambia,Florida",42537,297619.0,243450.0,,,6.0
+"Flagler,Florida",46220,95696.0,279900.0,,,1.0
+"Franklin,Florida",35988,11549.0,399000.0,,,
+"Gadsden,Florida",35139,46389.0,155000.0,,,
+"Gilchrist,Florida",33774,16939.0,215000.0,,,
+"Glades,Florida",24467,12884.0,169000.0,,,
+"Gulf,Florida",35701,15863.0,369950.0,,,
+"Hamilton,Florida",26016,14799.0,,,,
+"Hardee,Florida",28285,27731.0,189700.0,,,
+"Hendry,Florida",31071,39140.0,179200.0,,,
+"Hernando,Florida",36878,172778.0,199900.0,,,
+"Highlands,Florida",33453,98786.0,164900.0,,,
+"Hillsborough,Florida",47000,1229226.0,274900.0,,,4.0
+"Holmes,Florida",30468,19927.0,160000.0,,,
+"Indian River,Florida",76059,138028.0,289000.0,,,2.0
+"Jackson,Florida",32106,49746.0,139900.0,,,
+"Jefferson,Florida",40736,14761.0,,,,
+"Lafayette,Florida",24148,8870.0,199500.0,,,
+"Lake,Florida",42190,297052.0,264000.0,,,4.0
+"Lee,Florida",51266,618754.0,273240.0,,,8.0
+"Leon,Florida",44482,275487.0,222500.0,,,2.0
+"Levy,Florida",35204,40801.0,229000.0,,,
+"Liberty,Florida",23582,8365.0,,,,
+"Madison,Florida",31675,19224.0,155000.0,,,
+"Manatee,Florida",47378,322833.0,325000.0,,,
+"Marion,Florida",36997,331298.0,195900.0,,,
+"Martin,Florida",83873,146318.0,369500.0,,,2.0
+"Miami-Dade,Florida",50022,2496435.0,399000.0,,,17.0
+"Monroe,Florida",92119,73090.0,733000.0,,,2.0
+"Nassau,Florida",57877,73314.0,316490.0,,,9.0
+"Okaloosa,Florida",48875,180822.0,319000.0,,,3.0
+"Okeechobee,Florida",30661,39996.0,199000.0,,,
+"Orange,Florida",44647,1145956.0,325000.0,,,9.0
+"Osceola,Florida",33346,268685.0,272990.0,,,1.0
+"Palm Beach,Florida",79760,1320134.0,349900.0,,,15.0
+"Pasco,Florida",40313,464697.0,243245.0,,,4.0
+"Pinellas,Florida",53455,916542.0,294000.0,,,5.0
+"Polk,Florida",35463,602095.0,224990.0,,,3.0
+"Putnam,Florida",31773,74364.0,169900.0,,,
+"St. Johns,Florida",68149,190039.0,,,,5.0
+"St. Lucie,Florida",39374,277789.0,,,,1.0
+"Santa Rosa,Florida",44527,151372.0,260275.0,,,1.0
+"Sarasota,Florida",64868,379448.0,339000.0,,,2.0
+"Seminole,Florida",49049,422718.0,305947.5,,,10.0
+"Sumter,Florida",46100,93420.0,274000.0,,,
+"Suwannee,Florida",33068,41551.0,179450.0,,,
+"Taylor,Florida",30346,22570.0,159900.0,,,
+"Union,Florida",22227,15535.0,,,,
+"Volusia,Florida",42374,494593.0,248500.0,,,6.0
+"Wakulla,Florida",37026,30776.0,235800.0,,,
+"Walton,Florida",59728,55043.0,599900.0,,,
+"Washington,Florida",29414,24896.0,202449.5,,,
+"Appling,Georgia",33268,18236.0,154000.0,,,
+"Atkinson,Georgia",30511,8375.0,,,,
+"Bacon,Georgia",33080,11096.0,,,,
+"Baker,Georgia",38666,3451.0,,,,
+"Baldwin,Georgia",33203,45720.0,,,,2.0
+"Banks,Georgia",36276,18395.0,221721.0,,,
+"Barrow,Georgia",36898,69367.0,225000.0,,,1.0
+"Bartow,Georgia",38298,100157.0,204117.5,,,
+"Ben Hill,Georgia",31436,17634.0,,,,
+"Berrien,Georgia",31535,19286.0,144900.0,,,
+"Bibb,Georgia",41709,155547.0,138000.0,,,1.0
+"Bleckley,Georgia",33672,13063.0,,,,
+"Brantley,Georgia",27413,18411.0,129900.0,,,
+"Brooks,Georgia",34944,16243.0,145400.0,,,
+"Bryan,Georgia",52456,30233.0,284450.0,,,
+"Bulloch,Georgia",32382,70217.0,174700.0,,,1.0
+"Burke,Georgia",35524,23316.0,178400.0,,,
+"Butts,Georgia",34297,23655.0,195000.0,,,
+"Calhoun,Georgia",24638,6694.0,,,,
+"Camden,Georgia",36113,50513.0,214900.0,,,
+"Candler,Georgia",31385,10998.0,194900.0,,,
+"Carroll,Georgia",38571,110527.0,199900.0,,,2.0
+"Catoosa,Georgia",35158,63942.0,209900.0,,,1.0
+"Charlton,Georgia",24976,12171.0,157500.0,,,
+"Chatham,Georgia",47563,265128.0,264715.0,,,3.0
+"Chattahoochee,Georgia",31115,11267.0,,,,
+"Chattooga,Georgia",30946,26015.0,109450.0,,,
+"Cherokee,Georgia",51137,214346.0,339000.0,,,1.0
+"Clarke,Georgia",33970,116714.0,215000.0,,,4.0
+"Clay,Georgia",31520,3183.0,,,,
+"Clayton,Georgia",28020,259424.0,155000.0,,,4.0
+"Clinch,Georgia",37548,6798.0,,,,
+"Cobb,Georgia",57162,688078.0,325000.0,,,10.0
+"Coffee,Georgia",32644,42356.0,134900.0,,,
+"Colquitt,Georgia",32526,45498.0,179900.0,,,
+"Columbia,Georgia",49473,124053.0,249900.0,,,3.0
+"Cook,Georgia",32524,17212.0,,,,
+"Coweta,Georgia",46438,127317.0,300400.0,,,1.0
+"Crawford,Georgia",33784,12630.0,150000.0,,,
+"Crisp,Georgia",32540,23439.0,179500.0,,,
+"Dade,Georgia",35640,16633.0,229000.0,,,
+"Dawson,Georgia",45201,22330.0,289900.0,,,
+"Decatur,Georgia",36150,27842.0,177000.0,,,
+"DeKalb,Georgia",50871,691893.0,,,,13.0
+"Dodge,Georgia",30682,21796.0,124900.0,,,
+"Dooly,Georgia",28297,14918.0,,,,
+"Dougherty,Georgia",34744,94565.0,87500.0,,,
+"Douglas,Georgia",35230,132403.0,221990.0,,,4.0
+"Early,Georgia",38945,11008.0,134900.0,,,
+"Echols,Georgia",27880,4034.0,,,,
+"Effingham,Georgia",41942,52250.0,224222.5,,,
+"Elbert,Georgia",35448,20166.0,152450.0,,,
+"Emanuel,Georgia",32187,22598.0,129900.0,,,
+"Evans,Georgia",35212,11000.0,,,,
+"Fannin,Georgia",35727,23682.0,379000.0,,,
+"Fayette,Georgia",63515,106567.0,359945.0,,,
+"Floyd,Georgia",38524,96317.0,179800.0,,,
+"Forsyth,Georgia",62580,175511.0,390000.0,,,3.0
+"Franklin,Georgia",36672,22084.0,205000.0,,,
+"Fulton,Georgia",84386,920581.0,350000.0,,,8.0
+"Gilmer,Georgia",35419,28292.0,269824.5,,,
+"Glascock,Georgia",33931,3082.0,,,,
+"Glynn,Georgia",46073,79626.0,374900.0,,,
+"Gordon,Georgia",36947,55186.0,184200.0,,,2.0
+"Grady,Georgia",34899,25011.0,175000.0,,,
+"Greene,Georgia",55396,15994.0,482450.0,,,
+"Gwinnett,Georgia",41458,805321.0,290000.0,,,8.0
+"Habersham,Georgia",33925,43041.0,239900.0,,,
+"Hall,Georgia",43701,179684.0,300000.0,,,3.0
+"Hancock,Georgia",29917,9429.0,,,,
+"Haralson,Georgia",36508,28780.0,188300.0,,,
+"Harris,Georgia",47469,32024.0,292900.0,,,
+"Hart,Georgia",38125,25213.0,228000.0,,,
+"Heard,Georgia",31144,11834.0,,,,
+"Henry,Georgia",39184,203922.0,234437.5,,,3.0
+"Houston,Georgia",42625,139900.0,205250.0,,,2.0
+"Irwin,Georgia",32824,9538.0,,,,
+"Jackson,Georgia",42211,60485.0,264500.0,,,
+"Jasper,Georgia",40606,13900.0,,,,
+"Jeff Davis,Georgia",29943,15068.0,,,,
+"Jefferson,Georgia",34034,16930.0,,,,
+"Jenkins,Georgia",29250,8340.0,,,,2.0
+"Johnson,Georgia",26195,9980.0,,,,
+"Jones,Georgia",37618,28669.0,183762.0,,,
+"Lamar,Georgia",33079,18317.0,189500.0,,,
+"Lanier,Georgia",27561,10078.0,144000.0,,,
+"Laurens,Georgia",37372,48434.0,162644.0,,,1.0
+"Lee,Georgia",47258,28298.0,185000.0,,,1.0
+"Liberty,Georgia",35805,63453.0,149000.0,,,1.0
+"Lincoln,Georgia",37333,7996.0,,,,
+"Long,Georgia",27071,14464.0,181300.0,,,
+"Lowndes,Georgia",37443,109233.0,159900.0,,,1.0
+"Lumpkin,Georgia",37427,29966.0,280000.0,,,
+"McDuffie,Georgia",36982,21875.0,,,,
+"McIntosh,Georgia",29519,14333.0,238750.0,,,
+"Macon,Georgia",31028,14740.0,,,,
+"Madison,Georgia",36557,28120.0,212900.0,,,
+"Marion,Georgia",29333,8742.0,,,,
+"Meriwether,Georgia",34847,21992.0,139900.0,,,
+"Miller,Georgia",40826,6125.0,,,,
+"Mitchell,Georgia",35069,23498.0,97450.0,,,
+"Monroe,Georgia",44790,26424.0,319900.0,,,
+"Montgomery,Georgia",29408,9123.0,,,,
+"Morgan,Georgia",50541,17868.0,345000.0,,,
+"Murray,Georgia",29968,39628.0,162445.0,,,1.0
+"Muscogee,Georgia",44149,189885.0,129900.0,,,1.0
+"Newton,Georgia",33750,99958.0,209500.0,,,1.0
+"Oconee,Georgia",66740,32808.0,385450.0,,,
+"Oglethorpe,Georgia",37709,14899.0,218900.0,,,
+"Paulding,Georgia",37727,142324.0,239000.0,,,3.0
+"Peach,Georgia",38066,27695.0,180900.0,,,
+"Pickens,Georgia",47887,29431.0,299700.0,,,
+"Pierce,Georgia",36065,18758.0,184900.0,,,
+"Pike,Georgia",39851,17869.0,287450.0,,,
+"Polk,Georgia",32368,41475.0,158950.0,,,
+"Pulaski,Georgia",30358,12010.0,149500.0,,,
+"Putnam,Georgia",41839,21218.0,300000.0,,,
+"Quitman,Georgia",30902,2513.0,,,,
+"Rabun,Georgia",41128,16276.0,319000.0,,,
+"Randolph,Georgia",33238,7719.0,,,,
+"Richmond,Georgia",38196,200549.0,129900.0,,,5.0
+"Rockdale,Georgia",35244,85215.0,225000.0,,,2.0
+"Schley,Georgia",30931,5010.0,,,,
+"Screven,Georgia",35010,14593.0,109000.0,,,
+"Seminole,Georgia",40217,8729.0,,,,
+"Spalding,Georgia",34772,64073.0,180000.0,,,2.0
+"Stephens,Georgia",38915,26175.0,158400.0,,,
+"Stewart,Georgia",22771,6058.0,,,,
+"Sumter,Georgia",35847,32819.0,136000.0,,,
+"Talbot,Georgia",34504,6865.0,,,,
+"Taliaferro,Georgia",33927,1717.0,,,,
+"Tattnall,Georgia",28406,25520.0,124900.0,,,
+"Taylor,Georgia",30141,8906.0,132450.0,,,
+"Telfair,Georgia",20923,16500.0,,,,
+"Terrell,Georgia",40325,9315.0,,,,
+"Thomas,Georgia",44355,44720.0,197750.0,,,
+"Tift,Georgia",37805,40118.0,,,,
+"Toombs,Georgia",35517,27223.0,149900.0,,,
+"Towns,Georgia",37858,10471.0,282700.0,,,
+"Treutlen,Georgia",30119,6885.0,,,,
+"Troup,Georgia",36476,67044.0,178700.0,,,1.0
+"Turner,Georgia",34396,8930.0,,,,
+"Twiggs,Georgia",39530,9023.0,,,,
+"Union,Georgia",36581,21356.0,249900.0,,,
+"Upson,Georgia",35133,27153.0,149500.0,,,
+"Walker,Georgia",32826,68756.0,161990.0,,,
+"Walton,Georgia",40458,83768.0,280900.0,,,
+"Ware,Georgia",33906,36312.0,129900.0,,,
+"Warren,Georgia",34598,5834.0,,,,
+"Washington,Georgia",35296,21187.0,119950.0,,,
+"Wayne,Georgia",31954,30099.0,171950.0,,,
+"Webster,Georgia",33109,2799.0,,,,
+"Wheeler,Georgia",19631,7421.0,,,,
+"White,Georgia",34961,27144.0,219000.0,,,
+"Whitfield,Georgia",38752,102599.0,175000.0,,,2.0
+"Wilcox,Georgia",26712,9255.0,,,,
+"Wilkes,Georgia",39472,10593.0,,,,
+"Wilkinson,Georgia",35204,9563.0,,,,
+"Worth,Georgia",34380,21679.0,149950.0,,,
+"Hawaii,Hawaii",42449,185079.0,400000.0,,,
+"Honolulu,Hawaii",59608,953207.0,638888.0,,,2.0
+"Kauai,Hawaii",49416,67091.0,875000.0,,,
+"Maui + Kalawao,Hawaii",49040,,,,,
+"Ada,Idaho",52958,392365.0,379900.0,,,
+"Adams,Idaho",37452,3976.0,337000.0,,,
+"Bannock,Idaho",38160,82839.0,224900.0,,,
+"Bear Lake,Idaho",38493,5986.0,,,,
+"Benewah,Idaho",37383,9285.0,,,,
+"Bingham,Idaho",36335,45607.0,,,,
+"Blaine,Idaho",113780,21376.0,925000.0,,,
+"Boise,Idaho",43392,7028.0,349000.0,,,
+"Bonner,Idaho",41209,40877.0,447000.0,,,
+"Bonneville,Idaho",48287,104234.0,260000.0,,,
+"Boundary,Idaho",36934,10972.0,330500.0,,,
+"Butte,Idaho",38961,2891.0,,,,
+"Camas,Idaho",38600,1117.0,,,,
+"Canyon,Idaho",32680,188923.0,276900.0,,,3.0
+"Caribou,Idaho",39146,6963.0,,,,
+"Cassia,Idaho",45220,22952.0,240000.0,,,
+"Clark,Idaho",39408,982.0,,,,
+"Clearwater,Idaho",34506,8761.0,,,,
+"Custer,Idaho",43185,4368.0,282450.0,,,
+"Elmore,Idaho",36855,27038.0,219900.0,,,
+"Franklin,Idaho",36064,12786.0,299895.0,,,
+"Fremont (includes Yellowstone National Park),Idaho",36908,,,,,
+"Gem,Idaho",37796,16719.0,,,,
+"Gooding,Idaho",52875,15464.0,183200.0,,,
+"Idaho,Idaho",35122,16267.0,291500.0,,,
+"Jefferson,Idaho",34900,26140.0,320000.0,,,
+"Jerome,Idaho",38184,22374.0,219500.0,,,
+"Kootenai,Idaho",44987,138494.0,379900.0,,,
+"Latah,Idaho",41341,37244.0,269500.0,,,
+"Lemhi,Idaho",41565,7936.0,297000.0,,,
+"Lewis,Idaho",47267,3821.0,155000.0,,,
+"Lincoln,Idaho",34821,5208.0,,,,
+"Madison,Idaho",26407,37536.0,274900.0,,,
+"Minidoka,Idaho",38159,20069.0,,,,
+"Nez Perce,Idaho",44397,39265.0,254950.0,,,
+"Oneida,Idaho",35234,4286.0,,,,
+"Owyhee,Idaho",33372,11526.0,,,,1.0
+"Payette,Idaho",38933,22623.0,,,,
+"Power,Idaho",36667,7817.0,,,,
+"Shoshone,Idaho",35537,12765.0,,,,
+"Teton,Idaho",39858,10170.0,497000.0,,,
+"Twin Falls,Idaho",39623,77230.0,247300.0,,,1.0
+"Valley,Idaho",49630,9862.0,429500.0,,,
+"Washington,Idaho",36225,10198.0,235000.0,,,
+"Adams,Illinois",46886,67103.0,134900.0,,,
+"Alexander,Illinois",34713,8238.0,,,,
+"Bond,Illinois",37653,17768.0,,,,
+"Boone,Illinois",47437,54165.0,200000.0,,,
+"Brown,Illinois",35166,6937.0,,,,
+"Bureau,Illinois",43931,34978.0,115000.0,,,
+"Calhoun,Illinois",42511,5089.0,,,,
+"Carroll,Illinois",42399,15387.0,143900.0,,,
+"Cass,Illinois",42649,13642.0,,,,
+"Champaign,Illinois",45328,201081.0,165900.0,,,5.0
+"Christian,Illinois",41724,34800.0,79900.0,,,
+"Clark,Illinois",43012,16335.0,,,,
+"Clay,Illinois",40351,13815.0,89900.0,,,
+"Clinton,Illinois",48253,37762.0,148500.0,,,
+"Coles,Illinois",40995,53873.0,91500.0,,,
+"Cook,Illinois",62205,5194675.0,289999.0,,,50.0
+"Crawford,Illinois",48332,19817.0,99900.0,,,
+"Cumberland,Illinois",43778,11048.0,,,,
+"DeKalb,Illinois",40929,105160.0,194950.0,,,2.0
+"De Witt,Illinois",47205,16561.0,,,,
+"Douglas,Illinois",51537,19980.0,105000.0,,,
+"DuPage,Illinois",72889,916924.0,339999.5,,,13.0
+"Edgar,Illinois",42184,18576.0,62000.0,,,
+"Edwards,Illinois",40331,6721.0,,,,
+"Effingham,Illinois",50599,34242.0,168450.0,,,
+"Fayette,Illinois",35456,22140.0,124200.0,,,
+"Ford,Illinois",52879,14081.0,83900.0,,,
+"Franklin,Illinois",37355,39561.0,66500.0,,,
+"Fulton,Illinois",38361,37069.0,74500.0,,,
+"Gallatin,Illinois",44602,5589.0,,,,
+"Greene,Illinois",36912,13886.0,72750.0,,,
+"Grundy,Illinois",51657,50063.0,240000.0,,,
+"Hamilton,Illinois",43349,8457.0,,,,
+"Hancock,Illinois",46081,19104.0,98500.0,,,
+"Hardin,Illinois",37155,4320.0,,,,
+"Henderson,Illinois",41951,7331.0,,,,
+"Henry,Illinois",45072,50486.0,126500.0,,,
+"Iroquois,Illinois",43258,29718.0,99925.0,,,
+"Jackson,Illinois",37284,60218.0,99400.0,,,
+"Jasper,Illinois",45961,9698.0,,,,
+"Jefferson,Illinois",39581,38827.0,115000.0,,,
+"Jersey,Illinois",41522,22985.0,145000.0,,,
+"Jo Daviess,Illinois",49061,22678.0,189900.0,,,
+"Johnson,Illinois",35956,12582.0,169900.0,,,
+"Kane,Illinois",51333,515269.0,279000.0,,,4.0
+"Kankakee,Illinois",41290,113449.0,159900.0,,,
+"Kendall,Illinois",49033,114736.0,249999.0,,,
+"Knox,Illinois",39471,52919.0,89500.0,,,
+"Lake,Illinois",78559,703462.0,325000.0,,,16.0
+"LaSalle,Illinois",44632,113924.0,,,,4.0
+"Lawrence,Illinois",29911,16833.0,,,,
+"Lee,Illinois",41788,36031.0,129000.0,,,
+"Livingston,Illinois",44775,38950.0,95000.0,,,1.0
+"Logan,Illinois",38339,30305.0,99900.0,,,
+"McDonough,Illinois",38692,32612.0,79000.0,,,
+"McHenry,Illinois",55720,308760.0,250000.0,,,9.0
+"McLean,Illinois",49180,169572.0,157500.0,,,
+"Macon,Illinois",48214,110768.0,109500.0,,,2.0
+"Macoupin,Illinois",41607,47765.0,95000.0,,,1.0
+"Madison,Illinois",46890,269282.0,134000.0,,,
+"Marion,Illinois",43059,39437.0,114900.0,,,
+"Marshall,Illinois",46015,12640.0,119900.0,,,
+"Mason,Illinois",42510,14666.0,78500.0,,,
+"Massac,Illinois",38360,15429.0,84900.0,,,
+"Menard,Illinois",47233,12705.0,162000.0,,,
+"Mercer,Illinois",45046,16434.0,110000.0,,,
+"Monroe,Illinois",58686,32957.0,234950.0,,,
+"Montgomery,Illinois",37717,30104.0,83750.0,,,
+"Morgan,Illinois",41359,35547.0,129900.0,,,
+"Moultrie,Illinois",62718,14846.0,107500.0,,,
+"Ogle,Illinois",46755,53497.0,167000.0,,,
+"Peoria,Illinois",51135,186494.0,114900.0,,,
+"Perry,Illinois",38369,22350.0,106000.0,,,
+"Piatt,Illinois",54258,16729.0,137400.0,,,
+"Pike,Illinois",42768,16430.0,,,,
+"Pope,Illinois",30306,4470.0,,,,
+"Pulaski,Illinois",36146,6161.0,,,,
+"Putnam,Illinois",58869,6006.0,153500.0,,,
+"Randolph,Illinois",36905,33476.0,89900.0,,,
+"Richland,Illinois",42555,16233.0,99900.0,,,
+"Rock Island,Illinois",44802,147546.0,115000.0,,,
+"St. Clair,Illinois",45061,270056.0,,,,
+"Saline,Illinois",39687,24913.0,,,,
+"Sangamon,Illinois",48891,197465.0,141900.0,,,
+"Schuyler,Illinois",44200,7544.0,,,,
+"Scott,Illinois",42720,5355.0,,,,
+"Shelby,Illinois",41512,22363.0,124000.0,,,
+"Stark,Illinois",42877,5994.0,,,,
+"Stephenson,Illinois",42722,47711.0,106000.0,,,
+"Tazewell,Illinois",47862,135394.0,131950.0,,,
+"Union,Illinois",42760,17808.0,102500.0,,,
+"Vermilion,Illinois",39481,81625.0,82200.0,,,
+"Wabash,Illinois",43571,11947.0,113900.0,,,
+"Warren,Illinois",41274,17707.0,89700.0,,,
+"Washington,Illinois",51144,14716.0,129500.0,,,
+"Wayne,Illinois",41164,16760.0,100000.0,,,
+"White,Illinois",49605,14665.0,76450.0,,,
+"Whiteside,Illinois",44016,58498.0,89900.0,,,
+"Will,Illinois",52953,677560.0,259804.0,,,7.0
+"Williamson,Illinois",44509,66357.0,129000.0,,,
+"Winnebago,Illinois",43742,295266.0,125000.0,,,1.0
+"Woodford,Illinois",52928,38664.0,174900.0,,,
+"Adams,Indiana",39167,34387.0,135000.0,,,
+"Allen,Indiana",46288,355329.0,179037.5,,,2.0
+"Bartholomew,Indiana",49922,76794.0,199900.0,,,
+"Benton,Indiana",42775,8854.0,,,,
+"Blackford,Indiana",37677,12766.0,79900.0,,,
+"Boone,Indiana",73531,56640.0,349900.0,,,1.0
+"Brown,Indiana",46785,15242.0,309000.0,,,
+"Carroll,Indiana",44201,20155.0,164900.0,,,
+"Cass,Indiana",38788,38966.0,110000.0,,,2.0
+"Clark,Indiana",43763,110232.0,219524.0,,,1.0
+"Clay,Indiana",38615,26890.0,,,,
+"Clinton,Indiana",39172,33224.0,,,,1.0
+"Crawford,Indiana",33483,10713.0,129800.0,,,
+"Daviess,Indiana",42064,31648.0,139900.0,,,
+"Dearborn,Indiana",47454,50047.0,200000.0,,,
+"Decatur,Indiana",42733,25740.0,154950.0,,,1.0
+"DeKalb,Indiana",44069,42223.0,,,,
+"Delaware,Indiana",37201,117671.0,115000.0,,,2.0
+"Dubois,Indiana",56488,41889.0,201564.5,,,
+"Elkhart,Indiana",46816,197559.0,174700.0,,,1.0
+"Fayette,Indiana",40939,24277.0,79900.0,,,
+"Floyd,Indiana",55480,74578.0,225900.0,,,3.0
+"Fountain,Indiana",41010,17240.0,,,,
+"Franklin,Indiana",46629,23087.0,177400.0,,,
+"Fulton,Indiana",41437,20836.0,122000.0,,,
+"Gibson,Indiana",45385,33503.0,134500.0,,,
+"Grant,Indiana",40444,70061.0,92900.0,,,
+"Greene,Indiana",39840,33165.0,,,,
+"Hamilton,Indiana",74717,274569.0,339472.5,,,5.0
+"Hancock,Indiana",50422,70002.0,239000.0,,,
+"Harrison,Indiana",41862,39364.0,177900.0,,,
+"Hendricks,Indiana",49641,145448.0,250000.0,,,3.0
+"Henry,Indiana",38336,49462.0,93000.0,,,
+"Howard,Indiana",41842,82752.0,129900.0,,,
+"Huntington,Indiana",42292,37124.0,,,,
+"Jackson,Indiana",42722,42376.0,159900.0,,,3.0
+"Jasper,Indiana",43293,33478.0,200000.0,,,
+"Jay,Indiana",39321,21253.0,79900.0,,,
+"Jefferson,Indiana",41981,32428.0,152500.0,,,
+"Jennings,Indiana",38959,28525.0,142900.0,,,
+"Johnson,Indiana",48332,139654.0,249900.0,,,1.0
+"Knox,Indiana",44626,38440.0,,,,
+"Kosciusko,Indiana",47799,77358.0,205500.0,,,1.0
+"Lagrange,Indiana",42146,,180450.0,,,
+"Lake,Indiana",45172,496005.0,194900.0,,,9.0
+"LaPorte,Indiana",42527,111467.0,,,,7.0
+"Lawrence,Indiana",40614,46134.0,144950.0,,,
+"Madison,Indiana",38172,131636.0,124999.0,,,
+"Marion,Indiana",51940,903393.0,174999.5,,,2.0
+"Marshall,Indiana",41329,47051.0,175000.0,,,
+"Martin,Indiana",39941,10334.0,153500.0,,,
+"Miami,Indiana",35039,36903.0,97200.0,,,
+"Monroe,Indiana",42212,137974.0,257200.0,,,2.0
+"Montgomery,Indiana",40056,38124.0,129000.0,,,
+"Morgan,Indiana",44183,68894.0,209900.0,,,
+"Newton,Indiana",39818,14244.0,,,,
+"Noble,Indiana",39798,47536.0,156900.0,,,
+"Ohio,Indiana",40714,6128.0,163950.0,,,
+"Orange,Indiana",38124,19840.0,120000.0,,,
+"Owen,Indiana",40081,21575.0,179900.0,,,
+"Parke,Indiana",36345,17339.0,,,,
+"Perry,Indiana",37851,19338.0,135000.0,,,
+"Pike,Indiana",40714,12845.0,,,,
+"Porter,Indiana",53130,164343.0,250000.0,,,5.0
+"Posey,Indiana",48180,25910.0,139950.0,,,
+"Pulaski,Indiana",43522,13402.0,,,,
+"Putnam,Indiana",37479,37963.0,159900.0,,,
+"Randolph,Indiana",38491,26171.0,,,,
+"Ripley,Indiana",41817,28818.0,154900.0,,,
+"Rush,Indiana",46945,17392.0,,,,
+"St. Joseph,Indiana",47673,266931.0,,,,5.0
+"Scott,Indiana",37475,24181.0,142600.0,,,
+"Shelby,Indiana",43854,44436.0,159500.0,,,
+"Spencer,Indiana",43971,20952.0,166750.0,,,
+"Starke,Indiana",35347,23363.0,134900.0,,,
+"Steuben,Indiana",43231,34185.0,219950.0,,,1.0
+"Sullivan,Indiana",35181,21475.0,80000.0,,,
+"Switzerland,Indiana",30827,10613.0,179900.0,,,
+"Tippecanoe,Indiana",39169,172780.0,199900.0,,,4.0
+"Tipton,Indiana",46610,15936.0,,,,
+"Union,Indiana",38998,7516.0,,,,
+"Vanderburgh,Indiana",45893,179703.0,149900.0,,,2.0
+"Vermillion,Indiana",39411,16212.0,,,,
+"Vigo,Indiana",38970,107848.0,129900.0,,,3.0
+"Wabash,Indiana",43820,32888.0,,,,
+"Warren,Indiana",45419,8508.0,,,,
+"Warrick,Indiana",56476,59689.0,219900.0,,,1.0
+"Washington,Indiana",38123,28262.0,149000.0,,,
+"Wayne,Indiana",41505,68917.0,89900.0,,,
+"Wells,Indiana",42730,27636.0,140950.0,,,
+"White,Indiana",43852,24643.0,169900.0,,,
+"Whitley,Indiana",44528,33292.0,159900.0,,,
+"Adair,Iowa",51989,7682.0,,,,
+"Adams,Iowa",66319,4029.0,,,,
+"Allamakee,Iowa",45745,14330.0,140000.0,,,
+"Appanoose,Iowa",38478,12887.0,90000.0,,,
+"Audubon,Iowa",48279,6119.0,89500.0,,,
+"Benton,Iowa",53994,26076.0,159975.0,,,
+"Black Hawk,Iowa",44764,131090.0,154900.0,,,2.0
+"Boone,Iowa",49606,26306.0,149900.0,,,
+"Bremer,Iowa",49405,24276.0,167500.0,,,
+"Buchanan,Iowa",46491,20958.0,137250.0,,,
+"Buena Vista,Iowa",50000,20260.0,132000.0,,,
+"Butler,Iowa",49863,14867.0,122900.0,,,
+"Calhoun,Iowa",51217,9670.0,75000.0,,,
+"Carroll,Iowa",54456,20816.0,148500.0,,,
+"Cass,Iowa",48327,13956.0,95000.0,,,
+"Cedar,Iowa",53356,18499.0,176900.0,,,
+"Cerro Gordo,Iowa",53342,44151.0,159000.0,,,
+"Cherokee,Iowa",62827,12072.0,91200.0,,,
+"Chickasaw,Iowa",58354,12439.0,124900.0,,,
+"Clarke,Iowa",43888,9286.0,129950.0,,,
+"Clay,Iowa",51876,16667.0,134900.0,,,
+"Clayton,Iowa",50371,18129.0,,,,
+"Clinton,Iowa",44244,49116.0,86000.0,,,
+"Crawford,Iowa",41765,17096.0,114900.0,,,
+"Dallas,Iowa",66128,66135.0,285000.0,,,1.0
+"Davis,Iowa",36921,8753.0,159900.0,,,
+"Decatur,Iowa",35908,8457.0,89500.0,,,
+"Delaware,Iowa",51998,17764.0,185000.0,,,
+"Des Moines,Iowa",50515,40325.0,129900.0,,,1.0
+"Dickinson,Iowa",58592,16667.0,295000.0,,,
+"Dubuque,Iowa",49085,93653.0,209450.0,,,1.0
+"Emmet,Iowa",43501,10302.0,,,,
+"Fayette,Iowa",44263,20880.0,89900.0,,,
+"Floyd,Iowa",46560,16303.0,99500.0,,,
+"Franklin,Iowa",51971,10680.0,118450.0,,,
+"Fremont,Iowa",45399,7441.0,87700.0,,,
+"Greene,Iowa",48356,9336.0,89250.0,,,
+"Grundy,Iowa",53270,12453.0,,,,
+"Guthrie,Iowa",52694,10954.0,,,,
+"Hamilton,Iowa",53071,15673.0,134900.0,,,
+"Hancock,Iowa",54791,11341.0,114900.0,,,
+"Hardin,Iowa",52677,17534.0,85900.0,,,
+"Harrison,Iowa",44895,14928.0,,,,
+"Henry,Iowa",43223,20145.0,149500.0,,,
+"Howard,Iowa",48232,9566.0,,,,
+"Humboldt,Iowa",50201,9815.0,,,,
+"Ida,Iowa",52758,7089.0,,,,
+"Iowa,Iowa",55204,16355.0,130950.0,,,
+"Jackson,Iowa",45167,19848.0,204900.0,,,
+"Jasper,Iowa",43551,36842.0,134450.0,,,
+"Jefferson,Iowa",42320,16843.0,145000.0,,,
+"Johnson,Iowa",52672,130882.0,275000.0,,,
+"Jones,Iowa",43652,20638.0,154000.0,,,
+"Keokuk,Iowa",44509,10511.0,,,,
+"Kossuth,Iowa",52992,15543.0,107499.0,,,
+"Lee,Iowa",42174,35862.0,104500.0,,,
+"Linn,Iowa",52743,211226.0,195000.0,,,2.0
+"Louisa,Iowa",41038,11387.0,126500.0,,,
+"Lucas,Iowa",42126,8898.0,99500.0,,,
+"Lyon,Iowa",60892,11581.0,,,,
+"Madison,Iowa",49505,15679.0,200000.0,,,
+"Mahaska,Iowa",43914,22381.0,124950.0,,,
+"Marion,Iowa",48956,33309.0,189450.0,,,
+"Marshall,Iowa",43652,40648.0,122900.0,,,
+"Mills,Iowa",56647,15059.0,217000.0,,,
+"Mitchell,Iowa",63318,10776.0,109000.0,,,
+"Monona,Iowa",48118,9243.0,,,,
+"Monroe,Iowa",43833,7970.0,,,,
+"Montgomery,Iowa",42280,10740.0,89900.0,,,
+"Muscatine,Iowa",47553,42745.0,134900.0,,,1.0
+"O'Brien,Iowa",59835,14398.0,,,,
+"Osceola,Iowa",57164,6462.0,,,,
+"Page,Iowa",41629,15932.0,79900.0,,,
+"Palo Alto,Iowa",53056,9421.0,,,,
+"Plymouth,Iowa",57589,24986.0,199900.0,,,
+"Pocahontas,Iowa",52699,7310.0,,,,
+"Polk,Iowa",53215,430640.0,216700.0,,,9.0
+"Pottawattamie,Iowa",45604,93158.0,159000.0,,,
+"Poweshiek,Iowa",46950,18914.0,169000.0,,,
+"Ringgold,Iowa",45714,5131.0,,,,
+"Sac,Iowa",56931,10350.0,,,,
+"Scott,Iowa",54323,165224.0,229900.0,,,1.0
+"Shelby,Iowa",50834,12167.0,129000.0,,,
+"Sioux,Iowa",56029,33704.0,180950.0,,,
+"Story,Iowa",41885,89542.0,235650.0,,,1.0
+"Tama,Iowa",46483,17767.0,116000.0,,,
+"Taylor,Iowa",41585,6317.0,,,,
+"Union,Iowa",40494,12534.0,84000.0,,,
+"Van Buren,Iowa",41378,7570.0,109000.0,,,
+"Wapello,Iowa",39002,35625.0,90000.0,,,1.0
+"Warren,Iowa",50698,46225.0,249900.0,,,
+"Washington,Iowa",57438,21704.0,162400.0,,,
+"Wayne,Iowa",43981,6403.0,,,,
+"Webster,Iowa",45496,38013.0,116400.0,,,
+"Winnebago,Iowa",44528,10866.0,110000.0,,,
+"Winneshiek,Iowa",50175,21056.0,179900.0,,,
+"Woodbury,Iowa",43988,102172.0,151000.0,,,2.0
+"Worth,Iowa",42321,7598.0,,,,
+"Wright,Iowa",56451,13229.0,114250.0,,,
+"Allen,Kansas",40218,13371.0,88500.0,,,
+"Anderson,Kansas",38539,8102.0,,,,
+"Atchison,Kansas",37436,16924.0,94861.0,,,
+"Barber,Kansas",42497,4861.0,,,,
+"Barton,Kansas",48036,27674.0,114900.0,,,
+"Bourbon,Kansas",42697,15173.0,85000.0,,,
+"Brown,Kansas",43023,9984.0,75000.0,,,
+"Butler,Kansas",46157,65880.0,189900.0,,,
+"Chase,Kansas",46385,2790.0,,,,
+"Chautauqua,Kansas",40661,3669.0,,,,
+"Cherokee,Kansas",39645,21603.0,81121.5,,1.0,
+"Cheyenne,Kansas",47268,2726.0,,,,
+"Clark,Kansas",62654,2215.0,,,,
+"Clay,Kansas",42069,8535.0,129900.0,,,
+"Cloud,Kansas",38144,9533.0,79450.0,,,
+"Coffey,Kansas",54074,8601.0,120000.0,,,
+"Comanche,Kansas",45954,1891.0,,,,
+"Cowley,Kansas",38707,36311.0,89000.0,,,
+"Crawford,Kansas",37921,39134.0,85450.0,,,
+"Decatur,Kansas",46614,2961.0,,,,
+"Dickinson,Kansas",40582,19754.0,120000.0,,,
+"Doniphan,Kansas",37405,7945.0,,,,
+"Douglas,Kansas",43642,110826.0,249450.0,,,
+"Edwards,Kansas",52165,3037.0,,,,
+"Elk,Kansas",40899,2882.0,,,,
+"Ellis,Kansas",46465,28452.0,150500.0,,,
+"Ellsworth,Kansas",43316,6497.0,99999.0,,,
+"Finney,Kansas",43172,36776.0,211000.0,,,
+"Ford,Kansas",38962,33848.0,147450.0,,,
+"Franklin,Kansas",42383,25992.0,167000.0,,,1.0
+"Geary,Kansas",48907,34362.0,128200.0,,,
+"Gove,Kansas",58539,2695.0,,,,
+"Graham,Kansas",49624,2597.0,,,,
+"Grant,Kansas",46591,7829.0,162200.5,,,
+"Gray,Kansas",66429,6006.0,,,,
+"Greeley,Kansas",59191,1247.0,,,,
+"Greenwood,Kansas",42708,6689.0,80400.0,,,
+"Hamilton,Kansas",63834,2690.0,,,,
+"Harper,Kansas",47024,6034.0,,,,
+"Harvey,Kansas",42057,34684.0,139000.0,,,
+"Haskell,Kansas",52783,4256.0,,,,
+"Hodgeman,Kansas",49176,1916.0,,,,
+"Jackson,Kansas",41686,13462.0,,,,
+"Jefferson,Kansas",44480,19126.0,154000.0,,,
+"Jewell,Kansas",48428,3077.0,,,,
+"Johnson,Kansas",74010,544179.0,370000.0,,,34.0
+"Kearny,Kansas",56466,3977.0,,,,
+"Kingman,Kansas",42572,7858.0,68000.0,,,
+"Kiowa,Kansas",44262,2553.0,,,,
+"Labette,Kansas",42127,21607.0,69491.0,,,
+"Lane,Kansas",93628,1750.0,,,,
+"Leavenworth,Kansas",42851,76227.0,249900.0,,,
+"Lincoln,Kansas",41574,3241.0,,,,
+"Linn,Kansas",37267,9656.0,109000.0,,,
+"Logan,Kansas",47852,2756.0,,,,
+"Lyon,Kansas",38297,33690.0,133699.0,,,1.0
+"McPherson,Kansas",51016,29180.0,164950.0,,,
+"Marion,Kansas",41410,12660.0,94500.0,,,1.0
+"Marshall,Kansas",45766,10117.0,72250.0,,,
+"Meade,Kansas",64262,4575.0,,,,
+"Miami,Kansas",48748,32787.0,229500.0,,,
+"Mitchell,Kansas",54694,6373.0,,,,
+"Montgomery,Kansas",37576,35471.0,75000.0,,,
+"Morris,Kansas",42424,5923.0,139900.0,,,
+"Morton,Kansas",43644,3233.0,,,,
+"Nemaha,Kansas",54111,10178.0,,,,
+"Neosho,Kansas",39485,16512.0,89000.0,,,
+"Ness,Kansas",57310,3107.0,,,,
+"Norton,Kansas",42080,5671.0,,,,
+"Osage,Kansas",40102,16295.0,135000.0,,,
+"Osborne,Kansas",46018,3858.0,,,,
+"Ottawa,Kansas",41201,6091.0,,,,
+"Pawnee,Kansas",39223,6973.0,69950.0,,,
+"Phillips,Kansas",51320,5642.0,91950.0,,,
+"Pottawatomie,Kansas",52564,21604.0,235000.0,,,
+"Pratt,Kansas",47327,9656.0,89250.0,,,
+"Rawlins,Kansas",55821,2519.0,,,,
+"Reno,Kansas",41111,64511.0,109900.0,,,
+"Republic,Kansas",44273,4980.0,,,,
+"Rice,Kansas",42788,10083.0,,,,
+"Riley,Kansas",42566,71115.0,187000.0,,,
+"Rooks,Kansas",42363,5181.0,,,,
+"Rush,Kansas",44302,3307.0,,,,
+"Russell,Kansas",44443,6970.0,92000.0,,,
+"Saline,Kansas",49983,55606.0,154900.0,,,
+"Scott,Kansas",69254,4936.0,,,,
+"Sedgwick,Kansas",53776,498365.0,189900.0,,,
+"Seward,Kansas",38621,22952.0,142749.5,,,
+"Shawnee,Kansas",46861,177934.0,129900.0,,,
+"Sheridan,Kansas",50706,2556.0,,,,
+"Sherman,Kansas",45156,6010.0,,,,
+"Smith,Kansas",45484,3853.0,,,,
+"Stafford,Kansas",44534,4437.0,,,,
+"Stanton,Kansas",63897,2235.0,,,,
+"Stevens,Kansas",38970,5724.0,122500.0,,,
+"Sumner,Kansas",40027,24132.0,99900.0,,,
+"Thomas,Kansas",45671,7900.0,,,,
+"Trego,Kansas",50889,3001.0,,,,
+"Wabaunsee,Kansas",50534,7053.0,,,,
+"Wallace,Kansas",56954,1485.0,,,,
+"Washington,Kansas",45181,5799.0,,,,
+"Wichita,Kansas",70142,2234.0,,,,
+"Wilson,Kansas",43433,9409.0,,,,
+"Woodson,Kansas",35561,3309.0,,,,
+"Wyandotte,Kansas",33315,157505.0,137900.0,,,
+"Adair,Kentucky",31288,18656.0,149900.0,,,
+"Allen,Kentucky",32643,19956.0,179250.0,,,
+"Anderson,Kentucky",39321,21421.0,164900.0,,,1.0
+"Ballard,Kentucky",37939,8249.0,76000.0,,,
+"Barren,Kentucky",36633,42173.0,162000.0,,,2.0
+"Bath,Kentucky",30496,11591.0,,,,
+"Bell,Kentucky",29612,28691.0,,,,
+"Boone,Kentucky",48004,118811.0,257990.0,,,
+"Bourbon,Kentucky",44388,19985.0,,,,2.0
+"Boyd,Kentucky",39746,49542.0,125000.0,,,
+"Boyle,Kentucky",37780,28432.0,179450.0,,,3.0
+"Bracken,Kentucky",36758,8488.0,,,,1.0
+"Breathitt,Kentucky",33753,13878.0,,,,1.0
+"Breckinridge,Kentucky",34461,20059.0,165000.0,,,
+"Bullitt,Kentucky",40935,74319.0,231490.0,,,1.0
+"Butler,Kentucky",34420,12690.0,,,,
+"Caldwell,Kentucky",35066,12984.0,,,,
+"Calloway,Kentucky",35722,37191.0,189900.0,,,
+"Campbell,Kentucky",49015,90336.0,219500.0,,,2.0
+"Carlisle,Kentucky",43860,5104.0,,,,
+"Carroll,Kentucky",36349,10811.0,129700.0,,,
+"Carter,Kentucky",30847,27720.0,140000.0,,,
+"Casey,Kentucky",31205,15955.0,135000.0,,,1.0
+"Christian,Kentucky",37742,73955.0,139900.0,,,
+"Clark,Kentucky",39848,35613.0,175000.0,,,2.0
+"Clay,Kentucky",30566,21730.0,117250.0,,,
+"Clinton,Kentucky",31308,10272.0,,,,
+"Crittenden,Kentucky",35325,9315.0,,,,
+"Cumberland,Kentucky",35549,6856.0,134500.0,,,
+"Daviess,Kentucky",41754,96656.0,204900.0,,,1.0
+"Edmonson,Kentucky",32253,12161.0,191450.0,,,
+"Elliott,Kentucky",22481,7852.0,,,,
+"Estill,Kentucky",31555,14672.0,139950.0,,,1.0
+"Fayette,Kentucky",50180,295803.0,249950.0,,,2.0
+"Fleming,Kentucky",33537,14348.0,130000.0,,,
+"Floyd,Kentucky",36976,39451.0,,,,1.0
+"Franklin,Kentucky",41760,49285.0,171500.0,,,3.0
+"Fulton,Kentucky",33715,6813.0,,,,
+"Gallatin,Kentucky",32065,8589.0,,,,
+"Garrard,Kentucky",34363,16912.0,172900.0,,,
+"Grant,Kentucky",36093,24662.0,189900.0,,,3.0
+"Graves,Kentucky",38130,37121.0,132700.0,,,
+"Grayson,Kentucky",33580,25746.0,149500.0,,,
+"Green,Kentucky",34570,11258.0,,,,
+"Greenup,Kentucky",40933,36910.0,139250.0,,,1.0
+"Hancock,Kentucky",36929,8565.0,,,,
+"Hardin,Kentucky",43424,105543.0,208900.0,,,
+"Harlan,Kentucky",30877,29278.0,,,,1.0
+"Harrison,Kentucky",34889,18846.0,169900.0,,,1.0
+"Hart,Kentucky",32133,18199.0,147500.0,,,
+"Henderson,Kentucky",39891,46250.0,170900.0,,,2.0
+"Henry,Kentucky",37981,15416.0,,,,
+"Hickman,Kentucky",44912,4902.0,,,,
+"Hopkins,Kentucky",39236,46920.0,134244.0,,,2.0
+"Jackson,Kentucky",28352,13494.0,109900.0,,,
+"Jefferson,Kentucky",51937,741096.0,215000.0,,,3.0
+"Jessamine,Kentucky",43470,48586.0,254070.0,,,2.0
+"Johnson,Kentucky",32986,23356.0,124900.0,,,
+"Kenton,Kentucky",57982,159720.0,203594.5,,,11.0
+"Knott,Kentucky",30118,16346.0,,,,
+"Knox,Kentucky",29431,31883.0,139000.0,,,
+"Larue,Kentucky",36525,14193.0,144900.0,,,
+"Laurel,Kentucky",33921,58849.0,168000.0,,,4.0
+"Lawrence,Kentucky",31654,15860.0,,,,
+"Lee,Kentucky",30157,7887.0,,,,2.0
+"Leslie,Kentucky",32724,11310.0,,,,
+"Letcher,Kentucky",30852,24519.0,107000.0,,,
+"Lewis,Kentucky",31156,13870.0,97200.0,,,
+"Lincoln,Kentucky",31399,24742.0,139900.0,,,4.0
+"Livingston,Kentucky",37792,9519.0,139900.0,,,
+"Logan,Kentucky",36005,26835.0,156250.0,,,
+"Lyon,Kentucky",36652,8314.0,249900.0,,,
+"McCracken,Kentucky",48383,65565.0,164000.0,,,2.0
+"McCreary,Kentucky",25835,18306.0,93950.0,,,
+"McLean,Kentucky",41603,9531.0,,,,
+"Madison,Kentucky",35397,82916.0,179900.0,,,2.0
+"Magoffin,Kentucky",30537,13333.0,,,,
+"Marion,Kentucky",36083,19820.0,149900.0,,,
+"Marshall,Kentucky",41625,31448.0,169000.0,,,
+"Martin,Kentucky",29840,12929.0,,,,
+"Mason,Kentucky",40541,17490.0,124900.0,,,2.0
+"Meade,Kentucky",40026,28602.0,199700.0,,,
+"Menifee,Kentucky",30305,6306.0,89500.0,,,
+"Mercer,Kentucky",37146,21331.0,164950.0,,,3.0
+"Metcalfe,Kentucky",31512,10099.0,124000.0,,,
+"Monroe,Kentucky",36385,10963.0,,,,
+"Montgomery,Kentucky",34751,26499.0,155000.0,,,
+"Morgan,Kentucky",26831,13923.0,117000.0,,,
+"Muhlenberg,Kentucky",33892,31499.0,128900.0,,,
+"Nelson,Kentucky",42442,43437.0,194995.0,,,
+"Nicholas,Kentucky",33999,7135.0,110000.0,,,2.0
+"Ohio,Kentucky",33262,23842.0,119950.0,,,
+"Oldham,Kentucky",63039,60316.0,369900.0,,,
+"Owen,Kentucky",33940,10841.0,,,,3.0
+"Owsley,Kentucky",31486,4755.0,,,,
+"Pendleton,Kentucky",43757,14877.0,154500.0,,,1.0
+"Perry,Kentucky",38523,28712.0,,,,
+"Pike,Kentucky",36319,65024.0,159000.0,,,6.0
+"Powell,Kentucky",31498,12613.0,149450.0,,,
+"Pulaski,Kentucky",37024,63063.0,172700.0,,,6.0
+"Robertson,Kentucky",32815,2282.0,,,,
+"Rockcastle,Kentucky",31176,17056.0,,,,
+"Rowan,Kentucky",30777,23333.0,169000.0,,,3.0
+"Russell,Kentucky",34343,17565.0,149450.0,,,
+"Scott,Kentucky",43409,47173.0,235000.0,,,3.0
+"Shelby,Kentucky",45392,42074.0,242990.0,,,
+"Simpson,Kentucky",38189,17327.0,184900.0,,,
+"Spencer,Kentucky",43960,17061.0,273500.0,,,
+"Taylor,Kentucky",35020,24512.0,144900.0,,,
+"Todd,Kentucky",38508,12460.0,,,,
+"Trigg,Kentucky",36495,14339.0,179900.0,,,1.0
+"Trimble,Kentucky",36565,8809.0,,,,
+"Union,Kentucky",33736,15007.0,,,,
+"Warren,Kentucky",38045,113792.0,239999.0,,,
+"Washington,Kentucky",37824,11717.0,184700.0,,,
+"Wayne,Kentucky",28484,20813.0,174900.0,,,
+"Webster,Kentucky",39188,13621.0,,,,
+"Whitley,Kentucky",33447,35637.0,138000.0,,,1.0
+"Wolfe,Kentucky",31083,7355.0,,,,
+"Woodford,Kentucky",51753,24939.0,265000.0,,,
+"Acadia,Louisiana",37304,,145000.0,,,
+"Allen,Louisiana",33381,,,,,
+"Ascension,Louisiana",49829,,267000.0,,,
+"Assumption,Louisiana",46788,,183500.0,,,
+"Avoyelles,Louisiana",37911,,110000.0,,,
+"Beauregard,Louisiana",42782,,169900.0,,,
+"Bienville,Louisiana",38493,,,,,
+"Bossier,Louisiana",44149,,224900.0,,,
+"Caddo,Louisiana",48413,,164900.0,,,
+"Calcasieu,Louisiana",48968,,217900.0,,,3.0
+"Caldwell,Louisiana",33950,,,,,
+"Cameron,Louisiana",50280,,289500.0,,,
+"Catahoula,Louisiana",33655,,,,,
+"Claiborne,Louisiana",35240,,,,,
+"Concordia,Louisiana",32942,,180000.0,,,
+"De Soto,Louisiana",40584,,289500.0,,,
+"East Baton Rouge,Louisiana",51386,,230000.0,,,1.0
+"East Carroll,Louisiana",36010,,,,,
+"East Feliciana,Louisiana",42771,,,,,
+"Evangeline,Louisiana",33671,,99000.0,,,
+"Franklin,Louisiana",31928,,,,,
+"Grant,Louisiana",31828,,159900.0,,,
+"Iberia,Louisiana",39270,,145000.0,,,
+"Iberville,Louisiana",41423,,195500.0,,,
+"Jackson,Louisiana",34116,,,,,
+"Jefferson,Louisiana",51005,,234616.5,,,1.0
+"Jefferson Davis,Louisiana",42334,,164450.0,,,
+"Lafayette,Louisiana",50273,,214500.0,,,1.0
+"Lafourche,Louisiana",47096,,191000.0,,,2.0
+"LaSalle,Louisiana",32413,,,,,
+"Lincoln,Louisiana",40410,,232800.0,,,
+"Livingston,Louisiana",40658,,209000.0,,,
+"Madison,Louisiana",32437,,,,,
+"Morehouse,Louisiana",38495,,118500.0,,,
+"Natchitoches,Louisiana",39860,,218000.0,,,
+"Orleans,Louisiana",52004,,319000.0,,,3.0
+"Ouachita,Louisiana",41053,,213900.0,,,
+"Plaquemines,Louisiana",49376,,310000.0,,,
+"Pointe Coupee,Louisiana",44366,,266895.0,,,
+"Rapides,Louisiana",46090,,189900.0,,,
+"Red River,Louisiana",42201,,,,,
+"Richland,Louisiana",37330,,160450.0,,,
+"Sabine,Louisiana",34558,,225000.0,,,
+"St. Bernard,Louisiana",32130,,,,,
+"St. Charles,Louisiana",49353,,,,,
+"St. Helena,Louisiana",41592,,,,,
+"St. James,Louisiana",48484,,,,,
+"St. John the Baptist,Louisiana",40573,,,,,
+"St. Landry,Louisiana",41191,,,,,
+"St. Martin,Louisiana",37645,,,,,
+"St. Mary,Louisiana",39280,,,,,
+"St. Tammany,Louisiana",62366,,,,,
+"Tangipahoa,Louisiana",38974,,189900.0,,,
+"Tensas,Louisiana",36630,,,,,
+"Terrebonne,Louisiana",41504,,180000.0,,,
+"Union,Louisiana",38794,,,,,
+"Vermilion,Louisiana",39042,,171000.0,,,
+"Vernon,Louisiana",40729,,159000.0,,,
+"Washington,Louisiana",33480,,160000.0,,,
+"Webster,Louisiana",40175,,122450.0,,,
+"West Baton Rouge,Louisiana",46976,,227950.0,,,
+"West Carroll,Louisiana",36633,,,,,
+"West Feliciana,Louisiana",38655,,,,,
+"Winn,Louisiana",36698,,,,,
+"Androscoggin,Maine",41528,107702.0,189900.0,,,2.0
+"Aroostook,Maine",41241,71870.0,110000.0,,,
+"Cumberland,Maine",62523,281674.0,359900.0,,,4.0
+"Franklin,Maine",38544,30768.0,219950.0,,,
+"Hancock,Maine",51259,54418.0,339000.0,,,
+"Kennebec,Maine",44940,122151.0,199900.0,,,
+"Knox,Maine",52358,39736.0,299000.0,,,
+"Lincoln,Maine",50922,34457.0,325000.0,,,
+"Oxford,Maine",37999,57833.0,199000.0,,,
+"Penobscot,Maine",42053,153923.0,169250.0,,,1.0
+"Piscataquis,Maine",38427,17535.0,145000.0,,,
+"Sagadahoc,Maine",51325,35293.0,289900.0,,,
+"Somerset,Maine",38142,52228.0,139900.0,,,1.0
+"Waldo,Maine",40912,38786.0,249900.0,,,
+"Washington,Maine",40378,32856.0,159900.0,,,1.0
+"York,Maine",52068,197131.0,339900.0,,,
+"Allegany,Maryland",40517,75087.0,104900.0,,,4.0
+"Anne Arundel,Maryland",67363,537656.0,399215.0,30.0,9.0,16.0
+"Baltimore,Maryland",61556,805029.0,269900.0,2.0,1.0,12.0
+"Calvert,Maryland",62591,88737.0,369897.5,2.0,1.0,4.0
+"Caroline,Maryland",45906,33066.0,219900.0,,,
+"Carroll,Maryland",63039,167134.0,384900.0,4.0,2.0,17.0
+"Cecil,Maryland",47695,101108.0,289000.0,,,
+"Charles,Maryland",57051,146551.0,333000.0,5.0,2.0,8.0
+"Dorchester,Maryland",46562,32618.0,224900.0,,,1.0
+"Frederick,Maryland",61869,233385.0,370000.0,16.0,5.0,3.0
+"Garrett,Maryland",45595,30097.0,326950.0,,,5.0
+"Harford,Maryland",58841,244826.0,318000.0,,,7.0
+"Howard,Maryland",78416,287085.0,524900.0,19.0,7.0,6.0
+"Kent,Maryland",61497,20197.0,275000.0,,,
+"Montgomery,Maryland",89690,971777.0,514900.0,153.0,54.0,47.0
+"Prince George's,Maryland",49420,863420.0,,75.0,18.0,25.0
+"Queen Anne's,Maryland",64810,47798.0,,2.0,1.0,
+"St. Mary's,Maryland",56820,105151.0,,2.0,1.0,2.0
+"Somerset,Maryland",31562,26470.0,159900.0,,,1.0
+"Talbot,Maryland",73232,37782.0,467000.0,3.0,1.0,
+"Washington,Maryland",47092,147430.0,225000.0,8.0,2.0,8.0
+"Wicomico,Maryland",42054,98733.0,204400.0,,,
+"Worcester,Maryland",60007,51454.0,319000.0,,,
+"Baltimore City,Maryland",51357,,160000.0,,,
+"Barnstable,Massachusetts",74756,215888.0,519000.0,,,
+"Berkshire,Massachusetts",56503,131219.0,317500.0,,,1.0
+"Bristol,Massachusetts",54089,548285.0,349900.0,,,12.0
+"Dukes,Massachusetts",93726,16535.0,1500000.0,,,
+"Essex,Massachusetts",67507,743159.0,484900.0,,,15.0
+"Franklin,Massachusetts",54689,71372.0,244250.0,,,2.0
+"Hampden,Massachusetts",51187,463490.0,229000.0,,,3.0
+"Hampshire,Massachusetts",52984,158080.0,300000.0,,,1.0
+"Middlesex,Massachusetts",83795,1503085.0,589900.0,,,38.0
+"Nantucket,Massachusetts",124168,10172.0,,,,
+"Norfolk,Massachusetts",92285,670850.0,560000.0,,,16.0
+"Plymouth,Massachusetts",67505,494919.0,450000.0,,,3.0
+"Suffolk,Massachusetts",81152,722023.0,699900.0,,,12.0
+"Worcester,Massachusetts",57003,798552.0,329000.0,,,6.0
+"Alcona,Michigan",38375,10942.0,129900.0,,,
+"Alger,Michigan",33767,9601.0,145000.0,,,
+"Allegan,Michigan",45182,111408.0,265000.0,,,
+"Alpena,Michigan",40985,29598.0,115000.0,,,
+"Antrim,Michigan",47070,23580.0,,,,
+"Arenac,Michigan",37369,15899.0,109900.0,,,
+"Baraga,Michigan",33519,8860.0,129950.0,,,
+"Barry,Michigan",44919,59173.0,219000.0,,,
+"Bay,Michigan",41722,107771.0,105000.0,,,
+"Benzie,Michigan",43557,17525.0,242000.0,,,
+"Berrien,Michigan",47430,156813.0,252000.0,,,3.0
+"Branch,Michigan",37622,45248.0,139900.0,,,
+"Calhoun,Michigan",40276,136146.0,144123.0,,,
+"Cass,Michigan",44994,52293.0,199900.0,,,
+"Charlevoix,Michigan",52885,25949.0,279000.0,,,
+"Cheboygan,Michigan",40080,26152.0,149000.0,,,
+"Chippewa,Michigan",34269,38520.0,124950.0,,,
+"Clare,Michigan",34120,30926.0,79900.0,,,
+"Clinton,Michigan",46518,75382.0,235000.0,,,
+"Crawford,Michigan",34648,14074.0,129000.0,,,
+"Delta,Michigan",40551,37069.0,115000.0,,,
+"Dickinson,Michigan",49397,26168.0,109900.0,,,
+"Eaton,Michigan",42693,107759.0,184900.0,,,2.0
+"Emmet,Michigan",57115,32694.0,249000.0,,,
+"Genesee,Michigan",41068,425790.0,159900.0,,,13.0
+"Gladwin,Michigan",36874,25692.0,124900.0,,,
+"Gogebic,Michigan",39945,16427.0,,,,
+"Grand Traverse,Michigan",50639,86986.0,279900.0,,,1.0
+"Gratiot,Michigan",37834,42476.0,112700.0,,,
+"Hillsdale,Michigan",36598,46688.0,158000.0,,,
+"Houghton,Michigan",37674,36628.0,126750.0,,,
+"Huron,Michigan",45425,33118.0,119900.0,,,
+"Ingham,Michigan",40761,280895.0,134900.0,,,3.0
+"Ionia,Michigan",35273,63905.0,149000.0,,,
+"Iosco,Michigan",37970,25887.0,129000.0,,,
+"Iron,Michigan",44959,11817.0,115000.0,,,
+"Isabella,Michigan",35501,70311.0,144900.0,,,
+"Jackson,Michigan",39832,160248.0,146000.0,,,
+"Kalamazoo,Michigan",48723,250331.0,215000.0,,,
+"Kalkaska,Michigan",34623,17153.0,149900.0,,,
+"Kent,Michigan",53935,602622.0,259400.0,,,6.0
+"Keweenaw,Michigan",47618,2156.0,,,,
+"Lake,Michigan",31813,11539.0,99900.0,,,
+"Lapeer,Michigan",43679,88319.0,224850.0,,,
+"Leelanau,Michigan",67320,21708.0,388250.0,,,
+"Lenawee,Michigan",39600,99892.0,159900.0,,,1.0
+"Livingston,Michigan",58326,180967.0,292000.0,,,
+"Luce,Michigan",31827,6631.0,,,,
+"Mackinac,Michigan",44457,11113.0,155900.0,,,
+"Macomb,Michigan",46530,840978.0,184999.0,,,17.0
+"Manistee,Michigan",38814,24733.0,164750.0,,,
+"Marquette,Michigan",40036,67077.0,175000.0,,,1.0
+"Mason,Michigan",41667,28705.0,159900.0,,,
+"Mecosta,Michigan",34252,42798.0,169900.0,,,
+"Menominee,Michigan",43594,24029.0,119900.0,,,
+"Midland,Michigan",60467,83629.0,159000.0,,,1.0
+"Missaukee,Michigan",34972,14849.0,149900.0,,,
+"Monroe,Michigan",47496,152021.0,169900.0,,,
+"Montcalm,Michigan",34972,63342.0,159450.0,,,
+"Montmorency,Michigan",37363,9765.0,102000.0,,,
+"Muskegon,Michigan",39072,172188.0,163400.0,,,2.0
+"Newaygo,Michigan",38037,48460.0,165000.0,,,
+"Oakland,Michigan",72741,1202362.0,299999.0,,,14.0
+"Oceana,Michigan",37950,26570.0,176500.0,,,
+"Ogemaw,Michigan",35396,21699.0,130000.0,,,
+"Ontonagon,Michigan",40129,6780.0,,,,
+"Osceola,Michigan",36023,23528.0,120000.0,,,
+"Oscoda,Michigan",33896,8640.0,79900.0,,,
+"Otsego,Michigan",40589,24164.0,159500.0,,,
+"Ottawa,Michigan",49418,263801.0,289900.0,,,9.0
+"Presque Isle,Michigan",39004,13376.0,129000.0,,,
+"Roscommon,Michigan",37141,24449.0,119900.0,,,
+"Saginaw,Michigan",38754,200169.0,110900.0,,,4.0
+"St. Clair,Michigan",44316,163040.0,,,,2.0
+"St. Joseph,Michigan",38866,61295.0,,,,1.0
+"Sanilac,Michigan",38004,43114.0,131900.0,,,
+"Schoolcraft,Michigan",39948,8485.0,125000.0,,,
+"Shiawassee,Michigan",39435,70648.0,133011.5,,,1.0
+"Tuscola,Michigan",37979,55729.0,119900.0,,,
+"Van Buren,Michigan",41123,76258.0,224000.0,,,1.0
+"Washtenaw,Michigan",59363,344791.0,328495.0,,,4.0
+"Wayne,Michigan",42942,1820584.0,119000.0,,,35.0
+"Wexford,Michigan",36454,32735.0,144900.0,,,
+"Aitkin,Minnesota",39780,16202.0,198750.0,,,
+"Anoka,Minnesota",51258,330844.0,289900.0,,,4.0
+"Becker,Minnesota",47272,32504.0,282500.0,,,
+"Beltrami,Minnesota",41565,44442.0,213900.0,,,3.0
+"Benton,Minnesota",43830,38451.0,214950.0,,,
+"Big Stone,Minnesota",57221,5269.0,89700.0,,,
+"Blue Earth,Minnesota",44383,64013.0,234900.0,,,2.0
+"Brown,Minnesota",52995,25893.0,,,,
+"Carlton,Minnesota",43098,35386.0,194900.0,,,
+"Carver,Minnesota",71350,91042.0,384445.0,,,1.0
+"Cass,Minnesota",47443,28567.0,284900.0,,,
+"Chippewa,Minnesota",49836,12441.0,,,,
+"Chisago,Minnesota",48750,53887.0,299450.0,,,
+"Clay,Minnesota",43180,58999.0,225000.0,,,1.0
+"Clearwater,Minnesota",44001,8695.0,,,,
+"Cook,Minnesota",55319,5176.0,289450.0,,,
+"Cottonwood,Minnesota",47982,11687.0,99700.0,,,
+"Crow Wing,Minnesota",45610,62500.0,259000.0,,,
+"Dakota,Minnesota",60651,398552.0,319900.0,,,3.0
+"Dodge,Minnesota",47984,20087.0,222450.0,,,
+"Douglas,Minnesota",53665,36009.0,272400.0,,,
+"Faribault,Minnesota",43343,14553.0,99450.0,,,
+"Fillmore,Minnesota",45378,20866.0,169900.0,,,
+"Freeborn,Minnesota",45808,31255.0,,,,
+"Goodhue,Minnesota",53549,46183.0,235000.0,,,
+"Grant,Minnesota",52556,6018.0,119500.0,,,
+"Hennepin,Minnesota",74698,1152425.0,349900.0,,,4.0
+"Houston,Minnesota",52354,19027.0,223900.0,,,
+"Hubbard,Minnesota",43235,20428.0,234900.0,,,
+"Isanti,Minnesota",44049,37816.0,249000.0,,,
+"Itasca,Minnesota",43685,45058.0,174900.0,,,
+"Jackson,Minnesota",53276,10266.0,129900.0,,,
+"Kanabec,Minnesota",42509,16239.0,174950.0,,,
+"Kandiyohi,Minnesota",54667,42239.0,216888.0,,,
+"Kittson,Minnesota",55597,4552.0,,,,
+"Koochiching,Minnesota",41890,13311.0,160000.0,,,
+"Lac qui Parle,Minnesota",55688,7259.0,,,,
+"Lake,Minnesota",48132,10866.0,179900.0,,,
+"Lake of the Woods,Minnesota",57357,4045.0,,,,
+"Le Sueur,Minnesota",48799,27703.0,249001.0,,,
+"Lincoln,Minnesota",48520,5896.0,,,,
+"Lyon,Minnesota",49455,25857.0,,,,
+"McLeod,Minnesota",49136,36651.0,189900.0,,,
+"Mahnomen,Minnesota",36950,5413.0,,,,
+"Marshall,Minnesota",51509,9439.0,120000.0,,,
+"Martin,Minnesota",50083,20840.0,,,,
+"Meeker,Minnesota",43944,23300.0,198390.0,,,
+"Mille Lacs,Minnesota",41582,26097.0,198900.0,,,
+"Morrison,Minnesota",42568,33198.0,184900.0,,,
+"Mower,Minnesota",48423,39163.0,,,,1.0
+"Murray,Minnesota",54825,8725.0,149900.0,,,
+"Nicollet,Minnesota",49605,32727.0,236250.0,,,
+"Nobles,Minnesota",45100,21378.0,169900.0,,,
+"Norman,Minnesota",44254,6852.0,,,,
+"Olmsted,Minnesota",58554,144248.0,269900.0,,,
+"Otter Tail,Minnesota",48275,57303.0,229900.0,,,
+"Pennington,Minnesota",55399,13930.0,147450.0,,,
+"Pine,Minnesota",37067,29750.0,199900.0,,,
+"Pipestone,Minnesota",58004,9596.0,,,,
+"Polk,Minnesota",48820,31600.0,190400.0,,,
+"Pope,Minnesota",52091,10995.0,,,,
+"Ramsey,Minnesota",54934,508640.0,254900.0,,,2.0
+"Red Lake,Minnesota",51750,4089.0,,,,
+"Redwood,Minnesota",49732,16059.0,95000.0,,,
+"Renville,Minnesota",51432,15730.0,,,,
+"Rice,Minnesota",44096,64142.0,269900.0,,,2.0
+"Rock,Minnesota",51956,9687.0,,,,
+"Roseau,Minnesota",51307,15629.0,144900.0,,,
+"St. Louis,Minnesota",47417,200226.0,,,,1.0
+"Scott,Minnesota",59687,129928.0,370995.0,,,7.0
+"Sherburne,Minnesota",47031,88499.0,279000.0,,,1.0
+"Sibley,Minnesota",46632,15226.0,161950.0,,,
+"Stearns,Minnesota",47196,150642.0,210000.0,,,1.0
+"Steele,Minnesota",47604,36576.0,179950.0,,,1.0
+"Stevens,Minnesota",49913,9726.0,,,,
+"Swift,Minnesota",51320,9783.0,,,,
+"Todd,Minnesota",42005,24895.0,,,,
+"Traverse,Minnesota",61255,3558.0,,,,
+"Wabasha,Minnesota",48724,21676.0,,,,
+"Wadena,Minnesota",39746,13843.0,124900.0,,,
+"Waseca,Minnesota",44556,19136.0,162450.0,,,
+"Washington,Minnesota",67928,238136.0,379900.0,,,2.0
+"Watonwan,Minnesota",42979,11211.0,,,,
+"Wilkin,Minnesota",59516,6576.0,,,,
+"Winona,Minnesota",50036,51461.0,189700.0,,,1.0
+"Wright,Minnesota",50181,124700.0,299900.0,,,
+"Yellow Medicine,Minnesota",57186,10438.0,122000.0,,,
+"Adams,Mississippi",33880,32297.0,169000.0,,,2.0
+"Alcorn,Mississippi",36003,37057.0,163750.0,,,
+"Amite,Mississippi",33460,13131.0,,,,
+"Attala,Mississippi",33809,19564.0,,,,
+"Benton,Mississippi",30285,8729.0,,,,1.0
+"Bolivar,Mississippi",38213,34145.0,,,,
+"Calhoun,Mississippi",33043,14962.0,,,,
+"Carroll,Mississippi",37615,10597.0,,,,
+"Chickasaw,Mississippi",34805,17392.0,,,,
+"Choctaw,Mississippi",33646,8547.0,,,,
+"Claiborne,Mississippi",31494,9604.0,,,,
+"Clarke,Mississippi",36431,16732.0,,,,
+"Clay,Mississippi",39191,20634.0,135000.0,,,
+"Coahoma,Mississippi",33915,26151.0,,,,
+"Copiah,Mississippi",33203,29449.0,141450.0,,,
+"Covington,Mississippi",35748,19568.0,157000.0,,,
+"DeSoto,Mississippi",40702,161252.0,244500.0,,,3.0
+"Forrest,Mississippi",38880,74934.0,146000.0,,,2.0
+"Franklin,Mississippi",33970,8118.0,,,,
+"George,Mississippi",32529,22578.0,158950.0,,,
+"Greene,Mississippi",28716,14400.0,150000.0,,,
+"Grenada,Mississippi",35632,21906.0,139000.0,,,
+"Hancock,Mississippi",35262,43929.0,199000.0,,,
+"Harrison,Mississippi",37303,187105.0,199900.0,,,2.0
+"Hinds,Mississippi",39311,245285.0,149900.0,,,
+"Holmes,Mississippi",28371,19198.0,,,,
+"Humphreys,Mississippi",31864,9375.0,,,,
+"Issaquena,Mississippi",18541,1406.0,,,,
+"Itawamba,Mississippi",34734,23401.0,129950.0,,,
+"Jackson,Mississippi",37499,139668.0,174900.0,,,2.0
+"Jasper,Mississippi",37281,17062.0,155000.0,,,
+"Jefferson,Mississippi",33098,7726.0,,,,
+"Jefferson Davis,Mississippi",30097,12487.0,,,,
+"Jones,Mississippi",38122,67761.0,148191.5,,,
+"Kemper,Mississippi",29287,10456.0,,,,
+"Lafayette,Mississippi",42110,47351.0,265000.0,,,
+"Lamar,Mississippi",40529,55658.0,219900.0,,,
+"Lauderdale,Mississippi",37959,80261.0,148000.0,,,
+"Lawrence,Mississippi",34616,12929.0,,,,
+"Leake,Mississippi",31436,23805.0,,,,
+"Lee,Mississippi",41934,82910.0,189900.0,,,1.0
+"Leflore,Mississippi",36399,32317.0,112000.0,,,
+"Lincoln,Mississippi",38682,34869.0,151950.0,,,
+"Lowndes,Mississippi",38498,59779.0,179900.0,,,
+"Madison,Mississippi",64033,95203.0,323200.0,,,
+"Marion,Mississippi",34526,27088.0,139900.0,,,
+"Marshall,Mississippi",32341,37144.0,,,,
+"Monroe,Mississippi",34664,36989.0,,,,
+"Montgomery,Mississippi",34180,10925.0,,,,
+"Neshoba,Mississippi",36604,29676.0,113750.0,,,
+"Newton,Mississippi",34645,21720.0,,,,
+"Noxubee,Mississippi",32805,11545.0,,,,
+"Oktibbeha,Mississippi",34367,47671.0,249250.0,,,1.0
+"Panola,Mississippi",32496,34707.0,141000.0,,,
+"Pearl River,Mississippi",36230,55834.0,175500.0,,,
+"Perry,Mississippi",31934,12250.0,,,,
+"Pike,Mississippi",31048,40404.0,124993.5,,,
+"Pontotoc,Mississippi",32996,29957.0,185000.0,,,
+"Prentiss,Mississippi",30743,25276.0,,,,
+"Quitman,Mississippi",27088,8223.0,,,,
+"Rankin,Mississippi",44661,141617.0,229700.0,,,1.0
+"Scott,Mississippi",32095,28264.0,,,,
+"Sharkey,Mississippi",32070,4916.0,,,,
+"Simpson,Mississippi",37036,27503.0,140000.0,,,
+"Smith,Mississippi",35791,16491.0,,,,
+"Stone,Mississippi",31516,17786.0,159900.0,,,
+"Sunflower,Mississippi",30859,29450.0,,,,
+"Tallahatchie,Mississippi",27757,15378.0,,,,
+"Tate,Mississippi",35182,28886.0,225894.0,,,
+"Tippah,Mississippi",33919,22232.0,149750.0,,,
+"Tishomingo,Mississippi",33559,19593.0,167200.0,,,
+"Tunica,Mississippi",32425,10778.0,,,,
+"Union,Mississippi",32242,27134.0,179000.0,,,
+"Walthall,Mississippi",31757,15443.0,,,,
+"Warren,Mississippi",39580,48773.0,135000.0,,,2.0
+"Washington,Mississippi",37568,51137.0,107000.0,,,
+"Wayne,Mississippi",34775,20747.0,,,,
+"Webster,Mississippi",38464,10253.0,,,,
+"Wilkinson,Mississippi",29413,9878.0,,,,
+"Winston,Mississippi",35742,19198.0,99700.0,,,
+"Yalobusha,Mississippi",36729,12678.0,,,,
+"Yazoo,Mississippi",27275,28065.0,,,,
+"Adair,Missouri",33578,25607.0,119950.0,,,
+"Andrew,Missouri",45118,17291.0,210000.0,,,
+"Atchison,Missouri",42633,5685.0,,,,
+"Audrain,Missouri",40111,25529.0,115750.0,,,
+"Barry,Missouri",34540,35597.0,165000.0,,,
+"Barton,Missouri",35884,12402.0,,,,
+"Bates,Missouri",38864,17049.0,170000.0,,,
+"Benton,Missouri",35973,19056.0,149900.0,,,
+"Bollinger,Missouri",32454,12363.0,134900.0,,,
+"Boone,Missouri",47687,162642.0,226950.0,,,1.0
+"Buchanan,Missouri",39810,89201.0,119900.0,,,
+"Butler,Missouri",35302,42794.0,124900.0,,,
+"Caldwell,Missouri",37301,9424.0,,,,
+"Callaway,Missouri",38686,44332.0,165000.0,,,
+"Camden,Missouri",38794,44002.0,259000.0,,,
+"Cape Girardeau,Missouri",46314,75674.0,180000.0,,,
+"Carroll,Missouri",45110,9295.0,86700.0,,,
+"Carter,Missouri",32045,6265.0,,,,
+"Cass,Missouri",47151,99478.0,234900.0,,,
+"Cedar,Missouri",31664,13982.0,102250.0,,,
+"Chariton,Missouri",42227,7831.0,,,,
+"Christian,Missouri",40301,77422.0,230000.0,,,
+"Clark,Missouri",34516,7139.0,,,,
+"Clay,Missouri",48381,221939.0,239900.0,,,
+"Clinton,Missouri",42988,20743.0,175000.0,,,
+"Cole,Missouri",47790,75990.0,178950.0,,,
+"Cooper,Missouri",38916,17601.0,,,,
+"Crawford,Missouri",36090,24696.0,149500.0,,,
+"Dade,Missouri",34181,7883.0,,,,
+"Dallas,Missouri",33184,16777.0,139950.0,,,
+"Daviess,Missouri",34491,8433.0,,,,
+"DeKalb,Missouri",28294,12892.0,,,,
+"Dent,Missouri",33231,15657.0,125250.0,,,
+"Douglas,Missouri",28305,13684.0,186450.0,,,
+"Dunklin,Missouri",34129,31953.0,109700.0,,,
+"Franklin,Missouri",45719,101492.0,190500.0,,,
+"Gasconade,Missouri",40316,15222.0,160157.0,,,
+"Gentry,Missouri",41470,6738.0,,,,
+"Greene,Missouri",44837,275174.0,165450.0,,,2.0
+"Grundy,Missouri",34723,10261.0,,,,
+"Harrison,Missouri",38274,8957.0,,,,
+"Henry,Missouri",43018,22272.0,108000.0,,,
+"Hickory,Missouri",27787,9627.0,,,,
+"Holt,Missouri",45259,4912.0,,,,
+"Howard,Missouri",38796,10144.0,,,,
+"Howell,Missouri",34055,40400.0,144700.0,,,
+"Iron,Missouri",34164,10630.0,107995.0,,,
+"Jackson,Missouri",47054,674158.0,175000.0,,,2.0
+"Jasper,Missouri",39973,117404.0,170000.0,,,
+"Jefferson,Missouri",42780,218733.0,219900.0,,,
+"Johnson,Missouri",36777,52595.0,183500.0,,,
+"Knox,Missouri",32711,4131.0,,,,
+"Laclede,Missouri",36558,35571.0,179700.0,,,
+"Lafayette,Missouri",42119,33381.0,,,,
+"Lawrence,Missouri",34301,38634.0,119979.5,,,
+"Lewis,Missouri",35249,10211.0,,,,
+"Lincoln,Missouri",40788,52566.0,179450.0,,,
+"Linn,Missouri",40356,12761.0,,,,
+"Livingston,Missouri",39805,15195.0,,,,
+"McDonald,Missouri",28018,23083.0,144250.0,,,
+"Macon,Missouri",42414,15566.0,147500.0,,,
+"Madison,Missouri",36865,12226.0,129900.0,,,
+"Maries,Missouri",33348,9176.0,,,,
+"Marion,Missouri",41068,28781.0,144950.0,,,
+"Mercer,Missouri",32388,3785.0,,,,
+"Miller,Missouri",35547,24748.0,213000.0,,,
+"Mississippi,Missouri",32216,14358.0,,,,
+"Moniteau,Missouri",37533,15607.0,,,,
+"Monroe,Missouri",42672,8840.0,,,,
+"Montgomery,Missouri",40396,12236.0,,,,
+"Morgan,Missouri",42873,20565.0,200000.0,,,
+"New Madrid,Missouri",33869,18956.0,,,,
+"Newton,Missouri",39334,58114.0,166500.0,,,
+"Nodaway,Missouri",31013,23370.0,135000.0,,,
+"Oregon,Missouri",28722,10881.0,97950.0,,,
+"Osage,Missouri",45582,13878.0,,,,
+"Ozark,Missouri",30043,9723.0,182700.0,,,
+"Pemiscot,Missouri",32811,18296.0,,,,
+"Perry,Missouri",41321,18971.0,154999.0,,,
+"Pettis,Missouri",37763,42201.0,139500.0,,,
+"Phelps,Missouri",39132,45156.0,159900.0,,,1.0
+"Pike,Missouri",34828,18516.0,,,,
+"Platte,Missouri",58878,89322.0,319000.0,,,
+"Polk,Missouri",33703,31137.0,163450.0,,,
+"Pulaski,Missouri",40512,52274.0,150000.0,,,
+"Putnam,Missouri",33945,4979.0,89900.0,,,
+"Ralls,Missouri",40698,10167.0,186000.0,,,
+"Randolph,Missouri",39903,25414.0,,,,
+"Ray,Missouri",42305,23494.0,157000.0,,,
+"Reynolds,Missouri",35034,6696.0,,,,
+"Ripley,Missouri",30437,14100.0,119000.0,,,
+"St. Charles,Missouri",53745,360485.0,,,,
+"St. Clair,Missouri",29830,9805.0,,,,
+"Ste. Genevieve,Missouri",41822,18145.0,,,,
+"St. Francois,Missouri",34485,65359.0,,,,
+"St. Louis,Missouri",71360,998954.0,,,,1.0
+"Saline,Missouri",38580,23370.0,106000.0,,,
+"Schuyler,Missouri",29013,4431.0,,,,
+"Scotland,Missouri",33262,4843.0,,,,
+"Scott,Missouri",40221,39191.0,124900.0,,,
+"Shannon,Missouri",30503,8441.0,,,,
+"Shelby,Missouri",40356,6373.0,,,,
+"Stoddard,Missouri",37020,29968.0,110000.0,,,
+"Stone,Missouri",38900,32202.0,245000.0,,,
+"Sullivan,Missouri",37649,6714.0,,,,
+"Taney,Missouri",35956,51675.0,179700.0,,,
+"Texas,Missouri",28169,26008.0,154900.0,,,
+"Vernon,Missouri",35930,21159.0,134750.0,,,
+"Warren,Missouri",41674,32513.0,196750.0,,,
+"Washington,Missouri",29606,25195.0,,,,
+"Wayne,Missouri",29581,13521.0,105250.0,,,
+"Webster,Missouri",32589,36202.0,179900.0,,,
+"Worth,Missouri",35573,2171.0,,,,
+"Wright,Missouri",32178,18815.0,154950.0,,,
+"St. Louis City,Missouri",47643,,,,,
+"Beaverhead,Montana",44664,9246.0,295000.0,,,
+"Big Horn,Montana",30533,12865.0,165450.0,,,
+"Blaine,Montana",31263,6491.0,,,,
+"Broadwater,Montana",39306,5612.0,299999.0,,,
+"Carbon,Montana",47442,10078.0,395000.0,,,
+"Carter,Montana",44358,1160.0,,,,
+"Cascade,Montana",47518,81327.0,216500.0,,,2.0
+"Chouteau,Montana",37340,5813.0,,,,
+"Custer,Montana",44689,11699.0,170000.0,,,
+"Daniels,Montana",48086,1751.0,,,,
+"Dawson,Montana",45295,8966.0,160000.0,,,
+"Deer Lodge,Montana",39063,9298.0,159000.0,,,
+"Fallon,Montana",49509,2890.0,,,,
+"Fergus,Montana",43808,11586.0,219000.0,,,
+"Flathead,Montana",47331,90928.0,419000.0,,,1.0
+"Gallatin,Montana",54734,89513.0,460000.0,,,3.0
+"Garfield,Montana",36291,1206.0,,,,
+"Glacier,Montana",34458,13399.0,104900.0,,,
+"Golden Valley,Montana",49137,884.0,,,,
+"Granite,Montana",43791,3079.0,349000.0,,,
+"Hill,Montana",45017,16096.0,189000.0,,,
+"Jefferson,Montana",47960,11406.0,347200.0,,,
+"Judith Basin,Montana",50492,2072.0,,,,
+"Lake,Montana",39365,28746.0,424500.0,,,1.0
+"Lewis and Clark,Montana",48562,63395.0,289900.0,,,
+"Liberty,Montana",40956,2339.0,,,,
+"Lincoln,Montana",35432,19687.0,319000.0,,,
+"McCone,Montana",42209,1734.0,,,,
+"Madison,Montana",49115,7691.0,589000.0,,,
+"Meagher,Montana",46128,1891.0,,,,
+"Mineral,Montana",39957,4223.0,300000.0,,,
+"Missoula,Montana",49492,109299.0,365000.0,,,1.0
+"Musselshell,Montana",43133,4538.0,,,,
+"Park,Montana",48114,15636.0,397000.0,,,
+"Petroleum,Montana",35772,494.0,,,,
+"Phillips,Montana",39172,4253.0,159000.0,,,
+"Pondera,Montana",42363,6153.0,148600.0,,,
+"Powder River,Montana",32479,1743.0,,,,
+"Powell,Montana",39771,7027.0,210000.0,,,
+"Prairie,Montana",44739,1179.0,,,,
+"Ravalli,Montana",44602,40212.0,380000.0,,,1.0
+"Richland,Montana",61217,9746.0,257485.0,,,
+"Roosevelt,Montana",34794,10425.0,,,,
+"Rosebud,Montana",42250,9233.0,145000.0,,,
+"Sanders,Montana",34896,11413.0,320000.0,,,
+"Sheridan,Montana",52541,3384.0,125000.0,,,
+"Silver Bow,Montana",48939,34200.0,176000.0,,,4.0
+"Stillwater,Montana",51773,9117.0,347450.0,,,
+"Sweet Grass,Montana",44455,3651.0,399000.0,,,
+"Teton,Montana",44369,6073.0,,,,
+"Toole,Montana",45481,5324.0,135000.0,,,
+"Treasure,Montana",48415,718.0,,,,
+"Valley,Montana",46911,7369.0,195000.0,,,
+"Wheatland,Montana",35934,2168.0,,,,
+"Wibaux,Montana",50940,1017.0,,,,
+"Yellowstone,Montana",52340,147972.0,254900.0,,,3.0
+"Adams,Nebraska",49139,31364.0,,,,
+"Antelope,Nebraska",46981,6685.0,,,,
+"Arthur,Nebraska",46901,460.0,,,,
+"Banner,Nebraska",58252,690.0,,,,
+"Blaine,Nebraska",45788,478.0,,,,
+"Boone,Nebraska",54024,5505.0,,,,
+"Box Butte,Nebraska",47359,11308.0,,,,
+"Boyd,Nebraska",55795,2099.0,,,,
+"Brown,Nebraska",51496,3145.0,,,,
+"Buffalo,Nebraska",54052,46102.0,222000.0,,,
+"Burt,Nebraska",50268,6858.0,,,,
+"Butler,Nebraska",47286,8395.0,,,,
+"Cass,Nebraska",53602,25241.0,250000.0,,,
+"Cedar,Nebraska",52839,8852.0,144750.0,,,
+"Chase,Nebraska",49267,3966.0,,,,
+"Cherry,Nebraska",45124,5713.0,,,,
+"Cheyenne,Nebraska",48263,9998.0,123000.0,,,
+"Clay,Nebraska",47220,6542.0,,,,
+"Colfax,Nebraska",43106,10515.0,,,,
+"Cuming,Nebraska",58610,9139.0,,,,
+"Custer,Nebraska",44290,10939.0,,,,
+"Dakota,Nebraska",41831,21006.0,149950.0,,,
+"Dawes,Nebraska",37092,9182.0,,,,
+"Dawson,Nebraska",43055,24326.0,145000.0,,,
+"Deuel,Nebraska",44289,1941.0,,,,
+"Dixon,Nebraska",44185,6000.0,,,,
+"Dodge,Nebraska",47330,36691.0,164950.0,,,
+"Douglas,Nebraska",63435,517110.0,245000.0,,,2.0
+"Dundy,Nebraska",53144,2008.0,,,,
+"Fillmore,Nebraska",57068,5890.0,,,,
+"Franklin,Nebraska",47132,3225.0,,,,
+"Frontier,Nebraska",44469,2756.0,,,,
+"Furnas,Nebraska",49008,4959.0,,,,
+"Gage,Nebraska",49863,22311.0,149000.0,,,
+"Garden,Nebraska",40892,2057.0,,,,
+"Garfield,Nebraska",43905,2049.0,,,,
+"Gosper,Nebraska",52671,2044.0,,,,
+"Grant,Nebraska",42545,614.0,,,,
+"Greeley,Nebraska",45109,2538.0,,,,
+"Hall,Nebraska",43625,58607.0,189900.0,,,1.0
+"Hamilton,Nebraska",54782,9124.0,,,,
+"Harlan,Nebraska",48143,3423.0,,,,
+"Hayes,Nebraska",45409,967.0,,,,
+"Hitchcock,Nebraska",37990,2908.0,,,,
+"Holt,Nebraska",51404,10435.0,119500.0,,,
+"Hooker,Nebraska",52667,736.0,,,,
+"Howard,Nebraska",41377,6274.0,,,,
+"Jefferson,Nebraska",48757,7547.0,,,,
+"Johnson,Nebraska",37179,5217.0,,,,
+"Kearney,Nebraska",56309,6489.0,192400.0,,,
+"Keith,Nebraska",45896,8368.0,187250.0,,,
+"Keya Paha,Nebraska",58784,824.0,,,,
+"Kimball,Nebraska",44069,3821.0,,,,
+"Knox,Nebraska",48268,8701.0,,,,
+"Lancaster,Nebraska",49889,285407.0,249900.0,,,
+"Lincoln,Nebraska",46623,36288.0,168000.0,,,
+"Logan,Nebraska",37603,763.0,,,,
+"Loup,Nebraska",45361,632.0,,,,
+"McPherson,Nebraska",45530,539.0,,,,
+"Madison,Nebraska",50630,34876.0,213000.0,,,
+"Merrick,Nebraska",47386,7845.0,,,,
+"Morrill,Nebraska",49071,5042.0,,,,
+"Nance,Nebraska",38000,3735.0,,,,
+"Nemaha,Nebraska",48807,7248.0,,,,
+"Nuckolls,Nebraska",50836,4500.0,,,,
+"Otoe,Nebraska",53850,15740.0,,,,
+"Pawnee,Nebraska",48851,2773.0,,,,
+"Perkins,Nebraska",55692,2970.0,,,,
+"Phelps,Nebraska",52792,9188.0,,,,
+"Pierce,Nebraska",57141,7266.0,,,,
+"Platte,Nebraska",49386,32237.0,195000.0,,,
+"Polk,Nebraska",51004,5406.0,,,,
+"Red Willow,Nebraska",46270,11055.0,138000.0,,,
+"Richardson,Nebraska",48195,8363.0,,,,
+"Rock,Nebraska",49241,1526.0,,,,
+"Saline,Nebraska",43763,14200.0,,,,
+"Sarpy,Nebraska",50333,158840.0,280000.0,,,
+"Saunders,Nebraska",52193,20780.0,,,,
+"Scotts Bluff,Nebraska",44171,36970.0,159900.0,,,
+"Seward,Nebraska",49832,16750.0,190000.0,,,
+"Sheridan,Nebraska",47076,5469.0,,,,
+"Sherman,Nebraska",44953,3152.0,,,,
+"Sioux,Nebraska",42404,1311.0,,,,
+"Stanton,Nebraska",48167,6129.0,,,,
+"Thayer,Nebraska",57523,5228.0,,,,
+"Thomas,Nebraska",53979,647.0,,,,
+"Thurston,Nebraska",41468,6940.0,,,,
+"Valley,Nebraska",45713,4260.0,,,,
+"Washington,Nebraska",56640,20234.0,257250.0,,,
+"Wayne,Nebraska",44622,9595.0,,,,
+"Webster,Nebraska",48607,3812.0,,,,
+"Wheeler,Nebraska",72878,818.0,,,,
+"York,Nebraska",49892,13665.0,155000.0,,,
+"Churchill,Nevada",43661,24877.0,284900.0,,,
+"Clark,Nevada",47090,1951269.0,308000.0,,,
+"Douglas,Nevada",75159,46997.0,565000.0,,,
+"Elko,Nevada",46808,48818.0,278780.0,,,
+"Esmeralda,Nevada",40113,783.0,,,,
+"Eureka,Nevada",39903,1987.0,,,,
+"Humboldt,Nevada",46927,16528.0,219000.0,,,
+"Lander,Nevada",63923,5775.0,160075.0,,,
+"Lincoln,Nevada",36604,5345.0,,,,
+"Lyon,Nevada",38713,51980.0,305000.0,,,
+"Mineral,Nevada",38074,4772.0,,,,
+"Nye,Nevada",37835,43946.0,240450.0,,,
+"Pershing,Nevada",32592,6753.0,,,,
+"Storey,Nevada",59651,4010.0,,,,
+"Washoe,Nevada",59639,421407.0,429925.0,,,2.0
+"White Pine,Nevada",44736,10030.0,,,,
+"Carson City,Nevada",50754,55274.0,349925.0,,,
+"Belknap,New Hampshire",61091,60088.0,309450.0,,,
+"Carroll,New Hampshire",58949,47818.0,284450.0,,,
+"Cheshire,New Hampshire",51969,77117.0,243750.0,,,
+"Coos,New Hampshire",43098,33055.0,136500.0,,,1.0
+"Grafton,New Hampshire",60426,89118.0,249000.0,,,
+"Hillsborough,New Hampshire",61147,400721.0,319900.0,,,9.0
+"Merrimack,New Hampshire",57924,146445.0,289900.0,,,1.0
+"Rockingham,New Hampshire",73819,295223.0,413400.0,,,3.0
+"Strafford,New Hampshire",50574,123143.0,295000.0,,,1.0
+"Sullivan,New Hampshire",51682,43742.0,229000.0,,,
+"Atlantic,New Jersey",48668,274549.0,224800.0,,,6.0
+"Bergen,New Jersey",85951,905116.0,579000.0,,,15.0
+"Burlington,New Jersey",62120,448734.0,239000.0,,,12.0
+"Camden,New Jersey",54103,513657.0,179900.0,,,11.0
+"Cape May,New Jersey",60877,97265.0,439900.0,,,
+"Cumberland,New Jersey",40289,156898.0,139000.0,,,5.0
+"Essex,New Jersey",67459,783969.0,365000.0,,,22.0
+"Gloucester,New Jersey",54745,288288.0,195000.0,,,5.0
+"Hudson,New Jersey",65139,634266.0,531900.0,,,14.0
+"Hunterdon,New Jersey",89610,128349.0,449990.0,,,4.0
+"Mercer,New Jersey",69344,366513.0,279000.0,,,30.0
+"Middlesex,New Jersey",61065,809858.0,349900.0,,,13.0
+"Monmouth,New Jersey",79978,630380.0,495000.0,,,7.0
+"Morris,New Jersey",98842,492276.0,489000.0,,,5.0
+"Ocean,New Jersey",52008,576567.0,314999.0,,,12.0
+"Passaic,New Jersey",50570,501226.0,349000.0,,,6.0
+"Salem,New Jersey",48496,66083.0,142725.0,,,1.0
+"Somerset,New Jersey",106194,323444.0,469000.0,,,5.0
+"Sussex,New Jersey",61757,149265.0,264900.0,,,1.0
+"Union,New Jersey",68262,536499.0,379900.0,,,11.0
+"Warren,New Jersey",56058,108692.0,249000.0,,,5.0
+"Bernalillo,New Mexico",44057,662564.0,242000.0,,,
+"Catron,New Mexico",32010,3725.0,209000.0,,,
+"Chaves,New Mexico",40322,65645.0,185000.0,,,
+"Cibola,New Mexico",28130,27213.0,135000.0,,,
+"Colfax,New Mexico",39826,13750.0,287250.0,,,
+"Curry,New Mexico",44161,48376.0,169000.0,,,
+"De Baca,New Mexico",39634,2022.0,,,,
+"Doña Ana,New Mexico",36570,,,,,
+"Eddy,New Mexico",54122,53829.0,,,,
+"Grant,New Mexico",41026,29514.0,199500.0,,,
+"Guadalupe,New Mexico",32994,4687.0,,,,
+"Harding,New Mexico",38716,695.0,,,,
+"Hidalgo,New Mexico",41555,4894.0,,,,
+"Lea,New Mexico",44437,64727.0,175000.0,,,
+"Lincoln,New Mexico",41793,20497.0,298750.0,,,
+"Los Alamos,New Mexico",70600,17950.0,,,,
+"Luna,New Mexico",31140,25095.0,130000.0,,,
+"McKinley,New Mexico",27771,71492.0,164000.0,,,
+"Mora,New Mexico",35534,4881.0,,,,
+"Otero,New Mexico",34636,63797.0,178000.0,,,
+"Quay,New Mexico",38223,9041.0,87450.0,,,
+"Rio Arriba,New Mexico",34582,40246.0,230000.0,,,
+"Roosevelt,New Mexico",39446,19846.0,150000.0,,,
+"Sandoval,New Mexico",41547,131561.0,260000.0,,,
+"San Juan,New Mexico",35453,130044.0,199000.0,,,
+"San Miguel,New Mexico",34579,29393.0,210000.0,,,
+"Santa Fe,New Mexico",58510,144170.0,467000.0,,,
+"Sierra,New Mexico",38984,11988.0,163800.0,,,
+"Socorro,New Mexico",34699,17866.0,170000.0,,,
+"Taos,New Mexico",38455,32937.0,349000.0,,,
+"Torrance,New Mexico",30245,16383.0,,,,
+"Union,New Mexico",32620,4549.0,,,,
+"Valencia,New Mexico",33424,76569.0,193900.0,,,
+"Albany,New York",61201,304204.0,249000.0,,,
+"Allegany,New York",34880,48946.0,94800.0,,,13.0
+"Bronx,New York",37376,1385108.0,385000.0,,,60.0
+"Broome,New York",44540,200600.0,129500.0,,,1.0
+"Cattaraugus,New York",39995,80317.0,120500.0,,,7.0
+"Cayuga,New York",42231,80026.0,159900.0,,,
+"Chautauqua,New York",40759,134905.0,135000.0,,,8.0
+"Chemung,New York",44373,88830.0,118000.0,,,
+"Chenango,New York",41840,50477.0,129900.0,,,
+"Clinton,New York",44081,82128.0,165000.0,,,1.0
+"Columbia,New York",55810,63096.0,357500.0,,,1.0
+"Cortland,New York",40691,49336.0,129900.0,,,
+"Delaware,New York",39632,47980.0,165000.0,,,
+"Dutchess,New York",56365,297488.0,339000.0,,,7.0
+"Erie,New York",51539,919040.0,179900.0,,,11.0
+"Essex,New York",45996,39370.0,219950.0,,,1.0
+"Franklin,New York",37644,51599.0,148450.0,,,
+"Fulton,New York",43112,55531.0,149900.0,,,
+"Genesee,New York",43582,60079.0,144900.0,,,6.0
+"Greene,New York",47008,49221.0,248250.0,,,1.0
+"Hamilton,New York",54086,4836.0,239000.0,,,
+"Herkimer,New York",41581,64519.0,129999.5,,,
+"Jefferson,New York",46924,116229.0,167000.0,,,1.0
+"Kings,New York",52192,2504700.0,750000.0,,,56.0
+"Lewis,New York",43971,27087.0,139949.5,,,
+"Livingston,New York",45908,65393.0,149900.0,,,3.0
+"Madison,New York",44502,73442.0,170000.0,,,
+"Monroe,New York",52951,744344.0,159900.0,,,12.0
+"Montgomery,New York",41628,50219.0,134950.0,,,1.0
+"Nassau,New York",89839,1339532.0,629000.0,,,56.0
+"New York,New York",193940,1585873.0,1495000.0,,,10.0
+"Niagara,New York",45501,216469.0,139900.0,,,7.0
+"Oneida,New York",44697,234878.0,139900.0,,,5.0
+"Onondaga,New York",52886,467026.0,161900.0,,,4.0
+"Ontario,New York",53498,107931.0,240000.0,,,2.0
+"Orange,New York",51848,372813.0,312000.0,,,45.0
+"Orleans,New York",38963,42883.0,119900.0,,,
+"Oswego,New York",40538,122109.0,122000.0,,,5.0
+"Otsego,New York",43522,62259.0,179000.0,,,1.0
+"Putnam,New York",65833,99710.0,390000.0,,,1.0
+"Queens,New York",49777,2230722.0,589000.0,,,23.0
+"Rensselaer,New York",49156,159429.0,214900.0,,,1.0
+"Richmond,New York",56749,468730.0,579000.0,,,6.0
+"Rockland,New York",60464,311687.0,489000.0,,,6.0
+"St. Lawrence,New York",37940,111944.0,,,,1.0
+"Saratoga,New York",67618,219607.0,329900.0,,,6.0
+"Schenectady,New York",50533,154727.0,185000.0,,,
+"Schoharie,New York",40791,32749.0,156800.0,,,
+"Schuyler,New York",42063,18343.0,199900.0,,,
+"Seneca,New York",38593,35251.0,159900.0,,,
+"Steuben,New York",45194,98990.0,132450.0,,,6.0
+"Suffolk,New York",68617,1493350.0,539990.0,,,40.0
+"Sullivan,New York",46303,77547.0,199000.0,,,
+"Tioga,New York",45910,51125.0,144250.0,,,1.0
+"Tompkins,New York",45282,101564.0,249000.0,,,1.0
+"Ulster,New York",50462,182493.0,289000.0,,,
+"Warren,New York",52475,65707.0,269900.0,,,2.0
+"Washington,New York",40043,63216.0,164950.0,,,
+"Wayne,New York",46048,93772.0,145450.0,,,
+"Westchester,New York",108976,949113.0,649949.5,,,11.0
+"Wyoming,New York",39801,42155.0,124900.0,,,5.0
+"Yates,New York",39402,25348.0,,,,
+"Alamance,North Carolina",39342,151131.0,215995.0,,,3.0
+"Alexander,North Carolina",37438,37198.0,237500.0,,,
+"Alleghany,North Carolina",37549,11155.0,237000.0,,,
+"Anson,North Carolina",34616,26948.0,,,,
+"Ashe,North Carolina",36300,27281.0,274450.0,,,1.0
+"Avery,North Carolina",36574,17797.0,314450.0,,,
+"Beaufort,North Carolina",41643,47759.0,247000.0,,,
+"Bertie,North Carolina",34766,21282.0,59000.0,,,
+"Bladen,North Carolina",34306,35190.0,199000.0,,,
+"Brunswick,North Carolina",42749,107431.0,299900.0,,,1.0
+"Buncombe,North Carolina",48592,238318.0,379000.0,,,
+"Burke,North Carolina",35265,90912.0,199500.0,,,2.0
+"Cabarrus,North Carolina",45220,178011.0,289990.0,,,
+"Caldwell,North Carolina",35374,83029.0,199999.0,,,2.0
+"Camden,North Carolina",45335,9980.0,289000.0,,,
+"Carteret,North Carolina",49360,66469.0,319800.0,,,
+"Caswell,North Carolina",35591,23719.0,,,,1.0
+"Catawba,North Carolina",45342,154358.0,239500.0,,,1.0
+"Chatham,North Carolina",63041,63505.0,460000.0,,,
+"Cherokee,North Carolina",32266,27444.0,184900.0,,,
+"Chowan,North Carolina",40817,14793.0,228999.5,,,
+"Clay,North Carolina",34057,10587.0,265000.0,,,
+"Cleveland,North Carolina",37661,98078.0,119900.0,,,2.0
+"Columbus,North Carolina",32397,58098.0,137000.0,,,
+"Craven,North Carolina",43665,103505.0,207900.0,,,2.0
+"Cumberland,North Carolina",38780,319431.0,163000.0,,,3.0
+"Currituck,North Carolina",45435,23547.0,379900.0,,,
+"Dare,North Carolina",56314,33920.0,445000.0,,,
+"Davidson,North Carolina",39087,162878.0,198000.0,,,3.0
+"Davie,North Carolina",47630,41240.0,245000.0,,,
+"Duplin,North Carolina",33619,58505.0,,,,
+"Durham,North Carolina",50698,267587.0,290000.0,,,4.0
+"Edgecombe,North Carolina",34946,56552.0,75000.0,,,2.0
+"Forsyth,North Carolina",48804,350670.0,217500.0,,,6.0
+"Franklin,North Carolina",36238,60619.0,260000.0,,,
+"Gaston,North Carolina",41379,206086.0,230000.0,,,2.0
+"Gates,North Carolina",36060,12197.0,,,,
+"Graham,North Carolina",33075,8861.0,250000.0,,,
+"Granville,North Carolina",38652,59916.0,277740.0,,,2.0
+"Greene,North Carolina",32569,21362.0,,,,
+"Guilford,North Carolina",45875,488406.0,209400.0,,,2.0
+"Halifax,North Carolina",36013,54691.0,122500.0,,,1.0
+"Harnett,North Carolina",34604,114678.0,223900.0,,,
+"Haywood,North Carolina",40290,59036.0,283500.0,,,
+"Henderson,North Carolina",43276,106740.0,350000.0,,,1.0
+"Hertford,North Carolina",32702,24669.0,,,,
+"Hoke,North Carolina",31148,46952.0,208750.0,,,1.0
+"Hyde,North Carolina",43490,5810.0,350000.0,,,
+"Iredell,North Carolina",50065,159437.0,303930.0,,,6.0
+"Jackson,North Carolina",32844,40271.0,399000.0,,,
+"Johnston,North Carolina",39922,168878.0,259900.0,,,2.0
+"Jones,North Carolina",38536,10153.0,,,,
+"Lee,North Carolina",40098,57866.0,192250.0,,,
+"Lenoir,North Carolina",40922,59495.0,110000.0,,,
+"Lincoln,North Carolina",45791,78265.0,325000.0,,,
+"McDowell,North Carolina",34077,44996.0,260000.0,,,2.0
+"Macon,North Carolina",40057,33922.0,302500.0,,,
+"Madison,North Carolina",34036,20764.0,329000.0,,,
+"Martin,North Carolina",34647,24505.0,,,,
+"Mecklenburg,North Carolina",61137,919628.0,315000.0,,,10.0
+"Mitchell,North Carolina",35932,15579.0,235000.0,,,
+"Montgomery,North Carolina",35611,27798.0,,,,
+"Moore,North Carolina",51307,88247.0,300000.0,,,
+"Nash,North Carolina",42016,95840.0,165000.0,,,2.0
+"New Hanover,North Carolina",45290,202667.0,315000.0,,,5.0
+"Northampton,North Carolina",34185,22099.0,,,,3.0
+"Onslow,North Carolina",46142,177772.0,189900.0,,,1.0
+"Orange,North Carolina",67385,133801.0,420000.0,,,1.0
+"Pamlico,North Carolina",43532,13144.0,269250.0,,,
+"Pasquotank,North Carolina",39417,40661.0,199500.0,,,1.0
+"Pender,North Carolina",35914,52217.0,317610.0,,,
+"Perquimans,North Carolina",40781,13453.0,265000.0,,,
+"Person,North Carolina",38202,39464.0,237300.0,,,
+"Pitt,North Carolina",41191,168148.0,189900.0,,,3.0
+"Polk,North Carolina",45291,20510.0,350000.0,,,
+"Randolph,North Carolina",37017,141752.0,184900.0,,,2.0
+"Richmond,North Carolina",35148,46639.0,119700.0,,,
+"Robeson,North Carolina",29438,134168.0,120000.0,,,1.0
+"Rockingham,North Carolina",37137,93643.0,139900.0,,,5.0
+"Rowan,North Carolina",38089,138428.0,196900.0,,,1.0
+"Rutherford,North Carolina",32764,67810.0,253500.0,,,
+"Sampson,North Carolina",35900,63431.0,187450.0,,,
+"Scotland,North Carolina",33229,36157.0,127449.5,,,
+"Stanly,North Carolina",39047,60585.0,235450.0,,,
+"Stokes,North Carolina",36850,47401.0,189700.0,,,
+"Surry,North Carolina",38522,73673.0,155000.0,,,
+"Swain,North Carolina",38429,13981.0,239500.0,,,1.0
+"Transylvania,North Carolina",42070,33090.0,389900.0,,,
+"Tyrrell,North Carolina",30000,4407.0,,,,
+"Union,North Carolina",51326,201292.0,335700.0,,,2.0
+"Vance,North Carolina",35105,45422.0,161450.0,,,
+"Wake,North Carolina",59014,900993.0,350165.0,,,13.0
+"Warren,North Carolina",30397,20972.0,224225.0,,,
+"Washington,North Carolina",36073,13228.0,87000.0,,,
+"Watauga,North Carolina",36684,51079.0,384900.0,,,1.0
+"Wayne,North Carolina",38472,122623.0,161900.0,,,
+"Wilkes,North Carolina",36576,69340.0,197400.0,,,
+"Wilson,North Carolina",40501,81234.0,164900.0,,,1.0
+"Yadkin,North Carolina",37027,38406.0,160000.0,,,
+"Yancey,North Carolina",36715,17818.0,295000.0,,,
+"Adams,North Dakota",59197,2343.0,,,,
+"Barnes,North Dakota",55784,11066.0,174900.0,,,
+"Benson,North Dakota",34482,6660.0,,,,
+"Billings,North Dakota",74682,783.0,,,,
+"Bottineau,North Dakota",58823,6429.0,177400.0,,,
+"Bowman,North Dakota",60829,3151.0,,,,
+"Burke,North Dakota",63721,1968.0,,,,
+"Burleigh,North Dakota",58173,81308.0,289000.0,,,3.0
+"Cass,North Dakota",56070,149778.0,245000.0,,,4.0
+"Cavalier,North Dakota",68040,3993.0,,,,
+"Dickey,North Dakota",52437,5289.0,,,,
+"Divide,North Dakota",48574,2071.0,,,,
+"Dunn,North Dakota",60338,3536.0,,,,
+"Eddy,North Dakota",54013,2385.0,,,,
+"Emmons,North Dakota",49489,3550.0,,,,
+"Foster,North Dakota",62928,3343.0,,,,
+"Golden Valley,North Dakota",43871,1680.0,,,,
+"Grand Forks,North Dakota",51494,66861.0,232000.0,,,
+"Grant,North Dakota",38371,2394.0,,,,
+"Griggs,North Dakota",55349,2420.0,,,,
+"Hettinger,North Dakota",51130,2477.0,,,,
+"Kidder,North Dakota",50285,2435.0,,,,
+"LaMoure,North Dakota",56134,4139.0,,,,
+"Logan,North Dakota",60543,1990.0,,,,
+"McHenry,North Dakota",52233,5395.0,,,,
+"McIntosh,North Dakota",59596,2809.0,,,,
+"McKenzie,North Dakota",62549,6360.0,314827.0,,,
+"McLean,North Dakota",54518,8962.0,199450.0,,,
+"Mercer,North Dakota",57839,8424.0,173450.0,,,
+"Morton,North Dakota",52153,27471.0,224900.0,,,
+"Mountrail,North Dakota",58955,7673.0,188500.0,,,
+"Nelson,North Dakota",60817,3126.0,,,,
+"Oliver,North Dakota",48290,1846.0,,,,
+"Pembina,North Dakota",50088,7413.0,,,,
+"Pierce,North Dakota",52070,4357.0,,,,
+"Ramsey,North Dakota",47425,11451.0,169950.0,,,
+"Ransom,North Dakota",55912,5457.0,,,,
+"Renville,North Dakota",60976,2470.0,,,,
+"Richland,North Dakota",53007,16321.0,,,,
+"Rolette,North Dakota",36647,13937.0,,,,
+"Sargent,North Dakota",65448,3829.0,,,,
+"Sheridan,North Dakota",35497,1321.0,,,,
+"Sioux,North Dakota",27662,4153.0,,,,
+"Slope,North Dakota",49476,727.0,,,,
+"Stark,North Dakota",61032,24199.0,249900.0,,,
+"Steele,North Dakota",63327,1975.0,,,,
+"Stutsman,North Dakota",54491,21100.0,179900.0,,,
+"Towner,North Dakota",53786,2246.0,,,,
+"Traill,North Dakota",51103,8121.0,,,,
+"Walsh,North Dakota",48945,11119.0,,,,
+"Ward,North Dakota",55214,61675.0,209000.0,,,2.0
+"Wells,North Dakota",55328,4207.0,,,,
+"Williams,North Dakota",68874,22398.0,289900.0,,,
+"Adams,Ohio",34632,28550.0,107000.0,,,3.0
+"Allen,Ohio",42816,106331.0,137750.0,,,
+"Ashland,Ohio",38441,53139.0,,,,1.0
+"Ashtabula,Ohio",38461,101497.0,124950.0,,,
+"Athens,Ohio",33274,64757.0,159000.0,,,2.0
+"Auglaize,Ohio",49578,45949.0,159000.0,,,
+"Belmont,Ohio",42429,70400.0,135000.0,,,2.0
+"Brown,Ohio",37259,44846.0,150000.0,,,7.0
+"Butler,Ohio",47408,368130.0,210000.0,,,2.0
+"Carroll,Ohio",39698,28836.0,150000.0,,,5.0
+"Champaign,Ohio",41055,40097.0,149900.0,,,
+"Clark,Ohio",40769,138333.0,124000.0,,,1.0
+"Clermont,Ohio",53770,197363.0,229900.0,,,8.0
+"Clinton,Ohio",45728,42040.0,154900.0,,,3.0
+"Columbiana,Ohio",38013,107841.0,119900.0,,,6.0
+"Coshocton,Ohio",34856,36901.0,125000.0,,,11.0
+"Crawford,Ohio",38704,43784.0,82000.0,,,
+"Cuyahoga,Ohio",54739,1280122.0,150000.0,,,15.0
+"Darke,Ohio",42793,52959.0,115900.0,,,1.0
+"Defiance,Ohio",41540,39037.0,129900.0,,,
+"Delaware,Ohio",74093,174214.0,372990.0,,,1.0
+"Erie,Ohio",62591,77079.0,186900.0,,,
+"Fairfield,Ohio",46113,146156.0,252990.0,,,8.0
+"Fayette,Ohio",38449,29030.0,124900.0,,,4.0
+"Franklin,Ohio",50443,1163414.0,225000.0,,,19.0
+"Fulton,Ohio",45594,42698.0,144500.0,,,
+"Gallia,Ohio",39864,30934.0,129900.0,,,4.0
+"Geauga,Ohio",69129,93389.0,300000.0,,,
+"Greene,Ohio",50291,161573.0,204900.0,,,3.0
+"Guernsey,Ohio",39878,40087.0,127500.0,,,3.0
+"Hamilton,Ohio",59561,802374.0,199999.0,,,5.0
+"Hancock,Ohio",51623,74782.0,173000.0,,,3.0
+"Hardin,Ohio",33482,32058.0,122400.0,,,
+"Harrison,Ohio",38573,15864.0,94000.0,,,2.0
+"Henry,Ohio",45884,28215.0,129900.0,,,
+"Highland,Ohio",36326,43589.0,118900.0,,,9.0
+"Hocking,Ohio",38047,29380.0,169450.0,,,4.0
+"Holmes,Ohio",45211,42366.0,,,,1.0
+"Huron,Ohio",40323,59626.0,124673.0,,,
+"Jackson,Ohio",35783,33225.0,124000.0,,,1.0
+"Jefferson,Ohio",39311,69709.0,94900.0,,,3.0
+"Knox,Ohio",42162,60921.0,167900.0,,,
+"Lake,Ohio",50729,230041.0,174900.0,,,3.0
+"Lawrence,Ohio",38673,62450.0,139900.0,,,5.0
+"Licking,Ohio",46059,166492.0,239900.0,,,5.0
+"Logan,Ohio",42914,45858.0,156250.0,,,
+"Lorain,Ohio",46147,301356.0,182245.0,,,5.0
+"Lucas,Ohio",46290,441815.0,132000.0,,,3.0
+"Madison,Ohio",41751,43435.0,,,,1.0
+"Mahoning,Ohio",43097,238823.0,125000.0,,,8.0
+"Marion,Ohio",38252,66501.0,118950.0,,,
+"Medina,Ohio",55691,172332.0,249900.0,,,4.0
+"Meigs,Ohio",34067,23770.0,,,,3.0
+"Mercer,Ohio",51562,40814.0,149000.0,,,
+"Miami,Ohio",47552,102506.0,184900.0,,,2.0
+"Monroe,Ohio",34665,14642.0,,,,2.0
+"Montgomery,Ohio",46891,535153.0,129900.0,,,3.0
+"Morgan,Ohio",33180,15054.0,,,,5.0
+"Morrow,Ohio",38666,34827.0,,,,
+"Muskingum,Ohio",40614,86074.0,149900.0,,,9.0
+"Noble,Ohio",27211,14645.0,,,,
+"Ottawa,Ohio",51637,41428.0,234000.0,,,
+"Paulding,Ohio",41032,19614.0,,,,
+"Perry,Ohio",37187,36058.0,,,,4.0
+"Pickaway,Ohio",41131,55698.0,244000.0,,,6.0
+"Pike,Ohio",37443,28709.0,159000.0,,,7.0
+"Portage,Ohio",44055,161419.0,199900.0,,,6.0
+"Preble,Ohio",40607,42270.0,134900.0,,,
+"Putnam,Ohio",50059,34499.0,144900.0,,,
+"Richland,Ohio",39234,124475.0,129500.0,,,
+"Ross,Ohio",36941,78064.0,154900.0,,,10.0
+"Sandusky,Ohio",41624,60944.0,129900.0,,,1.0
+"Scioto,Ohio",39080,79499.0,118500.0,,,10.0
+"Seneca,Ohio",39681,56745.0,100000.0,,,1.0
+"Shelby,Ohio",46188,49423.0,124900.0,,,1.0
+"Stark,Ohio",45136,375586.0,159900.0,,,12.0
+"Summit,Ohio",51036,541781.0,150000.0,,,6.0
+"Trumbull,Ohio",41363,210312.0,109900.0,,,4.0
+"Tuscarawas,Ohio",43358,92582.0,139900.0,,,8.0
+"Union,Ohio",55470,52300.0,295495.0,,,2.0
+"Van Wert,Ohio",42638,28744.0,112475.0,,,
+"Vinton,Ohio",33120,13435.0,,,,1.0
+"Warren,Ohio",59799,212693.0,295540.0,,,2.0
+"Washington,Ohio",43396,61778.0,175000.0,,,5.0
+"Wayne,Ohio",44039,114520.0,164900.0,,,1.0
+"Williams,Ohio",41712,37642.0,114900.0,,,
+"Wood,Ohio",47694,125488.0,209900.0,,,3.0
+"Wyandot,Ohio",45588,22615.0,144000.0,,,
+"Adair,Oklahoma",28862,22683.0,,,,
+"Alfalfa,Oklahoma",40624,5642.0,,,,
+"Atoka,Oklahoma",32379,14182.0,189100.0,,,
+"Beaver,Oklahoma",49106,5636.0,,,,
+"Beckham,Oklahoma",37948,22119.0,144900.0,,,
+"Blaine,Oklahoma",41493,11943.0,,,,
+"Bryan,Oklahoma",34575,42416.0,185000.0,,,
+"Caddo,Oklahoma",35239,29600.0,,,,
+"Canadian,Oklahoma",44878,115541.0,214900.0,,,
+"Carter,Oklahoma",43079,47557.0,145000.0,,,
+"Cherokee,Oklahoma",32290,46987.0,161500.0,,,
+"Choctaw,Oklahoma",31885,15205.0,,,,
+"Cimarron,Oklahoma",60706,2475.0,,,,
+"Cleveland,Oklahoma",45094,255755.0,223250.0,,,1.0
+"Coal,Oklahoma",33783,5925.0,,,,
+"Comanche,Oklahoma",41497,124098.0,124950.0,,,
+"Cotton,Oklahoma",41766,6193.0,,,,
+"Craig,Oklahoma",35718,15029.0,,,,
+"Creek,Oklahoma",40791,69967.0,160059.0,,,
+"Custer,Oklahoma",41652,27469.0,178750.0,,,
+"Delaware,Oklahoma",31188,41487.0,285000.0,,,
+"Dewey,Oklahoma",44529,4810.0,,,,
+"Ellis,Oklahoma",51570,4151.0,,,,
+"Garfield,Oklahoma",44465,60580.0,149250.0,,,
+"Garvin,Oklahoma",38135,27576.0,100000.0,,,
+"Grady,Oklahoma",39675,52431.0,179175.0,,,
+"Grant,Oklahoma",45182,4527.0,,,,
+"Greer,Oklahoma",26344,6239.0,,,,
+"Harmon,Oklahoma",35642,2922.0,,,,
+"Harper,Oklahoma",46436,3685.0,,,,
+"Haskell,Oklahoma",32365,12769.0,,,,
+"Hughes,Oklahoma",31833,14003.0,,,,
+"Jackson,Oklahoma",38527,26446.0,131000.0,,,
+"Jefferson,Oklahoma",32083,6472.0,,,,
+"Johnston,Oklahoma",36611,10957.0,,,,
+"Kay,Oklahoma",40881,46562.0,105950.0,,,
+"Kingfisher,Oklahoma",49257,15034.0,201250.0,,,
+"Kiowa,Oklahoma",32546,9446.0,,,,
+"Latimer,Oklahoma",32707,11154.0,122450.0,,,
+"Le Flore,Oklahoma",32677,50384.0,,,,
+"Lincoln,Oklahoma",35653,34273.0,134700.0,,,
+"Logan,Oklahoma",43169,41848.0,274970.0,,,
+"Love,Oklahoma",37547,9423.0,,,,
+"McClain,Oklahoma",45143,34506.0,216874.5,,,
+"McCurtain,Oklahoma",31648,33151.0,367000.0,,,
+"McIntosh,Oklahoma",33267,20252.0,146497.5,,,
+"Major,Oklahoma",43762,7527.0,,,,
+"Marshall,Oklahoma",32681,15840.0,220000.0,,,
+"Mayes,Oklahoma",35197,41259.0,195000.0,,,
+"Murray,Oklahoma",42289,13488.0,135000.0,,,
+"Muskogee,Oklahoma",36759,70990.0,129000.0,,,2.0
+"Noble,Oklahoma",41401,11561.0,105000.0,,,
+"Nowata,Oklahoma",36165,10536.0,,,,
+"Okfuskee,Oklahoma",30092,12191.0,,,,
+"Oklahoma,Oklahoma",52168,718633.0,229999.0,,,1.0
+"Okmulgee,Oklahoma",33971,40069.0,,,,
+"Osage,Oklahoma",34971,47472.0,179975.0,,,
+"Ottawa,Oklahoma",35746,31848.0,89900.0,,,
+"Pawnee,Oklahoma",35836,16577.0,114900.0,,,
+"Payne,Oklahoma",37159,77350.0,179700.0,,,
+"Pittsburg,Oklahoma",38551,45837.0,149500.0,,,
+"Pontotoc,Oklahoma",43148,37492.0,150000.0,,,
+"Pottawatomie,Oklahoma",37456,69442.0,168500.0,,,
+"Pushmataha,Oklahoma",31395,11572.0,125000.0,,,
+"Roger Mills,Oklahoma",48554,3647.0,,,,
+"Rogers,Oklahoma",45815,86905.0,207000.0,,,
+"Seminole,Oklahoma",34054,25482.0,79900.0,,,
+"Sequoyah,Oklahoma",33420,42391.0,149325.0,,,
+"Stephens,Oklahoma",41413,45048.0,110000.0,,,
+"Texas,Oklahoma",46597,20640.0,,,,
+"Tillman,Oklahoma",39961,7992.0,,,,
+"Tulsa,Oklahoma",62756,603403.0,213709.5,,,
+"Wagoner,Oklahoma",39550,73085.0,194246.0,,,
+"Washington,Oklahoma",64481,50976.0,129500.0,,,
+"Washita,Oklahoma",36490,11629.0,86750.0,,,
+"Woods,Oklahoma",42890,8878.0,96000.0,,,
+"Woodward,Oklahoma",43906,20081.0,150000.0,,,
+"Baker,Oregon",40699,16134.0,220000.0,,,
+"Benton,Oregon",47019,85579.0,399000.0,,,1.0
+"Clackamas,Oregon",58608,375992.0,489900.0,,,
+"Clatsop,Oregon",45069,37039.0,395000.0,,,1.0
+"Columbia,Oregon",44312,49351.0,359000.0,,,
+"Coos,Oregon",43620,63043.0,255000.0,,,
+"Crook,Oregon",40945,20978.0,360000.0,,,
+"Curry,Oregon",42657,22364.0,398500.0,,,
+"Deschutes,Oregon",55143,157733.0,459000.0,,,
+"Douglas,Oregon",40408,107667.0,259450.0,,,2.0
+"Gilliam,Oregon",48448,1871.0,,,,
+"Grant,Oregon",41939,7445.0,235900.0,,,
+"Harney,Oregon",39122,7422.0,135000.0,,,
+"Hood River,Oregon",56624,22346.0,493500.0,,,
+"Jackson,Oregon",46603,203206.0,375000.0,,,1.0
+"Jefferson,Oregon",32962,21720.0,310000.0,,,
+"Josephine,Oregon",40977,82713.0,335000.0,,,
+"Klamath,Oregon",39891,66380.0,256000.0,,,3.0
+"Lake,Oregon",39797,7895.0,143000.0,,,
+"Lane,Oregon",45919,351715.0,326450.0,,,2.0
+"Lincoln,Oregon",44119,46034.0,350000.0,,,
+"Linn,Oregon",42891,116672.0,283000.0,,,
+"Malheur,Oregon",30992,31313.0,,,,
+"Marion,Oregon",43042,315335.0,324900.0,,,
+"Morrow,Oregon",39095,11173.0,,,,
+"Multnomah,Oregon",57850,735334.0,434000.0,,,
+"Polk,Oregon",41379,75403.0,342000.0,,,
+"Sherman,Oregon",52296,1765.0,,,,
+"Tillamook,Oregon",44492,25250.0,375000.0,,,
+"Umatilla,Oregon",39684,75889.0,240000.0,,,
+"Union,Oregon",40547,25748.0,198500.0,,,
+"Wallowa,Oregon",45099,7008.0,,,,
+"Wasco,Oregon",43658,25213.0,300000.0,,,
+"Washington,Oregon",60971,529710.0,449900.0,,,1.0
+"Wheeler,Oregon",37142,1441.0,,,,
+"Yamhill,Oregon",45478,99193.0,414900.0,,,
+"Adams,Pennsylvania",49173,101407.0,240000.0,,,5.0
+"Allegheny,Pennsylvania",62958,1223348.0,195000.0,,,18.0
+"Armstrong,Pennsylvania",45510,68941.0,100500.0,,,4.0
+"Beaver,Pennsylvania",48763,170539.0,159000.0,,,9.0
+"Bedford,Pennsylvania",42889,49762.0,155000.0,,,4.0
+"Berks,Pennsylvania",49945,411442.0,184900.0,,,
+"Blair,Pennsylvania",46743,127089.0,124900.0,,,2.0
+"Bradford,Pennsylvania",41331,62622.0,149000.0,,,1.0
+"Bucks,Pennsylvania",73447,625249.0,389900.0,,,17.0
+"Butler,Pennsylvania",58927,183862.0,275000.0,,,6.0
+"Cambria,Pennsylvania",43420,143679.0,79200.0,,,7.0
+"Cameron,Pennsylvania",48651,5085.0,,,,
+"Carbon,Pennsylvania",50322,65249.0,174000.0,,,
+"Centre,Pennsylvania",46193,153990.0,289000.0,,,146.0
+"Chester,Pennsylvania",82846,498886.0,410450.0,,,6.0
+"Clarion,Pennsylvania",41732,39988.0,109900.0,,,5.0
+"Clearfield,Pennsylvania",44421,81642.0,119051.5,,,12.0
+"Clinton,Pennsylvania",39716,39238.0,142000.0,,,5.0
+"Columbia,Pennsylvania",42211,67295.0,159900.0,,,
+"Crawford,Pennsylvania",40969,88765.0,128000.0,,,5.0
+"Cumberland,Pennsylvania",55141,235406.0,264900.0,,,7.0
+"Dauphin,Pennsylvania",51100,268100.0,189000.0,,,10.0
+"Delaware,Pennsylvania",66617,558979.0,249999.0,,,10.0
+"Elk,Pennsylvania",48886,31946.0,97500.0,,,4.0
+"Erie,Pennsylvania",44903,280566.0,139900.0,,,3.0
+"Fayette,Pennsylvania",42649,136606.0,119900.0,,,6.0
+"Forest,Pennsylvania",22787,7716.0,84900.0,,,1.0
+"Franklin,Pennsylvania",46403,149618.0,199000.0,,,7.0
+"Fulton,Pennsylvania",45522,14845.0,164700.0,,,5.0
+"Greene,Pennsylvania",44751,38686.0,137900.0,,,7.0
+"Huntingdon,Pennsylvania",38558,45913.0,159900.0,,,1.0
+"Indiana,Pennsylvania",39923,88880.0,129000.0,,,8.0
+"Jefferson,Pennsylvania",44136,45200.0,110000.0,,,3.0
+"Juniata,Pennsylvania",45277,24636.0,139900.0,,,5.0
+"Lackawanna,Pennsylvania",47730,214437.0,149900.0,,,
+"Lancaster,Pennsylvania",52664,519445.0,279900.0,,,10.0
+"Lawrence,Pennsylvania",43929,91108.0,86900.0,,,4.0
+"Lebanon,Pennsylvania",48352,133568.0,249950.0,,,3.0
+"Lehigh,Pennsylvania",53614,349497.0,230000.0,,,3.0
+"Luzerne,Pennsylvania",45219,320918.0,140000.0,,,2.0
+"Lycoming,Pennsylvania",43823,116111.0,160950.0,,,3.0
+"McKean,Pennsylvania",45261,43450.0,79950.0,,,2.0
+"Mercer,Pennsylvania",43024,116638.0,129900.0,,,6.0
+"Mifflin,Pennsylvania",39738,46682.0,112000.0,,,2.0
+"Monroe,Pennsylvania",42722,169842.0,179000.0,,,3.0
+"Montgomery,Pennsylvania",80606,799874.0,348700.0,,,13.0
+"Montour,Pennsylvania",57426,18267.0,198500.0,,,
+"Northampton,Pennsylvania",54859,297735.0,239900.0,,,6.0
+"Northumberland,Pennsylvania",41712,94528.0,102250.0,,,1.0
+"Perry,Pennsylvania",44693,45969.0,,,,3.0
+"Philadelphia,Pennsylvania",55747,1526006.0,235000.0,,,9.0
+"Pike,Pennsylvania",47864,57369.0,179000.0,,,
+"Potter,Pennsylvania",42819,17457.0,125000.0,,,3.0
+"Schuylkill,Pennsylvania",42862,148289.0,84500.0,,,3.0
+"Snyder,Pennsylvania",42449,39702.0,189900.0,,,1.0
+"Somerset,Pennsylvania",42179,77742.0,149900.0,,,3.0
+"Sullivan,Pennsylvania",46097,6428.0,154000.0,,,
+"Susquehanna,Pennsylvania",45336,43356.0,179700.0,,,
+"Tioga,Pennsylvania",41039,41981.0,159900.0,,,1.0
+"Union,Pennsylvania",41246,44947.0,239900.0,,,5.0
+"Venango,Pennsylvania",42223,54984.0,92000.0,,,9.0
+"Warren,Pennsylvania",42875,41815.0,89900.0,,,6.0
+"Washington,Pennsylvania",59568,207820.0,205450.0,,,9.0
+"Wayne,Pennsylvania",43996,52822.0,187250.0,,,
+"Westmoreland,Pennsylvania",52200,365169.0,154900.0,,,15.0
+"Wyoming,Pennsylvania",45285,28276.0,178500.0,,,
+"York,Pennsylvania",50113,434972.0,235000.0,,,8.0
+"Bristol,Rhode Island",78805,49875.0,439450.0,,,
+"Kent,Rhode Island",59665,166158.0,283200.0,,,8.0
+"Newport,Rhode Island",68679,82888.0,535000.0,,,
+"Providence,Rhode Island",48137,626667.0,265000.0,,,6.0
+"Washington,Rhode Island",64158,126979.0,455000.0,,,3.0
+"Abbeville,South Carolina",34108,25417.0,209000.0,,,
+"Aiken,South Carolina",42511,160099.0,199900.0,,,3.0
+"Allendale,South Carolina",33237,10419.0,,,,
+"Anderson,South Carolina",39710,187126.0,209900.0,,,2.0
+"Bamberg,South Carolina",32858,15987.0,,,,
+"Barnwell,South Carolina",33363,22621.0,137450.0,,,
+"Beaufort,South Carolina",56711,162233.0,389600.0,,,1.0
+"Berkeley,South Carolina",40415,177843.0,279900.0,,,2.0
+"Calhoun,South Carolina",38451,15175.0,223450.0,,,
+"Charleston,South Carolina",61477,350209.0,425000.0,,,8.0
+"Cherokee,South Carolina",33197,55342.0,159950.0,,,
+"Chester,South Carolina",34014,33140.0,,,,
+"Chesterfield,South Carolina",31012,46734.0,142450.0,,,
+"Clarendon,South Carolina",33197,34971.0,185900.0,,,
+"Colleton,South Carolina",35697,38892.0,244000.0,,,
+"Darlington,South Carolina",37475,68681.0,159900.0,,,
+"Dillon,South Carolina",27718,32062.0,,,,
+"Dorchester,South Carolina",38892,136555.0,261450.0,,,
+"Edgefield,South Carolina",36436,26985.0,,,,
+"Fairfield,South Carolina",36758,23956.0,229245.5,,,
+"Florence,South Carolina",41833,136885.0,200000.0,,,
+"Georgetown,South Carolina",47071,60158.0,339900.0,,,2.0
+"Greenville,South Carolina",48644,451225.0,265000.0,,,6.0
+"Greenwood,South Carolina",37424,69661.0,139000.0,,,4.0
+"Hampton,South Carolina",32473,21090.0,124450.0,,,
+"Horry,South Carolina",37091,269291.0,222700.0,,,3.0
+"Jasper,South Carolina",29242,24777.0,293235.0,,,
+"Kershaw,South Carolina",41227,61697.0,216000.0,,,
+"Lancaster,South Carolina",49127,76652.0,313999.0,,,
+"Laurens,South Carolina",34622,66537.0,173000.0,,,
+"Lee,South Carolina",32708,19220.0,,,,
+"Lexington,South Carolina",46513,262391.0,203900.0,,,
+"McCormick,South Carolina",38513,10233.0,264900.0,,,
+"Marion,South Carolina",31492,33062.0,87000.0,,,
+"Marlboro,South Carolina",31562,28933.0,,,,
+"Newberry,South Carolina",37793,37508.0,,,,
+"Oconee,South Carolina",43312,74273.0,255000.0,,,
+"Orangeburg,South Carolina",33818,92501.0,147500.0,,,
+"Pickens,South Carolina",38344,119224.0,229900.0,,,3.0
+"Richland,South Carolina",45529,384504.0,209900.0,,,1.0
+"Saluda,South Carolina",34455,19875.0,,,,
+"Spartanburg,South Carolina",43148,284307.0,204999.0,,,2.0
+"Sumter,South Carolina",38603,107456.0,179000.0,,,1.0
+"Union,South Carolina",32745,28961.0,,,,
+"Williamsburg,South Carolina",32726,34423.0,,,,
+"York,South Carolina",46667,226073.0,312945.0,,,7.0
+"Aurora,South Dakota",45253,2710.0,,,,
+"Beadle,South Dakota",49246,17398.0,149900.0,,,
+"Bennett,South Dakota",29462,3431.0,,,,
+"Bon Homme,South Dakota",38851,7070.0,,,,
+"Brookings,South Dakota",46302,31965.0,174900.0,,,
+"Brown,South Dakota",52652,36531.0,157900.0,,,1.0
+"Brule,South Dakota",46570,5255.0,,,,
+"Buffalo,South Dakota",23341,1912.0,,,,
+"Butte,South Dakota",38639,10110.0,,,,
+"Campbell,South Dakota",50232,1466.0,,,,
+"Charles Mix,South Dakota",44877,9129.0,,,,
+"Clark,South Dakota",48261,3691.0,,,,
+"Clay,South Dakota",39485,13864.0,,,,
+"Codington,South Dakota",49518,27227.0,199900.0,,,
+"Corson,South Dakota",29927,4050.0,,,,
+"Custer,South Dakota",48334,8216.0,299900.0,,,
+"Davison,South Dakota",50794,19504.0,,,,
+"Day,South Dakota",47352,5710.0,,,,
+"Deuel,South Dakota",51766,4364.0,,,,
+"Dewey,South Dakota",35720,5301.0,,,,
+"Douglas,South Dakota",57808,3002.0,,,,
+"Edmunds,South Dakota",52029,4071.0,,,,
+"Fall River,South Dakota",46885,7094.0,209000.0,,,
+"Faulk,South Dakota",42762,2364.0,,,,
+"Grant,South Dakota",57069,7356.0,,,,
+"Gregory,South Dakota",48209,4271.0,,,,
+"Haakon,South Dakota",49880,1937.0,,,,
+"Hamlin,South Dakota",44209,5903.0,,,,
+"Hand,South Dakota",55673,3431.0,,,,
+"Hanson,South Dakota",66614,3331.0,,,,
+"Harding,South Dakota",51036,1255.0,,,,
+"Hughes,South Dakota",52986,17022.0,229000.0,,,
+"Hutchinson,South Dakota",53179,7343.0,,,,
+"Hyde,South Dakota",52133,1420.0,,,,
+"Jackson,South Dakota",26835,3031.0,,,,
+"Jerauld,South Dakota",54425,2071.0,,,,
+"Jones,South Dakota",60001,1006.0,,,,
+"Kingsbury,South Dakota",50975,5148.0,,,,
+"Lake,South Dakota",52401,11200.0,,,,
+"Lawrence,South Dakota",50232,24097.0,359900.0,,,
+"Lincoln,South Dakota",67364,44828.0,279900.0,,,
+"Lyman,South Dakota",47431,3755.0,,,,
+"McCook,South Dakota",52453,5618.0,,,,
+"McPherson,South Dakota",38625,2459.0,,,,
+"Marshall,South Dakota",48721,4656.0,,,,
+"Meade,South Dakota",43015,25434.0,249900.0,,,
+"Mellette,South Dakota",28152,2048.0,,,,
+"Miner,South Dakota",52938,2389.0,,,,
+"Minnehaha,South Dakota",57223,169468.0,225000.0,,,2.0
+"Moody,South Dakota",49690,6486.0,,,,
+"Oglala Lakota,South Dakota",25047,13586.0,,,,
+"Pennington,South Dakota",51369,100948.0,249900.0,,,1.0
+"Perkins,South Dakota",42195,2982.0,,,,
+"Potter,South Dakota",70768,2329.0,,,,
+"Roberts,South Dakota",36929,10149.0,,,,
+"Sanborn,South Dakota",48731,2355.0,,,,
+"Spink,South Dakota",52479,6415.0,,,,
+"Stanley,South Dakota",73776,2966.0,,,,
+"Sully,South Dakota",76036,1373.0,,,,
+"Todd,South Dakota",25157,9612.0,,,,
+"Tripp,South Dakota",49835,5644.0,,,,
+"Turner,South Dakota",62019,8347.0,,,,
+"Union,South Dakota",107497,14399.0,325000.0,,,
+"Walworth,South Dakota",45924,5438.0,,,,
+"Yankton,South Dakota",50275,22438.0,196700.0,,,
+"Ziebach,South Dakota",20571,2801.0,,,,
+"Anderson,Tennessee",41853,75129.0,199875.0,,,1.0
+"Bedford,Tennessee",37266,45058.0,232900.0,,,1.0
+"Benton,Tennessee",33661,16489.0,150000.0,,,
+"Bledsoe,Tennessee",26281,12876.0,,,,
+"Blount,Tennessee",42991,123010.0,244900.0,,,4.0
+"Bradley,Tennessee",39099,98963.0,235000.0,,,3.0
+"Campbell,Tennessee",33967,40716.0,179900.0,,,1.0
+"Cannon,Tennessee",36113,13801.0,224900.0,,,
+"Carroll,Tennessee",35900,28522.0,139950.0,,,
+"Carter,Tennessee",34579,57424.0,159000.0,,,1.0
+"Cheatham,Tennessee",43932,39105.0,269900.0,,,
+"Chester,Tennessee",33642,17131.0,159900.0,,,
+"Claiborne,Tennessee",35384,32213.0,169450.0,,,1.0
+"Clay,Tennessee",31013,7861.0,,,,
+"Cocke,Tennessee",31942,35662.0,160000.0,,,
+"Coffee,Tennessee",38656,52796.0,209900.0,,,1.0
+"Crockett,Tennessee",36560,14586.0,134950.0,,,
+"Cumberland,Tennessee",36613,56053.0,219900.0,,,
+"Davidson,Tennessee",66060,626681.0,325000.0,,,4.0
+"Decatur,Tennessee",42639,11757.0,189000.0,,,
+"DeKalb,Tennessee",40132,18723.0,,,,
+"Dickson,Tennessee",40556,49666.0,254950.0,,,1.0
+"Dyer,Tennessee",40642,38335.0,,,,1.0
+"Fayette,Tennessee",55364,38413.0,296900.0,,,
+"Fentress,Tennessee",32232,17959.0,159900.0,,,
+"Franklin,Tennessee",38880,41052.0,260000.0,,,
+"Gibson,Tennessee",38654,49683.0,,,,
+"Giles,Tennessee",38766,29485.0,198450.0,,,
+"Grainger,Tennessee",33490,22657.0,219900.0,,,
+"Greene,Tennessee",39971,68831.0,174900.0,,,
+"Grundy,Tennessee",31011,13703.0,175000.0,,,
+"Hamblen,Tennessee",36636,62544.0,172900.0,,,
+"Hamilton,Tennessee",51743,336463.0,294900.0,,,4.0
+"Hancock,Tennessee",27042,6819.0,,,,1.0
+"Hardeman,Tennessee",29430,27253.0,137900.0,,,
+"Hardin,Tennessee",39387,26026.0,217750.0,,,
+"Hawkins,Tennessee",34188,56833.0,169900.0,,,2.0
+"Haywood,Tennessee",32023,18787.0,,,,
+"Henderson,Tennessee",35748,27769.0,149000.0,,,
+"Henry,Tennessee",41989,32330.0,150000.0,,,
+"Hickman,Tennessee",32780,24690.0,199900.0,,,
+"Houston,Tennessee",32822,8426.0,,,,
+"Humphreys,Tennessee",38665,18538.0,,,,
+"Jackson,Tennessee",31189,11638.0,159900.0,,,
+"Jefferson,Tennessee",35866,51407.0,219000.0,,,
+"Johnson,Tennessee",32249,18244.0,244900.0,,,
+"Knox,Tennessee",49738,432226.0,249227.0,,,2.0
+"Lake,Tennessee",23230,7832.0,,,,
+"Lauderdale,Tennessee",29187,27815.0,86900.0,,,
+"Lawrence,Tennessee",35252,41869.0,188450.0,,,
+"Lewis,Tennessee",34432,12161.0,174900.0,,,
+"Lincoln,Tennessee",41388,33361.0,220400.0,,,
+"Loudon,Tennessee",48491,48556.0,323900.0,,,
+"McMinn,Tennessee",35897,52266.0,169000.0,,,
+"McNairy,Tennessee",32573,26075.0,149000.0,,,
+"Macon,Tennessee",33297,22248.0,174900.0,,,
+"Madison,Tennessee",42720,98294.0,169900.0,,,
+"Marion,Tennessee",38450,28237.0,214900.0,,,
+"Marshall,Tennessee",37550,30617.0,215000.0,,,
+"Maury,Tennessee",42696,80956.0,279900.0,,,
+"Meigs,Tennessee",33526,11753.0,233700.0,,,
+"Monroe,Tennessee",33338,44519.0,189000.0,,,1.0
+"Montgomery,Tennessee",41031,172331.0,225000.0,,,
+"Moore,Tennessee",41276,6362.0,,,,
+"Morgan,Tennessee",29380,21987.0,160000.0,,,
+"Obion,Tennessee",40666,31807.0,129900.0,,,
+"Overton,Tennessee",33701,22083.0,,,,
+"Perry,Tennessee",34268,7915.0,,,,
+"Pickett,Tennessee",39686,5077.0,179000.0,,,
+"Polk,Tennessee",33772,16825.0,230000.0,,,
+"Putnam,Tennessee",39509,72321.0,232900.0,,,3.0
+"Rhea,Tennessee",34147,31809.0,179950.0,,,
+"Roane,Tennessee",40980,54181.0,199949.5,,,
+"Robertson,Tennessee",42104,66283.0,269000.0,,,
+"Rutherford,Tennessee",41031,262604.0,279362.5,,,1.0
+"Scott,Tennessee",29758,22228.0,142000.0,,,1.0
+"Sequatchie,Tennessee",38003,14112.0,219900.0,,,
+"Sevier,Tennessee",39474,89889.0,275000.0,,,2.0
+"Shelby,Tennessee",49465,927644.0,186990.0,,,4.0
+"Smith,Tennessee",37742,19166.0,269900.0,,,
+"Stewart,Tennessee",39853,13324.0,157700.0,,,
+"Sullivan,Tennessee",42606,156823.0,172500.0,,,2.0
+"Sumner,Tennessee",48656,160645.0,309000.0,,,
+"Tipton,Tennessee",38547,61081.0,188500.0,,,
+"Trousdale,Tennessee",30090,7870.0,,,,
+"Unicoi,Tennessee",37423,18313.0,179900.0,,,
+"Union,Tennessee",31693,19109.0,199700.0,,,
+"Van Buren,Tennessee",30770,5548.0,,,,
+"Warren,Tennessee",33970,39839.0,169900.0,,,
+"Washington,Tennessee",43299,122979.0,199900.0,,,2.0
+"Wayne,Tennessee",28962,17021.0,160000.0,,,
+"Weakley,Tennessee",37316,35021.0,146000.0,,,
+"White,Tennessee",32477,25841.0,169000.0,,,
+"Williamson,Tennessee",94872,183182.0,550000.0,,,2.0
+"Wilson,Tennessee",49092,113993.0,357300.0,,,1.0
+"Anderson,Texas",34242,58458.0,165000.0,,,
+"Andrews,Texas",50011,14786.0,,,,
+"Angelina,Texas",38897,86771.0,189900.0,,,
+"Aransas,Texas",48389,23158.0,274495.0,,,
+"Archer,Texas",50310,9054.0,,,,
+"Armstrong,Texas",47995,1901.0,,,,
+"Atascosa,Texas",36660,44911.0,219400.0,,,
+"Austin,Texas",50702,28417.0,374375.0,,,
+"Bailey,Texas",42507,7165.0,,,,
+"Bandera,Texas",43459,20485.0,350000.0,,,
+"Bastrop,Texas",36561,74171.0,279990.0,,,
+"Baylor,Texas",41704,3726.0,,,,
+"Bee,Texas",28457,31861.0,150950.0,,,
+"Bell,Texas",42773,310235.0,204500.0,,,
+"Bexar,Texas",46058,1714773.0,247990.0,,,3.0
+"Blanco,Texas",51968,10497.0,359000.0,,,
+"Borden,Texas",63756,641.0,,,,
+"Bosque,Texas",41592,18212.0,219000.0,,,
+"Bowie,Texas",40010,92565.0,189900.0,,,
+"Brazoria,Texas",47239,313166.0,269900.0,,,
+"Brazos,Texas",39216,194851.0,253000.0,,,
+"Brewster,Texas",45652,9232.0,232750.0,,,
+"Briscoe,Texas",35243,1637.0,,,,
+"Brooks,Texas",33861,7223.0,,,,
+"Brown,Texas",38830,38106.0,149900.0,,,
+"Burleson,Texas",42629,17187.0,,,,
+"Burnet,Texas",46516,42750.0,360000.0,,,
+"Caldwell,Texas",33668,38066.0,253486.0,,,
+"Calhoun,Texas",38668,21381.0,230000.0,,,
+"Callahan,Texas",39392,13544.0,,,,
+"Cameron,Texas",28756,406220.0,197900.0,,,3.0
+"Camp,Texas",38660,12401.0,,,,
+"Carson,Texas",46373,6182.0,,,,
+"Cass,Texas",36905,30464.0,146111.0,,,
+"Castro,Texas",42786,8062.0,,,,
+"Chambers,Texas",53673,35096.0,286600.0,,,
+"Cherokee,Texas",34468,50845.0,266000.0,,,
+"Childress,Texas",30084,7041.0,,,,
+"Clay,Texas",42335,10752.0,,,,
+"Cochran,Texas",38312,3127.0,,,,
+"Coke,Texas",41895,3320.0,,,,
+"Coleman,Texas",40669,8895.0,77200.0,,,
+"Collin,Texas",65874,782341.0,369990.0,,,1.0
+"Collingsworth,Texas",33039,3057.0,,,,
+"Colorado,Texas",46821,20874.0,267737.0,,,
+"Comal,Texas",58067,108472.0,338000.0,,,
+"Comanche,Texas",42465,13974.0,,,,
+"Concho,Texas",19801,4087.0,,,,
+"Cooke,Texas",54174,38437.0,283900.0,,,
+"Coryell,Texas",33996,75388.0,168855.0,,,3.0
+"Cottle,Texas",57288,1505.0,,,,
+"Crane,Texas",47758,4375.0,,,,
+"Crockett,Texas",41472,3719.0,,,,
+"Crosby,Texas",30773,6059.0,,,,
+"Culberson,Texas",54180,2398.0,,,,
+"Dallam,Texas",52148,6703.0,,,,
+"Dallas,Texas",58993,2368139.0,310000.0,,,8.0
+"Dawson,Texas",37111,13833.0,,,,
+"Deaf Smith,Texas",40470,19372.0,,,,
+"Delta,Texas",34803,5231.0,,,,
+"Denton,Texas",55933,662614.0,349900.0,,,
+"DeWitt,Texas",54549,20097.0,,,,
+"Dickens,Texas",31586,2444.0,,,,
+"Dimmit,Texas",36639,9996.0,,,,
+"Donley,Texas",45736,3677.0,,,,
+"Duval,Texas",36418,11782.0,,,,
+"Eastland,Texas",71142,18583.0,,,,
+"Ector,Texas",47271,137130.0,255000.0,,,
+"Edwards,Texas",35182,2002.0,,,,
+"Ellis,Texas",44313,149610.0,299000.0,,,
+"El Paso,Texas",35856,800647.0,180000.0,,,2.0
+"Erath,Texas",39572,37890.0,269000.0,,,
+"Falls,Texas",34619,17866.0,,,,
+"Fannin,Texas",37605,33915.0,200000.0,,,
+"Fayette,Texas",53564,24554.0,369000.0,,,
+"Fisher,Texas",46444,3974.0,,,,
+"Floyd,Texas",37367,6446.0,,,,
+"Foard,Texas",42954,1336.0,,,,
+"Fort Bend,Texas",57540,585375.0,319000.0,,,1.0
+"Franklin,Texas",39730,10605.0,,,,
+"Freestone,Texas",37066,19816.0,190000.0,,,
+"Frio,Texas",27545,17217.0,,,,
+"Gaines,Texas",36009,17526.0,232000.0,,,
+"Galveston,Texas",51785,291309.0,275700.0,,,
+"Garza,Texas",30072,6461.0,,,,
+"Gillespie,Texas",60561,24837.0,477000.0,,,
+"Glasscock,Texas",102145,1226.0,,,,
+"Goliad,Texas",43858,7210.0,,,,
+"Gonzales,Texas",43342,19807.0,,,,
+"Gray,Texas",44002,22535.0,110000.0,,,
+"Grayson,Texas",42195,120877.0,239493.5,,,
+"Gregg,Texas",45401,121730.0,181500.0,,,3.0
+"Grimes,Texas",35450,26604.0,250500.0,,,
+"Guadalupe,Texas",44809,131533.0,260000.0,,,
+"Hale,Texas",32263,36273.0,117000.0,,,
+"Hall,Texas",30180,3353.0,,,,
+"Hamilton,Texas",60744,8517.0,168500.0,,,
+"Hansford,Texas",62998,5613.0,,,,
+"Hardeman,Texas",38212,4139.0,,,,
+"Hardin,Texas",45982,54635.0,214450.0,,,
+"Harris,Texas",56474,4092459.0,274900.0,,,3.0
+"Harrison,Texas",41917,65631.0,199999.0,,,
+"Hartley,Texas",62463,6062.0,,,,
+"Haskell,Texas",34530,5899.0,,,,
+"Hays,Texas",43719,157107.0,309999.0,,,
+"Hemphill,Texas",58484,3807.0,,,,
+"Henderson,Texas",39627,78532.0,244950.0,,,
+"Hidalgo,Texas",26410,774769.0,190000.0,,,2.0
+"Hill,Texas",39205,35089.0,178680.0,,,
+"Hockley,Texas",38975,22935.0,131000.0,,,
+"Hood,Texas",50741,51182.0,280610.0,,,
+"Hopkins,Texas",39120,35161.0,185000.0,,,
+"Houston,Texas",38081,23732.0,209000.0,,,
+"Howard,Texas",40255,35012.0,155000.0,,,
+"Hudspeth,Texas",32472,3476.0,,,,
+"Hunt,Texas",38029,86129.0,234945.0,,,
+"Hutchinson,Texas",41550,22150.0,85900.0,,,
+"Irion,Texas",68327,1599.0,,,,
+"Jack,Texas",44061,9044.0,,,,
+"Jackson,Texas",41770,14075.0,189500.0,,,
+"Jasper,Texas",40803,35710.0,159950.0,,,
+"Jeff Davis,Texas",42947,2342.0,,,,
+"Jefferson,Texas",44065,252273.0,185000.0,,,
+"Jim Hogg,Texas",30696,5300.0,,,,
+"Jim Wells,Texas",40570,40838.0,179000.0,,,
+"Johnson,Texas",41697,150934.0,265000.0,,,1.0
+"Jones,Texas",30559,20202.0,,,,
+"Karnes,Texas",49593,14824.0,,,,
+"Kaufman,Texas",42837,103350.0,263990.0,,,1.0
+"Kendall,Texas",84270,33410.0,428950.0,,,
+"Kenedy,Texas",43561,416.0,,,,
+"Kent,Texas",54858,808.0,,,,
+"Kerr,Texas",50150,49625.0,356250.0,,,
+"Kimble,Texas",43309,4607.0,,,,
+"King,Texas",55661,286.0,,,,
+"Kinney,Texas",30431,3598.0,,,,
+"Kleberg,Texas",38997,32061.0,125000.0,,,
+"Knox,Texas",38457,3719.0,,,,
+"Lamar,Texas",40763,49793.0,182500.0,,,
+"Lamb,Texas",38247,13977.0,,,,
+"Lampasas,Texas",49457,19677.0,229900.0,,,
+"La Salle,Texas",35809,6886.0,,,,
+"Lavaca,Texas",50919,19263.0,289000.0,,,
+"Lee,Texas",46713,16612.0,,,,
+"Leon,Texas",40388,16801.0,189900.0,,,
+"Liberty,Texas",37237,75643.0,208995.0,,,
+"Limestone,Texas",35771,23384.0,143375.0,,,
+"Lipscomb,Texas",64757,3302.0,,,,
+"Live Oak,Texas",35636,11531.0,175000.0,,,
+"Llano,Texas",47476,19301.0,499995.0,,,
+"Loving,Texas",56730,82.0,,,,
+"Lubbock,Texas",42569,278831.0,195000.0,,,
+"Lynn,Texas",33119,5915.0,,,,
+"McCulloch,Texas",37927,8283.0,129900.0,,,
+"McLennan,Texas",41254,234906.0,212667.5,,,1.0
+"McMullen,Texas",72150,707.0,,,,
+"Madison,Texas",30435,13664.0,239000.0,,,
+"Marion,Texas",38063,10546.0,174950.0,,,
+"Martin,Texas",56021,4799.0,,,,
+"Mason,Texas",44601,4012.0,,,,
+"Matagorda,Texas",40596,36702.0,209000.0,,,
+"Maverick,Texas",30505,54258.0,145000.0,,,
+"Medina,Texas",39403,46006.0,308795.0,,,
+"Menard,Texas",35311,2242.0,,,,
+"Midland,Texas",124455,136872.0,339888.0,,,
+"Milam,Texas",36135,24757.0,234500.0,,,
+"Mills,Texas",37153,4936.0,,,,
+"Mitchell,Texas",31913,9403.0,85000.0,,,
+"Montague,Texas",42074,19719.0,179000.0,,,
+"Montgomery,Texas",63605,455746.0,299900.0,,,
+"Moore,Texas",41275,21904.0,145000.0,,,
+"Morris,Texas",43421,12934.0,115950.0,,,
+"Motley,Texas",28938,1210.0,,,,
+"Nacogdoches,Texas",37755,64524.0,199900.0,,,
+"Navarro,Texas",37922,47735.0,227000.0,,,
+"Newton,Texas",33350,14445.0,,,,
+"Nolan,Texas",43087,15216.0,129000.0,,,
+"Nueces,Texas",44378,340223.0,229000.0,,,2.0
+"Ochiltree,Texas",57287,10223.0,,,,
+"Oldham,Texas",49120,2052.0,,,,
+"Orange,Texas",44938,81837.0,178500.0,,,
+"Palo Pinto,Texas",39125,28111.0,354500.0,,,1.0
+"Panola,Texas",43508,23796.0,199900.0,,,
+"Parker,Texas",53289,116927.0,347900.0,,,
+"Parmer,Texas",44981,10269.0,,,,
+"Pecos,Texas",36584,15507.0,142000.0,,,
+"Polk,Texas",39438,45413.0,189000.0,,,
+"Potter,Texas",43945,121073.0,159900.0,,,2.0
+"Presidio,Texas",42848,7818.0,332450.0,,,
+"Rains,Texas",33602,10914.0,,,,
+"Randall,Texas",47966,120725.0,224000.0,,,2.0
+"Reagan,Texas",48253,3367.0,,,,
+"Real,Texas",34687,3309.0,275000.0,,,
+"Red River,Texas",40648,12860.0,,,,
+"Reeves,Texas",39418,13783.0,,,,
+"Refugio,Texas",42606,7383.0,,,,
+"Roberts,Texas",41971,929.0,,,,
+"Robertson,Texas",40394,16622.0,269900.0,,,
+"Rockwall,Texas",61003,78337.0,319900.0,,,
+"Runnels,Texas",39816,10501.0,88500.0,,,
+"Rusk,Texas",36485,53330.0,159000.0,,,
+"Sabine,Texas",34631,10834.0,194900.0,,,
+"San Augustine,Texas",39879,8865.0,149000.0,,,
+"San Jacinto,Texas",34514,26384.0,183375.0,,,
+"San Patricio,Texas",43945,64804.0,207127.5,,,
+"San Saba,Texas",41233,6131.0,,,,
+"Schleicher,Texas",40136,3461.0,,,,
+"Scurry,Texas",42095,16921.0,128000.0,,,
+"Shackelford,Texas",130461,3378.0,,,,
+"Shelby,Texas",41666,25448.0,149500.0,,,
+"Sherman,Texas",49508,3034.0,,,,
+"Smith,Texas",55229,209714.0,259000.0,,,
+"Somervell,Texas",45756,8490.0,295000.0,,,
+"Starr,Texas",26316,60968.0,115000.0,,,
+"Stephens,Texas",39289,9630.0,132499.5,,,
+"Sterling,Texas",58174,1143.0,,,,
+"Stonewall,Texas",53416,1490.0,,,,
+"Sutton,Texas",61478,4128.0,150000.0,,,
+"Swisher,Texas",41977,7854.0,,,,
+"Tarrant,Texas",51239,1809034.0,274470.0,,,3.0
+"Taylor,Texas",45333,131506.0,203700.0,,,
+"Terrell,Texas",48024,984.0,,,,
+"Terry,Texas",32062,12651.0,142200.0,,,
+"Throckmorton,Texas",35941,1641.0,,,,
+"Titus,Texas",34718,32334.0,239000.0,,,
+"Tom Green,Texas",45993,110224.0,209000.0,,,
+"Travis,Texas",67504,1024266.0,384342.0,,,2.0
+"Trinity,Texas",34514,14585.0,,,,
+"Tyler,Texas",32081,21766.0,134500.0,,,
+"Upshur,Texas",36645,39309.0,168000.0,,,
+"Upton,Texas",44545,3355.0,,,,
+"Uvalde,Texas",39458,26405.0,236500.0,,,
+"Val Verde,Texas",36554,48879.0,185000.0,,,
+"Van Zandt,Texas",38200,52579.0,254500.0,,,
+"Victoria,Texas",46142,86793.0,214950.0,,,
+"Walker,Texas",28016,67861.0,236691.0,,,
+"Waller,Texas",39995,43205.0,308990.0,,,
+"Ward,Texas",49916,10658.0,240900.0,,,
+"Washington,Texas",52265,33718.0,299900.0,,,
+"Webb,Texas",31635,250304.0,189583.0,,,
+"Wharton,Texas",41473,41280.0,198000.0,,,
+"Wheeler,Texas",41801,5410.0,,,,
+"Wichita,Texas",43170,131500.0,129250.0,,,
+"Wilbarger,Texas",42041,13535.0,,,,
+"Willacy,Texas",28593,22134.0,195000.0,,,
+"Williamson,Texas",50776,422679.0,299500.0,,,1.0
+"Wilson,Texas",44255,42918.0,329900.0,,,
+"Winkler,Texas",57584,7110.0,,,,
+"Wise,Texas",43752,59127.0,334950.0,,,1.0
+"Wood,Texas",38152,41964.0,224900.0,,,
+"Yoakum,Texas",41112,7879.0,,,,
+"Young,Texas",50231,18550.0,142500.0,,,
+"Zapata,Texas",28294,14018.0,125000.0,,,
+"Zavala,Texas",29202,11677.0,,,,
+"Beaver,Utah",33739,6629.0,,,,
+"Box Elder,Utah",37390,49975.0,299000.0,,,
+"Cache,Utah",38974,112656.0,304500.0,,,
+"Carbon,Utah",38499,21403.0,139126.5,,,
+"Daggett,Utah",41157,1059.0,,,,
+"Davis,Utah",46286,306479.0,374900.0,,,2.0
+"Duchesne,Utah",36709,18607.0,199000.0,,,
+"Emery,Utah",33145,10976.0,,,,
+"Garfield,Utah",36688,5172.0,270000.0,,,
+"Grand,Utah",54010,9225.0,,,,
+"Iron,Utah",32197,46163.0,255000.0,,,
+"Juab,Utah",36087,10246.0,,,,
+"Kane,Utah",40257,7125.0,299000.0,,,
+"Millard,Utah",35196,12503.0,,,,
+"Morgan,Utah",52426,9469.0,,,,
+"Piute,Utah",33716,1556.0,,,,
+"Rich,Utah",35436,2264.0,,,,
+"Salt Lake,Utah",52639,1029655.0,390000.0,,,2.0
+"San Juan,Utah",26638,14746.0,,,,
+"Sanpete,Utah",29209,27822.0,249000.0,,,
+"Sevier,Utah",34117,20802.0,,,,
+"Summit,Utah",131606,36324.0,1100000.0,,,
+"Tooele,Utah",36836,58218.0,319900.0,,,
+"Uintah,Utah",31563,32588.0,200000.0,,,
+"Utah,Utah",40919,516564.0,366900.0,,,1.0
+"Wasatch,Utah",53285,23530.0,665000.0,,,
+"Washington,Utah",38847,138115.0,380500.0,,,
+"Wayne,Utah",39096,2778.0,,,,
+"Weber,Utah",41853,231236.0,284900.0,,,5.0
+"Addison,Vermont",51805,36821.0,286500.0,,,
+"Bennington,Vermont",54458,37125.0,315000.0,,,
+"Caledonia,Vermont",41246,31227.0,195000.0,,,
+"Chittenden,Vermont",60914,156545.0,371950.0,,,
+"Essex,Vermont",36008,6306.0,145000.0,,,
+"Franklin,Vermont",46220,47746.0,245000.0,,,
+"Grand Isle,Vermont",59204,6970.0,322000.0,,,1.0
+"Lamoille,Vermont",53953,24475.0,319000.0,,,
+"Orange,Vermont",47170,28936.0,235000.0,,,
+"Orleans,Vermont",43542,27231.0,205000.0,,,
+"Rutland,Vermont",52343,61642.0,220000.0,,,
+"Washington,Vermont",60255,59534.0,287500.0,,,
+"Windham,Vermont",50925,44513.0,279000.0,,,
+"Windsor,Vermont",58116,56670.0,325000.0,,,
+"Accomack,Virginia",42764,33164.0,189950.0,,,
+"Amelia,Virginia",44774,12690.0,254500.0,,,1.0
+"Amherst,Virginia",37160,32353.0,195000.0,,,3.0
+"Appomattox,Virginia",38302,14973.0,193200.0,,,1.0
+"Arlington,Virginia",95198,207627.0,699900.0,43.0,7.0,
+"Bath,Virginia",61628,4731.0,394500.0,,,3.0
+"Bedford,Virginia",46707,68676.0,290000.0,,,6.0
+"Bland,Virginia",37321,6824.0,,,,
+"Botetourt,Virginia",50274,33148.0,264950.0,,,4.0
+"Brunswick,Virginia",32682,17434.0,,,,7.0
+"Buchanan,Virginia",36229,24098.0,,,,
+"Buckingham,Virginia",30704,17146.0,139900.0,,,
+"Caroline,Virginia",41781,28545.0,242500.0,,,2.0
+"Charles City,Virginia",45824,7256.0,,,,1.0
+"Charlotte,Virginia",35970,12586.0,179000.0,,,1.0
+"Chesterfield,Virginia",53695,316236.0,329925.0,,,3.0
+"Clarke,Virginia",67111,14034.0,424900.0,,,
+"Craig,Virginia",38185,5190.0,,,,
+"Culpeper,Virginia",46510,46689.0,335000.0,2.0,1.0,1.0
+"Cumberland,Virginia",38698,10052.0,202450.0,,,
+"Dickenson,Virginia",32354,15903.0,95000.0,,,2.0
+"Essex,Virginia",42334,11151.0,211450.0,,,
+"Fauquier,Virginia",70787,65203.0,484900.0,2.0,1.0,5.0
+"Floyd,Virginia",38903,15279.0,194425.0,,,5.0
+"Fluvanna,Virginia",44693,25691.0,264960.0,,,1.0
+"Franklin,Virginia",40781,56159.0,359900.0,,,5.0
+"Giles,Virginia",40117,17286.0,138000.0,,,3.0
+"Gloucester,Virginia",50502,36858.0,287500.0,,,5.0
+"Goochland,Virginia",100545,21717.0,445000.0,,,
+"Grayson,Virginia",33013,15533.0,169000.0,,,1.0
+"Greene,Virginia",44383,18403.0,320000.0,,,
+"Halifax,Virginia",37329,36241.0,119450.0,,,3.0
+"Hanover,Virginia",60259,99863.0,364925.0,,,2.0
+"Henrico,Virginia",66836,306935.0,289970.0,,,6.0
+"Highland,Virginia",46113,2321.0,275000.0,,,
+"Isle of Wight,Virginia",55308,35270.0,339900.0,,,
+"King and Queen,Virginia",43361,6945.0,,,,
+"King George,Virginia",53000,23584.0,349900.0,,,2.0
+"King William,Virginia",46612,15935.0,227000.0,,,4.0
+"Lancaster,Virginia",60152,11391.0,399000.0,,,3.0
+"Lee,Virginia",30303,25587.0,85450.0,,,
+"Loudoun,Virginia",78070,312311.0,569900.0,54.0,16.0,5.0
+"Louisa,Virginia",42476,33153.0,299900.0,,,5.0
+"Lunenburg,Virginia",33755,12914.0,117000.0,,,2.0
+"Madison,Virginia",48822,13308.0,295000.0,,,3.0
+"Mathews,Virginia",56088,8978.0,300000.0,,,
+"Mecklenburg,Virginia",37240,32727.0,169700.0,,,1.0
+"Middlesex,Virginia",51213,10959.0,329000.0,,,
+"Nelson,Virginia",50717,15020.0,311000.0,,,1.0
+"New Kent,Virginia",70743,18429.0,325475.0,,,1.0
+"Northampton,Virginia",49313,12389.0,312500.0,,,
+"Northumberland,Virginia",52946,12330.0,339700.0,,,
+"Nottoway,Virginia",34897,15853.0,154950.0,,,1.0
+"Orange,Virginia",49010,33481.0,279000.0,,,3.0
+"Page,Virginia",39109,24042.0,209000.0,,,1.0
+"Patrick,Virginia",34070,18490.0,150000.0,,,1.0
+"Powhatan,Virginia",56607,28046.0,384975.0,,,
+"Prince Edward,Virginia",31890,23368.0,164400.0,,,
+"Pulaski,Virginia",40443,34872.0,160000.0,,,
+"Rappahannock,Virginia",65538,7373.0,489900.0,,,
+"Richmond,Virginia",36799,9254.0,200000.0,,,1.0
+"Russell,Virginia",33498,28897.0,124997.5,,,
+"Scott,Virginia",33769,23177.0,125000.0,,,2.0
+"Shenandoah,Virginia",45387,41993.0,220700.0,,,3.0
+"Smyth,Virginia",36955,32208.0,132500.0,,,2.0
+"Stafford,Virginia",55076,128961.0,399900.0,2.0,1.0,9.0
+"Surry,Virginia",46413,7058.0,199900.0,,,1.0
+"Sussex,Virginia",31378,12087.0,,,,1.0
+"Tazewell,Virginia",38888,45078.0,138500.0,,,3.0
+"Warren,Virginia",46743,37575.0,259900.0,,,6.0
+"Westmoreland,Virginia",43166,17454.0,229900.0,,,1.0
+"Wythe,Virginia",35608,29235.0,163750.0,,,
+"Alexandria,Virginia",88008,,,,,
+"Chesapeake,Virginia",50529,,,,,
+"Hampton,Virginia",43547,,,,,
+"Newport News,Virginia",43501,,,,,
+"Norfolk,Virginia",41822,,,,,
+"Portsmouth,Virginia",41169,,,,,
+"Richmond,Virginia",56306,9254.0,200000.0,,,1.0
+"Roanoke,Virginia",43451,92376.0,235500.0,,,4.0
+"Suffolk,Virginia",51798,,,,,
+"Virginia Beach,Virginia",58308,,,,,
+"Albemarle + Charlottesville,Virginia",74613,,,,,
+"Alleghany + Covington,Virginia",40061,,,,,
+"Augusta, Staunton + Waynesboro,Virginia",44316,,,,,
+"Campbell + Lynchburg,Virginia",37719,,,,,
+"Carroll + Galax,Virginia",36023,,,,,
+"Dinwiddie, Colonial Heights + Petersburg,Virginia",40352,,,,,
+"Fairfax, Fairfax City + Falls Church,Virginia",82441,,,,,
+"Frederick + Winchester,Virginia",50802,,,,,
+"Greensville + Emporia,Virginia",32391,,,,,
+"Henry + Martinsville,Virginia",39367,,,,,
+"James City + Williamsburg,Virginia",65906,,,,,
+"Montgomery + Radford,Virginia",37759,,,,,
+"Pittsylvania + Danville,Virginia",38497,,,,,
+"Prince George + Hopewell,Virginia",38779,,,,,
+"Prince William, Manassas + Manassas Park,Virginia",54740,,,,,
+"Roanoke + Salem,Virginia",52248,,,,,
+"Rockbridge, Buena Vista + Lexington,Virginia",40320,,,,,
+"Rockingham + Harrisonburg,Virginia",39721,,,,,
+"Southampton + Franklin,Virginia",42381,,,,,
+"Spotsylvania + Fredericksburg,Virginia",50790,,,,,
+"Washington + Bristol,Virginia",40912,,,,,
+"Wise + Norton,Virginia",32988,,,,,
+"York + Poquoson,Virginia",59113,,,,,
+"Adams,Washington",42800,18728.0,176950.0,,,
+"Asotin,Washington",47104,21623.0,239000.0,,,
+"Benton,Washington",47465,175177.0,334900.0,,,1.0
+"Chelan,Washington",54763,72453.0,359000.0,,,
+"Clallam,Washington",46120,71404.0,357000.0,,,
+"Clark,Washington",53423,425363.0,424900.0,,,3.0
+"Columbia,Washington",50073,4078.0,,,,
+"Cowlitz,Washington",44990,102410.0,285000.0,,,
+"Douglas,Washington",41508,38431.0,354450.0,,,1.0
+"Ferry,Washington",36071,7551.0,,,,
+"Franklin,Washington",37390,78163.0,294900.0,,,
+"Garfield,Washington",44510,2266.0,,,,
+"Grant,Washington",39789,89120.0,249900.0,,,2.0
+"Grays Harbor,Washington",40429,72797.0,214900.0,,,
+"Island,Washington",55724,78506.0,427000.0,,,
+"Jefferson,Washington",52580,29872.0,438950.0,,,
+"King,Washington",90438,1931249.0,635000.0,,,4.0
+"Kitsap,Washington",56244,251133.0,409974.5,,,
+"Kittitas,Washington",42603,40915.0,395000.0,,,
+"Klickitat,Washington",48654,20318.0,389000.0,,,
+"Lewis,Washington",43453,75455.0,269900.0,,,
+"Lincoln,Washington",46312,10570.0,200000.0,,,
+"Mason,Washington",42767,60699.0,289450.0,,,
+"Okanogan,Washington",42462,41120.0,272000.0,,,
+"Pacific,Washington",41740,20920.0,225000.0,,,
+"Pend Oreille,Washington",41664,13001.0,,,,
+"Pierce,Washington",52114,795225.0,373843.5,,,2.0
+"San Juan,Washington",76749,15769.0,700000.0,,,
+"Skagit,Washington",53060,116901.0,394500.0,,,
+"Skamania,Washington",45802,11066.0,422500.0,,,
+"Snohomish,Washington",55888,713335.0,489000.0,,,1.0
+"Spokane,Washington",46466,471221.0,299000.0,,,
+"Stevens,Washington",39505,43531.0,230000.0,,,
+"Thurston,Washington",51684,252264.0,339894.0,,,3.0
+"Wahkiakum,Washington",42423,3978.0,292500.0,,,
+"Walla Walla,Washington",46144,58781.0,310000.0,,,
+"Whatcom,Washington",48792,201140.0,400000.0,,,
+"Whitman,Washington",40935,44776.0,274900.0,,,
+"Yakima,Washington",43379,243231.0,266950.0,,,
+"Barbour,West Virgina",32290,,,,,
+"Berkeley,West Virgina",41201,,,,,
+"Boone,West Virgina",33592,,,,,
+"Braxton,West Virgina",31594,,,,,
+"Brooke,West Virgina",41740,,,,,
+"Cabell,West Virgina",42939,,,,,
+"Calhoun,West Virgina",30155,,,,,
+"Clay,West Virgina",30925,,,,,
+"Doddridge,West Virgina",28862,,,,,
+"Fayette,West Virgina",34577,,,,,
+"Gilmer,West Virgina",28917,,,,,
+"Grant,West Virgina",36691,,,,,
+"Greenbrier,West Virgina",38098,,,,,
+"Hampshire,West Virgina",35068,,,,,
+"Hancock,West Virgina",42128,,,,,
+"Hardy,West Virgina",34150,,,,,
+"Harrison,West Virgina",48226,,,,,
+"Jackson,West Virgina",38147,,,,,
+"Jefferson,West Virgina",49926,,,,,
+"Kanawha,West Virgina",48435,,,,,
+"Lewis,West Virgina",40653,,,,,
+"Lincoln,West Virgina",30549,,,,,
+"Logan,West Virgina",36525,,,,,
+"McDowell,West Virgina",30451,,,,,
+"Marion,West Virgina",41980,,,,,
+"Marshall,West Virgina",41028,,,,,
+"Mason,West Virgina",33318,,,,,
+"Mercer,West Virgina",37452,,,,,
+"Mineral,West Virgina",38815,,,,,
+"Mingo,West Virgina",32051,,,,,
+"Monongalia,West Virgina",44679,,,,,
+"Monroe,West Virgina",30359,,,,,
+"Morgan,West Virgina",34533,,,,,
+"Nicholas,West Virgina",34102,,,,,
+"Ohio,West Virgina",65100,,,,,
+"Pendleton,West Virgina",35140,,,,,
+"Pleasants,West Virgina",43883,,,,,
+"Pocahontas,West Virgina",38172,,,,,
+"Preston,West Virgina",35686,,,,,
+"Putnam,West Virgina",46941,,,,,
+"Raleigh,West Virgina",41115,,,,,
+"Randolph,West Virgina",36533,,,,,
+"Ritchie,West Virgina",37177,,,,,
+"Roane,West Virgina",34770,,,,,
+"Summers,West Virgina",32879,,,,,
+"Taylor,West Virgina",40675,,,,,
+"Tucker,West Virgina",41322,,,,,
+"Tyler,West Virgina",37336,,,,,
+"Upshur,West Virgina",33261,,,,,
+"Wayne,West Virgina",33637,,,,,
+"Webster,West Virgina",27816,,,,,
+"Wetzel,West Virgina",36791,,,,,
+"Wirt,West Virgina",32156,,,,,
+"Wood,West Virgina",42669,,,,,
+"Wyoming,West Virgina",30510,,,,,
+"Adams,Wisconsin",38736,20875.0,140000.0,,,
+"Ashland,Wisconsin",41106,16157.0,134900.0,,,
+"Barron,Wisconsin",49431,45870.0,183600.0,,,
+"Bayfield,Wisconsin",48542,15014.0,219000.0,,,
+"Brown,Wisconsin",52821,248007.0,219900.0,,,4.0
+"Buffalo,Wisconsin",44756,13587.0,149950.0,,,
+"Burnett,Wisconsin",42706,15457.0,198500.0,,,
+"Calumet,Wisconsin",50776,48971.0,229950.0,,,
+"Chippewa,Wisconsin",46162,62415.0,196200.0,,,2.0
+"Clark,Wisconsin",40228,34690.0,129000.0,,,
+"Columbia,Wisconsin",51147,56833.0,235000.0,,,
+"Crawford,Wisconsin",41485,16644.0,149900.0,,,
+"Dane,Wisconsin",61304,488073.0,335000.0,,,5.0
+"Dodge,Wisconsin",44799,88759.0,179800.0,,,
+"Door,Wisconsin",63178,27785.0,299900.0,,,
+"Douglas,Wisconsin",43004,44159.0,169900.0,,,
+"Dunn,Wisconsin",39948,43857.0,189000.0,,,
+"Eau Claire,Wisconsin",48240,98736.0,204900.0,,,1.0
+"Florence,Wisconsin",54346,4423.0,,,,
+"Fond du Lac,Wisconsin",48126,101633.0,152500.0,,,1.0
+"Forest,Wisconsin",41517,9304.0,134900.0,,,
+"Grant,Wisconsin",43310,51208.0,159900.0,,,
+"Green,Wisconsin",51026,36842.0,,,,
+"Green Lake,Wisconsin",46152,19051.0,223900.0,,,
+"Iowa,Wisconsin",48073,23687.0,229500.0,,,
+"Iron,Wisconsin",51471,5916.0,179000.0,,,
+"Jackson,Wisconsin",46528,20449.0,149900.0,,,
+"Jefferson,Wisconsin",46241,83686.0,235000.0,,,
+"Juneau,Wisconsin",37898,26664.0,149950.0,,,
+"Kenosha,Wisconsin",46874,166426.0,229900.0,,,2.0
+"Kewaunee,Wisconsin",46197,20574.0,167450.0,,,
+"La Crosse,Wisconsin",50107,114638.0,232500.0,,,5.0
+"Lafayette,Wisconsin",43042,16836.0,,,,
+"Langlade,Wisconsin",43223,19977.0,143950.0,,,
+"Lincoln,Wisconsin",45766,28743.0,159950.0,,,
+"Manitowoc,Wisconsin",47675,81442.0,142500.0,,,
+"Marathon,Wisconsin",50111,134063.0,169900.0,,,1.0
+"Marinette,Wisconsin",44014,41749.0,129900.0,,,
+"Marquette,Wisconsin",41182,15404.0,139900.0,,,
+"Menominee,Wisconsin",30371,4232.0,,,,
+"Milwaukee,Wisconsin",47589,947735.0,170000.0,,,2.0
+"Monroe,Wisconsin",41779,44673.0,174950.0,,,
+"Oconto,Wisconsin",45609,37660.0,159900.0,,,
+"Oneida,Wisconsin",51715,35998.0,199900.0,,,
+"Outagamie,Wisconsin",51230,176695.0,209900.0,,,5.0
+"Ozaukee,Wisconsin",83992,86395.0,369950.0,,,
+"Pepin,Wisconsin",47961,7469.0,,,,
+"Pierce,Wisconsin",45936,41019.0,255000.0,,,
+"Polk,Wisconsin",46514,44205.0,215000.0,,,
+"Portage,Wisconsin",45886,70019.0,194900.0,,,1.0
+"Price,Wisconsin",45320,14159.0,119900.0,,,
+"Racine,Wisconsin",49749,195408.0,220000.0,,,1.0
+"Richland,Wisconsin",43233,18021.0,,,,
+"Rock,Wisconsin",44204,160331.0,189000.0,,,3.0
+"Rusk,Wisconsin",44199,14755.0,146500.0,,,
+"St. Croix,Wisconsin",55543,84345.0,,,,
+"Sauk,Wisconsin",48365,61976.0,229900.0,,,
+"Sawyer,Wisconsin",45915,16557.0,244900.0,,,
+"Shawano,Wisconsin",42290,41949.0,139000.0,,,
+"Sheboygan,Wisconsin",52851,115507.0,189900.0,,,2.0
+"Taylor,Wisconsin",39051,20689.0,159000.0,,,
+"Trempealeau,Wisconsin",44698,28816.0,189900.0,,,
+"Vernon,Wisconsin",40356,29773.0,199950.0,,,
+"Vilas,Wisconsin",53983,21430.0,269900.0,,,
+"Walworth,Wisconsin",50023,102228.0,299500.0,,,
+"Washburn,Wisconsin",47218,15911.0,235000.0,,,
+"Washington,Wisconsin",58601,131887.0,287900.0,,,2.0
+"Waukesha,Wisconsin",72650,389891.0,349900.0,,,10.0
+"Waupaca,Wisconsin",45629,52410.0,167000.0,,,
+"Waushara,Wisconsin",41204,24496.0,149900.0,,,
+"Winnebago,Wisconsin",48101,166994.0,179250.0,,,2.0
+"Wood,Wisconsin",46743,74749.0,134900.0,,,2.0
+"Albany,Wyoming",40444,36299.0,265000.0,,,
+"Big Horn,Wyoming",36903,11668.0,,,,
+"Campbell,Wyoming",52824,46133.0,229000.0,,,
+"Carbon,Wyoming",58372,15885.0,175900.0,,,
+"Converse,Wyoming",55011,13833.0,229925.0,,,
+"Crook,Wyoming",46081,7083.0,269900.0,,,
+"Fremont,Wyoming",43633,40123.0,225450.0,,,
+"Goshen,Wyoming",43348,13249.0,161750.0,,,
+"Hot Springs,Wyoming",55232,4812.0,161250.0,,,
+"Johnson,Wyoming",51314,8569.0,248000.0,,,1.0
+"Laramie,Wyoming",52039,91738.0,296450.0,,,
+"Lincoln,Wyoming",43049,18106.0,360000.0,,,
+"Natrona,Wyoming",69379,75450.0,216900.0,,,
+"Niobrara,Wyoming",51357,2484.0,,,,
+"Park,Wyoming",54308,28205.0,350000.0,,,1.0
+"Platte,Wyoming",48442,8667.0,190000.0,,,
+"Sheridan,Wyoming",58223,29116.0,275000.0,,,
+"Sublette,Wyoming",51361,10247.0,260000.0,,,
+"Sweetwater,Wyoming",53145,43806.0,235000.0,,,
+"Teton,Wyoming",251728,21294.0,1662500.0,,,
+"Uinta,Wyoming",40280,21118.0,199900.0,,,
+"Washakie,Wyoming",48184,8533.0,154900.0,,,
+"Weston,Wyoming",44737,7208.0,182450.0,,,
+"Weston,Wyoming",44737,7208.0,182450.0,,,
