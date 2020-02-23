@@ -18,3 +18,4 @@ for entry in data:
             file1.write(str(entry2["long_name"]) + '\n')
     sum += 1
 print(sum)
+file1.close()
